@@ -1,0 +1,14 @@
+input_word,input_gender,expected_obl_sg,expected_obl_pl,expected_gender,expected_noun_type
+mas,other,mases,masen,masculine,oiko
+kher,masculine,kheres,kheren,masculine,oiko
+sudcas,masculine,sudcas,sudcen,masculine,xeno
+trapišagos,masculine,trapišagos,trapišagen,masculine,xeno
+uraviben,other,uravibnas,uravibnen,masculine,oiko
+raklo,masculine,rakles,raklen,masculine,oiko
+voďi,other,voďes,voďen,masculine,oiko
+učiteľka,feminine,učiteľka,učiteľken,feminine,xeno
+rakľi,feminine,rakľa,rakľen,feminine,oiko
+phen,feminine,phena,phenen,feminine,oiko
+phral,masculine,phrales,phralen,masculine,oiko
+khosno,masculine,khosnes,khosnen,masculine,oiko
+piri,feminine,pira,piren,feminine,oiko

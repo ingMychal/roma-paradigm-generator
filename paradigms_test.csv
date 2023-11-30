@@ -1,0 +1,11 @@
+input_word,input_obl_sg,input_obl_pl,input_gender,input_noun_type,input_animacy,nom_sg,gen_sg,dat_sg,aku_sg,voc_sg,lok_sg,abl_sg,ins_sg,nom_pl,gen_pl,dat_pl,aku_pl,voc_pl,lok_pl,abl_pl,ins_pl
+mas,mases,masen,masculine,oiko,neživotné,mas,maseskero,maseske,mas,mas,maseste,masestar,maseha,masa,masengero,masenge,masa,masa,masende,masendar,masenca
+kher,kheres,kheren,masculine,oiko,neživotné,kher,khereskero,khereske,kher,kher,khereste,kherestar,khereha,khera,kherengero,kherenge,khera,khera,kherende,kherendar,kherenca
+sudcas,sudcas,sudcen,masculine,xeno,životné,sudcas,sudcaskero,sudcaske,sudcas,sudcona,sudcaste,sudcastar,sudcaha,sudci,sudcengero,sudcenge,sudcen,sudcale,sudcende,sudcendar,sudcenca
+trapišagos,trapišagos,trapišagen,masculine,xeno,neživotné,trapišagos,trapišagoskero,trapišagoske,trapišagos,trapišagos,trapišagoste,trapišagostar,trapišagoha,trapišagi,trapišagengero,trapišagenge,trapišagen,trapišagen,trapišagende,trapišagendar,trapišagenca
+uraviben,uravibnas,uravibnen,masculine,oiko,neživotné,uraviben,uravibnaskero,uravibnaske,uraviben,uraviben,uravibnaste,uravibnastar,uravibnaha,uravibena,uravibnengero,uravibnenge,uravibena,uravibena,uravibnende,uravibnendar,uravibnenca
+khoskerdo,khoskerdes,khoskerden,masculine,oiko,neživotné,khoskerdo,khoskerdeskero,khoskerdeske,khoskerdo,khoskerdo,khoskerdeste,khoskerdestar,khoskerdeha,khoskerde,khoskerdengero,khoskerdenge,khoskerde,khoskerde,khoskerdende,khoskerdendar,khoskerdenca
+voďi,voďes,voďen,masculine,oiko,životné,voďi,voďeskero,voďeske,voďes,voďieja,voďeste,voďestar,voďeha,voďa,voďengero,voďenge,voďen,voďiale,voďende,voďendar,voďenca
+učiťeľka,učiteľka,učiteľken,feminine,xeno,životné,učiťeľka,učiteľkakero,učiteľkake,učiťeľka,učiťeľka,učiteľkate,učiteľkatar,učiteľkaha,učiťeľki,učiteľkengero,učiteľkenge,učiteľken,učiťeľki,učiteľkende,učiteľkendar,učiteľkenca
+rakľi,rakľa,rakľen,feminine,oiko,životné,rakľi,rakľakero,rakľake,rakľa,rakľije,rakľate,rakľatar,rakľaha,rakľa,rakľengero,rakľenge,rakľen,rakľale,rakľende,rakľendar,rakľenca
+phen,phena,phenen,feminine,oiko,životné,phen,phenakero,phenake,phena,phenije,phenate,phenatar,phenaha,phena,phenengero,phenenge,phenen,phenale,phenende,phenendar,phenenca
