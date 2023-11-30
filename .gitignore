@@ -161,7 +161,7 @@ cython_debug/
 
 testik.py
 .DS_Store
-# /data/SRO.xml
+/data/SRO.xml
 bulk_paradigm_generate.py
 input_paradigm.csv
 output_paradigm.csv
