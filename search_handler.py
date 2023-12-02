@@ -61,32 +61,25 @@ def search_word(search_term):
                 # Compare search_term and lemma_rom
                 if replace_special_characters(search_term) == replace_special_characters(lemma_rom):
                     posROM_elem = sense_element.find('./posROM')
-                    # Check if pos_rom_element exists and has text attribute before accessing it
                     if posROM_elem is not None and posROM_elem.text is not None:
                         pos_rom = clean_text(posROM_elem.text)
                         part_of_speech = get_pos_category(pos_rom)
                         gender = get_gender_category(pos_rom)
 
-                        # Construct the search result message
-                        result_message = {
+                        return {
                             "word": lemma_rom,
                             "part_of_speech": part_of_speech,
-                            "gender": gender
+                            "gender": gender,
                         }
-
-                        return result_message
-                    else:
-                        # Handle the case where pos_rom_element or pos_rom_element.text is None
-                        raise ValueError(f"No valid posROM element found for '{lemma_rom}'.")
-                               
+                    raise ValueError(f"No valid posROM element found for '{lemma_rom}'.")
+                
         # If the word is not found, set an appropriate message and return
-        result_message = f"Ma ruš! We do not have '{search_term}' in our dictionary."
-        return result_message
+        return f"Ma ruš! We do not have '{search_term}' in our dictionary."
+
 
     except Exception as e:
         # Handle exceptions, log the error, and provide a meaningful message to the user
-        error_message = f"An error occurred: {str(e)}"
-        return error_message
+        return f"An error occurred: {str(e)}"
 
 if __name__ == "__main__":
     result = search_word('čambel')

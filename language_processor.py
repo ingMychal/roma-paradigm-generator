@@ -1,24 +1,9 @@
-"""
-This module provides functions for language processing.
-
-Functions:
-- generate_obliquus(word, gender): Generate obliquus forms of a given word based on its gender and type.
-- generate_noun_paradigms(word, obliquus_singular, obliquus_plural, gender, noun_type, animacy):
-    Generate noun paradigms (singular and plural forms) based on the word's properties.
-
-"""
-
 from exceptions import masc_xeno, fem_oiko_i, masc_xeno_nom_pl_a
 
 def generate_obliquus(word,gender):
     """
     Generate obliquus forms of a given word based on its gender and type.
 
-    Parameters:
-    - word (str): The word for which obliquus forms are generated.
-    - gender (str): The gender of the word ('masculine', 'feminine', or 'other').
-
-    Returns: obliquus_singular, obliquus_plural, gender, noun_type
     """
     obliquus_singular, obliquus_plural = word, word
 
@@ -92,159 +77,106 @@ def generate_noun_paradigms(word, obliquus_singular, obliquus_plural, gender, no
 
     paradigms = {"Singulár": {}, "Plurál": {}}
 
-    if noun_type == 'xeno' and gender == 'masculine':
-        for case, (suffix_singular, suffix_plural) in suffixes.items():
-            if case == "nominatív":
-                paradigms["Singulár"][case] = word
-                paradigms["Plurál"][case] = word[:-2] + "a" if word in masc_xeno_nom_pl_a else word[:-2] + "i"
+    for case, (suffix_singular, suffix_plural) in suffixes.items():
+        singular, plural = apply_case_rules(word, obliquus_singular, obliquus_plural, gender, noun_type, animacy, case, suffix_singular, suffix_plural)
+        paradigms["Singulár"][case] = singular
+        paradigms["Plurál"][case] = plural
 
-            elif case == "akuzatív":
-                if animacy == "životné":
-                    paradigms["Singulár"][case] = word
-                    paradigms["Plurál"][case] = obliquus_plural
-                else:
-                    paradigms["Singulár"][case] = word
-                    paradigms["Plurál"][case] = obliquus_plural
-            
-            elif case == "vokatív":
-                if animacy == "životné":
-                    paradigms["Singulár"][case] = word[:-2] + "ona"
-                    paradigms["Plurál"][case] = word[:-2] + "ale"
-
-                else:
-                    paradigms["Singulár"][case] = word
-                    paradigms["Plurál"][case] = obliquus_plural
-            
-            elif case == "inštrumentál":
-                paradigms["Singulár"][case] = word[:-1] + "ha"
-                paradigms["Plurál"][case] = obliquus_plural + suffix_plural
-
-            else:
-                paradigms["Singulár"][case] = obliquus_singular + suffix_singular
-                paradigms["Plurál"][case] = obliquus_plural + suffix_plural
-
-
-    elif noun_type == 'oiko' and gender == 'masculine':
-        for case, (suffix_singular, suffix_plural) in suffixes.items():
-            if case == "nominatív":
-                paradigms["Singulár"][case] = word
-                if word.endswith("o"):
-                    paradigms["Plurál"][case] = word[:-1] + "e"
-                elif word in fem_oiko_i:
-                    paradigms["Plurál"][case] = word[:-1] + "a"
-                else:
-                    paradigms["Plurál"][case] = word + "a"
-
-            elif case == "akuzatív":
-                if animacy == "životné":
-                    paradigms["Singulár"][case] = obliquus_singular
-                    paradigms["Plurál"][case] = obliquus_plural
-                else:
-                    paradigms["Singulár"][case] = word 
-                    if word.endswith("o"):
-                        paradigms["Plurál"][case] = word[:-1] + "e"
-                    elif word in fem_oiko_i:
-                        paradigms["Plurál"][case] = word[:-1] + "a"
-                    else:
-                        paradigms["Plurál"][case] = word + "a"
-
-            elif case == "vokatív":
-                if animacy == "životné":
-                    paradigms["Singulár"][case] = word[:-1] + "eja" if word.endswith("o") else word + "eja"
-                    paradigms["Plurál"][case] = word[:-1] + "ale" if word.endswith("o") else word + "ale"
-                else:
-                    paradigms["Singulár"][case] = word 
-                    if word.endswith("o"):
-                        paradigms["Plurál"][case] = word[:-1] + "e"
-                    elif word in fem_oiko_i:
-                        paradigms["Plurál"][case] = word[:-1] + "a"
-                    else:
-                        paradigms["Plurál"][case] = word + "a"
-
-            elif case == "inštrumentál":
-                paradigms["Singulár"][case] = obliquus_singular[:-1] + suffix_singular
-                paradigms["Plurál"][case] = obliquus_plural + suffix_plural
-            
-            else:
-                paradigms["Singulár"][case] = obliquus_singular + suffix_singular
-                paradigms["Plurál"][case] = obliquus_plural + suffix_plural
-
-
-    elif noun_type == 'xeno' and gender == 'feminine':
-        for case, (suffix_singular, suffix_plural) in suffixes.items():
-            if case == "nominatív":
-                paradigms["Singulár"][case] = word
-                paradigms["Plurál"][case] = word[:-1] + "i"
-
-            elif case == "akuzatív":
-                if animacy == "životné":
-                    paradigms["Singulár"][case] = word
-                    paradigms["Plurál"][case] = obliquus_plural
-                else:
-                    paradigms["Singulár"][case] = word
-                    paradigms["Plurál"][case] = obliquus_plural
-
-            elif case == "vokatív":
-                if animacy == "životné":
-                    paradigms["Singulár"][case] = word
-                    paradigms["Plurál"][case] = word[:-1] + "i"
-                else:
-                    paradigms["Singulár"][case] = word
-                    paradigms["Plurál"][case] = obliquus_plural
-
-            else:
-                paradigms["Singulár"][case] = obliquus_singular + suffix_singular
-                paradigms["Plurál"][case] = obliquus_plural + suffix_plural
-        
-    
-    elif noun_type == 'oiko' and gender == 'feminine':
-        # Apply specific rules based on noun type and gender for singular and plural
-        for case, (suffix_singular, suffix_plural) in suffixes.items():
-            if case == "nominatív":
-                paradigms["Singulár"][case] = word
-                if word.endswith("i"):
-                    paradigms["Plurál"][case] = word[:-1] + "a"
-                else:
-                    paradigms["Plurál"][case] = word + "a"
-            
-            elif case == "akuzatív":
-                if animacy == "životné":
-                    paradigms["Singulár"][case] = obliquus_singular
-                    paradigms["Plurál"][case] = obliquus_plural
-                else:
-                    paradigms["Singulár"][case] = word
-                    paradigms["Plurál"][case] = obliquus_plural
-
-
-            elif case == "vokatív":
-                if animacy == "životné":
-                    if word.endswith("i"):
-                        paradigms["Singulár"][case] = word[:-1] + "ije"
-                        paradigms["Plurál"][case] = word[:-1] + "ale"   
-                    else:
-                        paradigms["Singulár"][case] = word + "ije"
-                        paradigms["Plurál"][case] = word + "ale"
-                else:
-                    paradigms["Singulár"][case] = word
-                    paradigms["Plurál"][case] = obliquus_plural
-
-                      
-            else:
-                paradigms["Singulár"][case] = obliquus_singular + suffix_singular
-                paradigms["Plurál"][case] = obliquus_plural + suffix_plural         
-
-                
-
-    else:
-            for case, (suffix_singular, suffix_plural) in suffixes.items():
-                paradigms["Singulár"][case] = obliquus_singular + suffix_singular
-                paradigms["Plurál"][case] = obliquus_plural + suffix_plural
-    
     return paradigms
+
+
+def apply_case_rules(word, obliquus_singular, obliquus_plural, gender, noun_type, animacy, case, suffix_singular, suffix_plural):
+    if case == "nominatív":
+        return nominative_case(word, gender, noun_type, obliquus_plural)
+    elif case == "akuzatív":
+        return accusative_case(word, obliquus_singular, obliquus_plural, suffix_singular, suffix_plural, gender, animacy, noun_type)
+    elif case == "vokatív":
+        return vocative_case(word,obliquus_singular,suffix_singular, obliquus_plural,suffix_plural, gender, animacy, noun_type)
+    elif case == "inštrumentál":
+        return instrumental_case(word, obliquus_singular,obliquus_plural, gender, noun_type, suffix_singular, suffix_plural)
+    else:
+        return obliquus_singular + suffix_singular, obliquus_plural + suffix_plural
+
+def nominative_case(word, gender, noun_type, obliquus_plural):
+    # sourcery skip: use-fstring-for-concatenation
+    if noun_type == 'xeno' and gender == 'masculine':
+        return word, word[:-2] + ("a" if word in masc_xeno_nom_pl_a else "i")
+    elif noun_type == 'oiko' and gender == 'masculine':
+        if word.endswith("o") or word in fem_oiko_i:
+            return word, word[:-1] + ("e" if word.endswith("o") else "a")
+        else:
+            return word, word + "a"
+    elif noun_type == 'xeno' and gender == 'feminine':
+        return word, word[:-1] + "i"
+    elif noun_type == 'oiko' and gender == 'feminine':
+        return (word, word[:-1] + "a") if word.endswith("i") else (word, word + "a")
+    else:
+        return word, obliquus_plural 
+def accusative_case(word, obliquus_singular,obliquus_plural, suffix_singular, suffix_plural, gender, animacy, noun_type):
+    # sourcery skip: use-fstring-for-concatenation
+    if noun_type == 'xeno':
+        return word,obliquus_plural
+    elif noun_type == 'oiko' and gender == 'masculine':
+        if animacy == "životné":
+            return obliquus_singular, obliquus_plural
+        if word.endswith("o") or word in fem_oiko_i:
+            return word, word[:-1] + ("e" if word.endswith("o") else "a")
+        return word,  word + "a"
+    elif noun_type == 'oiko' and gender == 'feminine':
+        return (obliquus_singular if animacy == "životné" else word), obliquus_plural
+    else:
+        return obliquus_singular + suffix_singular, obliquus_plural + suffix_plural
+
+
+
+def vocative_case(word,obliquus_singular,suffix_singular, obliquus_plural,suffix_plural, gender, animacy, noun_type):
+    if noun_type == 'xeno' and gender == 'masculine':
+        if animacy == "životné":
+            return word[:-2] + "ona", word[:-2] + "ale"
+        else:
+            return word, obliquus_plural
+    elif noun_type == 'oiko' and gender == 'masculine':
+        if animacy == "životné":
+            return word[:-1] + "eja" if word.endswith("o") else word + "eja", word[:-1] + "ale" if word.endswith("o") else word + "ale"
+        if word.endswith("o"):
+            return word, word[:-1] + "e"
+        elif word in fem_oiko_i:
+            return word, word[:-1] + "a"
+        else:
+            return word, word + "a"
+    elif noun_type == 'xeno' and gender == 'feminine':
+        if animacy == "životné":
+            return word,  word[:-1] + "i"
+        else:
+            return word, obliquus_plural
+    elif noun_type == 'oiko' and gender == 'feminine':
+        if animacy != "životné":
+            return word, obliquus_plural
+        if word.endswith("i"):
+            return word[:-1] + "ije", word[:-1] + "ale"   
+        else:
+            return word + "ije", word + "ale"
+    else:
+        return obliquus_singular + suffix_singular, obliquus_plural + suffix_plural
+
+
+def instrumental_case(word, obliquus_singular,obliquus_plural, gender, noun_type, suffix_singular, suffix_plural):
+    if noun_type == 'xeno' and gender == 'masculine':
+        return word[:-1] + "ha", obliquus_plural + suffix_plural
+    elif noun_type == 'oiko' and gender == 'masculine':
+        return obliquus_singular[:-1] + suffix_singular, obliquus_plural + suffix_plural
+    else:
+        return obliquus_singular + suffix_singular, obliquus_plural + suffix_plural
+
+
 if __name__ == '__main__':
             
-    test = generate_obliquus("khosno","masculine")
+    test = generate_obliquus("voďi","masculine")
     print(test)
-
-    test2 = generate_noun_paradigms("uraviben", "uravibnas",	"uravibnen",	"masculine",	"oiko",	"neživotné")
-    print(test2)
+    
+    # # test2 = generate_noun_paradigms("uraviben", "uravibnas",	"uravibnen",	"masculine",	"oiko",	"neživotné")
+    # # print(test2)
+    
+    # test3 = generate_noun_paradigms('mas','mases','masen','masculine','oiko','neživotné')
+    # print(test3)
+    
