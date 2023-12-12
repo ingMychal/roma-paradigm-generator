@@ -1,3 +1,8 @@
+'''
+This module processes nouns to return paradigms.
+
+'''
+
 from exceptions import masc_xeno, fem_oiko_i, masc_xeno_nom_pl_a
 
 def generate_obliquus(word,gender):
@@ -52,17 +57,6 @@ def generate_obliquus(word,gender):
 def generate_noun_paradigms(word, obliquus_singular, obliquus_plural, gender, noun_type, animacy):
     """
     Generate noun paradigms (singular and plural forms) based on the word's properties.
-
-    Parameters:
-    - word (str): The base word for which paradigms are generated.
-    - obliquus_singular (str): Obliquus singular form of the word.
-    - obliquus_plural (str): Obliquus plural form of the word.
-    - gender (str): Gender of the word ('masculine', 'feminine', or 'other').
-    - noun_type (str): Noun type ('xeno', 'oiko', or 'other').
-    - animacy (str): Animacy of the word ('životné' or 'neživotné').
-
-    Returns:
-    Dictionary: Paradigms for both singular and plural forms in different cases.
     """
     suffixes = {
         "nominatív": ["", ""],
@@ -98,7 +92,6 @@ def apply_case_rules(word, obliquus_singular, obliquus_plural, gender, noun_type
         return obliquus_singular + suffix_singular, obliquus_plural + suffix_plural
 
 def nominative_case(word, gender, noun_type, obliquus_plural):
-    # sourcery skip: use-fstring-for-concatenation
     if noun_type == 'xeno' and gender == 'masculine':
         return word, word[:-2] + ("a" if word in masc_xeno_nom_pl_a else "i")
     elif noun_type == 'oiko' and gender == 'masculine':
@@ -113,7 +106,6 @@ def nominative_case(word, gender, noun_type, obliquus_plural):
     else:
         return word, obliquus_plural 
 def accusative_case(word, obliquus_singular,obliquus_plural, suffix_singular, suffix_plural, gender, animacy, noun_type):
-    # sourcery skip: use-fstring-for-concatenation
     if noun_type == 'xeno':
         return word,obliquus_plural
     elif noun_type == 'oiko' and gender == 'masculine':
@@ -170,13 +162,12 @@ def instrumental_case(word, obliquus_singular,obliquus_plural, gender, noun_type
 
 
 if __name__ == '__main__':
-            
+              
     test = generate_obliquus("voďi","masculine")
     print(test)
     
-    # # test2 = generate_noun_paradigms("uraviben", "uravibnas",	"uravibnen",	"masculine",	"oiko",	"neživotné")
-    # # print(test2)
+    # test2 = generate_noun_paradigms("uraviben", "uravibnas", "uravibnen", "masculine", "oiko", "neživotné")
+    # print(test2)
     
     # test3 = generate_noun_paradigms('mas','mases','masen','masculine','oiko','neživotné')
     # print(test3)
-    

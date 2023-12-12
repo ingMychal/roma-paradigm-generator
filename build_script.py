@@ -13,6 +13,7 @@ Run this script directly to build the executable:
 import os
 import sys
 import subprocess
+import pkg_resources
 
 def run_tests():
     '''Run tests using pytest. Aborts the executable build if tests fail.'''
@@ -28,6 +29,15 @@ def run_tests():
         print(result.stdout)
         sys.exit(1)
 
+def get_package_location(package_name):
+    try:
+        distribution = pkg_resources.get_distribution(package_name)
+        return distribution.location
+    except pkg_resources.DistributionNotFound:
+        return None
+
+
+
 def build_executable():
     '''Build the executable using PyInstaller after running tests.'''
     run_tests()
@@ -40,14 +50,14 @@ def build_executable():
 
     # Construct the path to the data file relative to the script's location
     data_path = os.path.join(script_directory, "data", "SRO.xml")
-
+ 
     # Construct the PyInstaller command
     pyinstaller_command = (
         f'pyinstaller --onefile --add-data "{data_path}{os.pathsep}data" user_interface.py'
     )
 
     # Run the PyInstaller command
-    os.system(pyinstaller_command)
+    subprocess.run(pyinstaller_command, shell=True)
 
 if __name__ == "__main__":
     build_executable()

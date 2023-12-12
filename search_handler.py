@@ -1,14 +1,7 @@
 """
 This module provides functions to search for words in the xml file.
 
-Functions:
-    - clean_text(text): Clean and normalize text for comparison.
-    - replace_special_characters(word): Replace special characters in a word.
-    - get_pos_category(pos_rom): Determine part of speech category.
-    - get_gender_category(pos_rom): Determine gender category.
-    - search_word(search_term): Search for a word in the XML file and return information about it.
 """
-
 
 from xml_parser import parse_xml_data
 

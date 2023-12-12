@@ -1,13 +1,6 @@
 """
-Module: user_interface
-
 This module defines a simple Tkinter-based user interface for the Roma Paradigm Generator.
 It allows users to enter a word, search for its paradigms, and displays the results.
-
-Functions:
-- create_ui(): Create the main user interface with entry, search button, and result text.
-- update_result_text(result_message): Update the result text widget with the provided message.
-- perform_search(event, from_button, animacy): Perform a search based on user input and update the result text.
 
 Usage:
 This module is intended to be used as the main entry point for the Roma Paradigm Generator application.
@@ -15,45 +8,62 @@ This module is intended to be used as the main entry point for the Roma Paradigm
 
 import tkinter as tk
 from search_handler import search_word
-from language_processor import generate_noun_paradigms, generate_obliquus
+from nouns import generate_noun_paradigms, generate_obliquus
 
 def create_ui():
     """
     Create the main user interface with an entry, search button, and result text.
 
-    Returns:
-    Tuple: root (Tkinter root window), search_entry (Tkinter entry widget),
-           result_text (Tkinter text widget), animacy_var (Tkinter StringVar).
     """
     root = tk.Tk()
     root.title("Generator romskych paradigiem")
     root.geometry("800x900")
 
-    # Input field and Search button in one line
-    input_label = tk.Label(root, text="Which word do yo want to search?  Savo lav roden?  Aké slovo hľadáte?")
-    input_label.pack()
+    scroll_y = tk.Scrollbar(root)
+    scroll_y.pack(side="right", fill="y")
 
     input_frame = tk.Frame(root)
-    input_frame.pack()
+    input_frame.pack(pady=15)
 
-    search_entry = tk.Entry(input_frame, width=50)
-    search_entry.pack(side=tk.LEFT)
+    # Input field and Search button in one line
+    input_label = tk.Label(input_frame, 
+                           text="Which word do yo want to search? | Savo lav roden? | Aké slovo hľadáte?",
+                           font=("Helvetica", 11))
+    input_label.grid(row=0, column=0)
 
-    search_button = tk.Button(input_frame, text="Search Hľadať Rodel", command=lambda: perform_search(from_button=False, animacy=animacy_var.get()))
-    search_button.pack(side=tk.LEFT, padx=(10, 0))
+
+    search_entry = tk.Entry(
+        input_frame, 
+        width=50)
+    search_entry.grid(row=1, column=0)
+
+    search_button = tk.Button(input_frame, 
+                              text="Search | Hľadať | Rodel", 
+                              bg='#4FBCFF',
+                              command=lambda: perform_search(from_button=False, animacy=animacy_var.get()))
+    search_button.grid(row=1, column=1)
 
     # Radiobuttons for animacy below the first line
     animacy_var = tk.StringVar(value="neživotné")  # Set default value
     animacy_frame = tk.Frame(root)
     animacy_frame.pack()
 
-    tk.Radiobutton(animacy_frame, text="Animate / Životné / Džide", variable=animacy_var, value="životné").pack(side=tk.LEFT)
-    tk.Radiobutton(animacy_frame, text="Inanimate / Neživotné / Nadžide", variable=animacy_var, value="neživotné").pack(side=tk.LEFT)
+    tk.Radiobutton(animacy_frame, text="Animate | Životné | Džide", variable=animacy_var, value="životné").pack(side=tk.LEFT)
+    tk.Radiobutton(animacy_frame, text="Inanimate | Neživotné | Nadžide", variable=animacy_var, value="neživotné").pack(side=tk.LEFT)
 
     # Result_text 
-    result_text = tk.Text(root, height=70, width=70, wrap=tk.WORD, bg=root.cget("bg"), highlightthickness=0, bd=0, font=("Helvetica", 10))
+    result_text = tk.Text(root, 
+                          height=70, 
+                          width=70, 
+                          yscrollcommand=scroll_y.set,  
+                          wrap=tk.WORD,
+                          bg=root.cget("bg"), 
+                          highlightthickness=0, 
+                          bd=0,pady=20,padx=20, 
+                          font=("Helvetica", 14))
     result_text.pack()
 
+  
     # Set focus on the search entry
     search_entry.focus_set()
 
@@ -68,8 +78,6 @@ def update_result_text(result_message):
     """
     Update the result text widget with the provided message.
 
-    Parameters:
-    - result_message (str): The message to be displayed in the result text widget.
     """
     result_text.config(state='normal')  # Enable the Text widget for editing
     result_text.delete("1.0", tk.END)  # Clear the existing text
@@ -80,13 +88,6 @@ def update_result_text(result_message):
 def perform_search(event=None, from_button=False, animacy="neživotné"):
     """
     Perform a search based on user input and update the result text.
-
-    Parameters:
-    - event: Tkinter event (default: None).
-    - from_button (bool): Indicates if the search was triggered by a button click (default: False).
-    - animacy (str): Animacy of the word ('životné' or 'neživotné').
-
-    Note: This function is bound to both the 'Return' key and the search button click events.
 
     """
     search_term = search_entry.get()

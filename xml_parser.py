@@ -1,10 +1,5 @@
 """
-Functions:
-    - parse_xml_data(xml_file_path=None): Parse data from SRO.xml and return the root element.
-
-Usage:
-    >>> from xml_parser import parse_xml_data
-    >>> root = parse_xml_data()
+This module parses the data from SRO.xml and returns the root element.
 
 SRO.xml file is expected to be in the 'data' directory located in the same directory as this module.
 """

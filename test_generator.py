@@ -1,21 +1,13 @@
 """
 This module contains unit tests for the Roma Paradigm Generator application.
 
-It includes test cases for the following modules and functions:
-- search_handler:   clean_text, replace_special_characters, get_pos_category, 
-                    get_gender_category, search_word.
-- language_processor: generate_obliquus, generate_noun_paradigms.
-
-
-To run the tests, execute this module directly.
-
 """
 
 
 import unittest
 import csv
 from search_handler import clean_text, replace_special_characters, get_pos_category, get_gender_category, search_word
-from language_processor import generate_obliquus, generate_noun_paradigms
+from nouns import generate_obliquus, generate_noun_paradigms
 # from user_interface import perform_search
 
 
