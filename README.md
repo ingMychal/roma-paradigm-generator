@@ -2,7 +2,7 @@
 
 This tool generates Roma language (East Slovak Romani) paradigms based on input words. It works as an offline extension of [romskyslovnik.online](https://romskyslovnik.online/) and the current version supports noun paradigms generation.
 Verbs will be added soon.
-#### Disclaimer: The underlying data used in this project is not owned by the author, and only a limited sample is provided in the SRO.xml file for demonstration purposes. 
+#### Disclaimer: I do not own the underlying data used in this project. Only a limited sample is provided in the SRO.xml file for demonstration purposes. 
 
 
 ## Table of Contents
@@ -13,6 +13,10 @@ Verbs will be added soon.
 
 
 ## Dependencies
+
+
+If you just want to run the application and not build an executable you do not need to install any packages. Please proceed to [Usage](#usage).
+If you wish to build an executable first install dependencies:
 
 ```bash
 pip install -r requirements.txt
@@ -28,6 +32,8 @@ python user_interface.py
 ```
 Input eg. 'phral' and select appropriate animacy, in this case it is animate (Životné):
 ![](documentation_images/RPG_UI.png)
+
+
 
 
 
