@@ -54,7 +54,7 @@ def generate_obliquus(word,gender):
     return obliquus_singular, obliquus_plural, gender, noun_type
 
 
-def generate_noun_paradigms(word, obliquus_singular, obliquus_plural, gender, noun_type, animacy):
+def generate_noun_paradigms(word, gender, animacy):
     """
     Generate noun paradigms (singular and plural forms) based on the word's properties.
     """
@@ -70,6 +70,8 @@ def generate_noun_paradigms(word, obliquus_singular, obliquus_plural, gender, no
     }
 
     paradigms = {"Singulár": {}, "Plurál": {}}
+
+    obliquus_singular, obliquus_plural, gender, noun_type = generate_obliquus(word,gender)
 
     for case, (suffix_singular, suffix_plural) in suffixes.items():
         singular, plural = apply_case_rules(word, obliquus_singular, obliquus_plural, gender, noun_type, animacy, case, suffix_singular, suffix_plural)
@@ -161,13 +163,33 @@ def instrumental_case(word, obliquus_singular,obliquus_plural, gender, noun_type
         return obliquus_singular + suffix_singular, obliquus_plural + suffix_plural
 
 
+def format_noun_paradigms(forms):
+    """
+    Format noun paradigms for display.
+    """
+    formatted_output = ""
+    for grammatical_case, form in forms.items():
+        formatted_output += f"{grammatical_case}: {form}\n"
+
+        # Add spacing between lines
+        formatted_output += "\n"
+
+    return formatted_output
+
+
+
 if __name__ == '__main__':
               
-    test = generate_obliquus("voďi","masculine")
-    print(test)
+    # test = generate_obliquus("voďi","masculine")
+    # print(test)
     
-    # test2 = generate_noun_paradigms("uraviben", "uravibnas", "uravibnen", "masculine", "oiko", "neživotné")
-    # print(test2)
+    test2 = generate_noun_paradigms("uraviben", "uravibnas", "uravibnen", "masculine", "oiko", "neživotné")
+    print(test2)
+    print(type(test2))
+
+    test2 = format_noun_paradigms(test2)
+    print(type(test2))
+    print(test2)
     
     # test3 = generate_noun_paradigms('mas','mases','masen','masculine','oiko','neživotné')
     # print(test3)

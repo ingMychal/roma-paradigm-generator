@@ -17,6 +17,8 @@ def replace_special_characters(word):
 
 def get_pos_category(pos_rom):
     """Determine part of speech category."""
+    if "množné" in pos_rom:
+        return "množné"
     if "sloveso" in pos_rom:
         return "verb"
     elif "podstatné meno" in pos_rom:
@@ -73,6 +75,9 @@ def search_word(search_term):
     except Exception as e:
         # Handle exceptions, log the error, and provide a meaningful message to the user
         return f"An error occurred: {str(e)}"
+
+
+
 
 if __name__ == "__main__":
     result = search_word('čambel')

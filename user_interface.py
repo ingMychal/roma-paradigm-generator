@@ -8,7 +8,8 @@ This module is intended to be used as the main entry point for the Roma Paradigm
 
 import tkinter as tk
 from search_handler import search_word
-from nouns import generate_noun_paradigms, generate_obliquus
+from nouns import generate_noun_paradigms, format_noun_paradigms
+from verbs import process_verb
 
 def create_ui():
     """
@@ -51,6 +52,7 @@ def create_ui():
     tk.Radiobutton(animacy_frame, text="Animate | Životné | Džide", variable=animacy_var, value="životné").pack(side=tk.LEFT)
     tk.Radiobutton(animacy_frame, text="Inanimate | Neživotné | Nadžide", variable=animacy_var, value="neživotné").pack(side=tk.LEFT)
 
+    
     # Result_text 
     result_text = tk.Text(root, 
                           height=70, 
@@ -60,7 +62,7 @@ def create_ui():
                           bg=root.cget("bg"), 
                           highlightthickness=0, 
                           bd=0,pady=20,padx=20, 
-                          font=("Helvetica", 14))
+                          font=("TkFixedFont", 18))
     result_text.pack()
 
   
@@ -96,29 +98,32 @@ def perform_search(event=None, from_button=False, animacy="neživotné"):
     if "word" in search_results:
         word = search_results["word"]
         part_of_speech = search_results["part_of_speech"]
+        
 
-        if part_of_speech == "noun":
+        if part_of_speech == "množné":
+            update_result_text("Ma ruš! No paradigms for plural forms available.")
+
+
+        elif part_of_speech == "noun":
             gender = search_results["gender"]
-            obliquus_singular, obliquus_plural, gender, noun_type = generate_obliquus(word, gender)
-            paradigms = generate_noun_paradigms(word, obliquus_singular, obliquus_plural, gender, noun_type, animacy=animacy)
-
-            # Clear previous result
-            update_result_text("")
+            paradigms = generate_noun_paradigms(word, gender, animacy=animacy)
            
-            # Display paradigms
-            update_result_text("Singulár:")
-            for case, form in paradigms["Singulár"].items():
-                update_result_text(result_text.get("1.0", tk.END) + f"\n{case}: {form}")
+            update_result_text("")
 
-            update_result_text(result_text.get("1.0", tk.END) + "\n\nPlurál:")
-            for case, form in paradigms["Plurál"].items():
-                update_result_text(result_text.get("1.0", tk.END) + f"\n{case}: {form}")
+            # Display paradigms
+            formatted_paradigms = "Singulár:\n\n" + format_noun_paradigms(paradigms["Singulár"]) + "\n\nPlurál:\n\n" + format_noun_paradigms(paradigms["Plurál"])
+
+            update_result_text(formatted_paradigms)
+           
         
         elif part_of_speech == "verb":
-            update_result_text(f"Ma ruš! Slovesá ešte nevieme.")
+            formatted_paradigms = process_verb(word)
+            update_result_text("")
+            update_result_text(formatted_paradigms)
         
         else:
-            update_result_text(f"Ma ruš! No paradigms for {word} available yet.")
+            update_result_text(f"Ma ruš! No paradigms for {word} available.")
+    
     else:
         update_result_text(f"Result: {search_results}")
 
