@@ -41,9 +41,9 @@ def define_perf_root(pres_root, conj_class):
         
     elif conj_class == 2:
         if pres_root[-1] in 'lnrv':
-            return pres_root + "d"
+            return pres_root + "ď"
         elif pres_root[-1] in 'čgjkhm':
-            return pres_root + "l"
+            return pres_root + "ľ"
         elif pres_root[-1] in 'd':
             return pres_root + "ň"
         elif pres_root[-1] in 'sš':
@@ -127,6 +127,7 @@ def generate_verb_paradigms(verb):
                         paradigm = f"{mod_perf_root}{ending}"
                         paradigms[tense][person][number] = paradigm
                     else:
+
                         paradigm = f"{perf_root}{ending}"
                         paradigms[tense][person][number] = paradigm
                 else:
@@ -266,6 +267,6 @@ def process_verb(input_string):
 
 if __name__ == '__main__':
         
-            input_string = 'visarel pes'
+            input_string = 'dikhel'
             result = process_verb(input_string)
             print(result)
