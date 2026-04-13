@@ -27,7 +27,7 @@ Run the application:
 python user_interface.py
 ```
 Input eg. 'phral' and select appropriate animacy, in this case it is animate (Životné):
-![](documentation_images/RPG_UI.png)
+![](docs/RPG_UI.png)
 
 
 

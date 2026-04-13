@@ -109,7 +109,7 @@ class TestLanguageProcessor(unittest.TestCase):
 
     def test_generate_obliquus(self):
         '''Test the generate_obliquus function.'''
-        csv_path = os.path.join(_HERE, 'obliquus_test.csv')
+        csv_path = os.path.join(_HERE, 'tests', 'obliquus_test.csv')
         with open(csv_path, newline='', encoding='utf-8') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
@@ -127,7 +127,7 @@ class TestLanguageProcessor(unittest.TestCase):
 
     def test_generate_noun_paradigms(self):
         '''Test the generate_noun_paradigms function.'''
-        csv_path = os.path.join(_HERE, 'paradigms_test.csv')
+        csv_path = os.path.join(_HERE, 'tests', 'paradigms_test.csv')
         with open(csv_path, newline='', encoding='utf-8') as csvfile:
             reader = csv.DictReader(csvfile)
             for row in reader:
