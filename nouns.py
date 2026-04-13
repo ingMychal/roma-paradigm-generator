@@ -12,8 +12,8 @@ def generate_obliquus(word,gender):
     """
     obliquus_singular, obliquus_plural = word, word
 
-    # Abstract
-    if word.endswith(("ben", "pen", "ipen", "iben")):
+    # Abstract (-ipen/-iben must come before -pen/-ben to avoid being shadowed)
+    if word.endswith(("ipen", "iben", "ben", "pen")):
         noun_type, gender = "oiko", "masculine"
         
         obliquus_singular = word[:-2] + word[-1] + "as"
@@ -179,17 +179,12 @@ def format_noun_paradigms(forms):
 
 
 if __name__ == '__main__':
-              
-    # test = generate_obliquus("voďi","masculine")
-    # print(test)
-    
-    test2 = generate_noun_paradigms("uraviben", "uravibnas", "uravibnen", "masculine", "oiko", "neživotné")
-    print(test2)
-    print(type(test2))
+    test = generate_obliquus("voďi", "masculine")
+    print(test)
 
-    test2 = format_noun_paradigms(test2)
-    print(type(test2))
+    test2 = generate_noun_paradigms("uraviben", "masculine", "neživotné")
     print(test2)
-    
-    # test3 = generate_noun_paradigms('mas','mases','masen','masculine','oiko','neživotné')
-    # print(test3)
+    print(format_noun_paradigms(test2["Singulár"]))
+
+    test3 = generate_noun_paradigms('mas', 'masculine', 'neživotné')
+    print(test3)

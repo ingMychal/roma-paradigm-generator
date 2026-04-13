@@ -11,10 +11,10 @@ from search_handler import search_word
 from nouns import generate_noun_paradigms, format_noun_paradigms
 from verbs import process_verb
 
+
 def create_ui():
     """
     Create the main user interface with an entry, search button, and result text.
-
     """
     root = tk.Tk()
     root.title("Generator romskych paradigiem")
@@ -26,106 +26,115 @@ def create_ui():
     input_frame = tk.Frame(root)
     input_frame.pack(pady=15)
 
-    # Input field and Search button in one line
-    input_label = tk.Label(input_frame, 
-                           text="Which word do yo want to search? | Savo lav roden? | Aké slovo hľadáte?",
+    input_label = tk.Label(input_frame,
+                           text="Which word do you want to search? | Savo lav roden? | Aké slovo hľadáte?",
                            font=("Helvetica", 11))
     input_label.grid(row=0, column=0)
 
-
-    search_entry = tk.Entry(
-        input_frame, 
-        width=50)
+    search_entry = tk.Entry(input_frame, width=50)
     search_entry.grid(row=1, column=0)
 
-    search_button = tk.Button(input_frame, 
-                              text="Search | Hľadať | Rodel", 
-                              bg='#4FBCFF',
-                              command=lambda: perform_search(from_button=False, animacy=animacy_var.get()))
-    search_button.grid(row=1, column=1)
-
-    # Radiobuttons for animacy below the first line
-    animacy_var = tk.StringVar(value="neživotné")  # Set default value
+    # Animacy radio buttons
+    animacy_var = tk.StringVar(value="neživotné")
     animacy_frame = tk.Frame(root)
     animacy_frame.pack()
 
-    tk.Radiobutton(animacy_frame, text="Animate | Životné | Džide", variable=animacy_var, value="životné").pack(side=tk.LEFT)
-    tk.Radiobutton(animacy_frame, text="Inanimate | Neživotné | Nadžide", variable=animacy_var, value="neživotné").pack(side=tk.LEFT)
+    tk.Radiobutton(animacy_frame, text="Animate | Životné | Džide",
+                   variable=animacy_var, value="životné").pack(side=tk.LEFT)
+    tk.Radiobutton(animacy_frame, text="Inanimate | Neživotné | Nadžide",
+                   variable=animacy_var, value="neživotné").pack(side=tk.LEFT)
 
-    
-    # Result_text 
-    result_text = tk.Text(root, 
-                          height=70, 
-                          width=70, 
-                          yscrollcommand=scroll_y.set,  
+    result_text = tk.Text(root,
+                          height=70,
+                          width=70,
+                          yscrollcommand=scroll_y.set,
                           wrap=tk.WORD,
-                          bg=root.cget("bg"), 
-                          highlightthickness=0, 
-                          bd=0,pady=20,padx=20, 
+                          bg=root.cget("bg"),
+                          highlightthickness=0,
+                          bd=0, pady=20, padx=20,
                           font=("TkFixedFont", 18))
     result_text.pack()
 
-  
-    # Set focus on the search entry
+    # Wire the scrollbar to the text widget
+    scroll_y.config(command=result_text.yview)
+
+    search_button = tk.Button(
+        input_frame,
+        text="Search | Hľadať | Rodel",
+        bg='#4FBCFF',
+        command=lambda: perform_search(
+            search_entry=search_entry,
+            result_text=result_text,
+            animacy=animacy_var.get()
+        )
+    )
+    search_button.grid(row=1, column=1)
+
+    # Bind Enter key — only one binding, no duplicate on the button
+    root.bind('<Return>', lambda event: perform_search(
+        search_entry=search_entry,
+        result_text=result_text,
+        animacy=animacy_var.get()
+    ))
+
     search_entry.focus_set()
-
-    # Bind both the button click and Enter/Return key
-    root.bind('<Return>', lambda event=None: perform_search(event, from_button=False, animacy=animacy_var.get()))
-    search_button.bind('<Button-1>', lambda event=None: perform_search(event, from_button=True, animacy=animacy_var.get()))
-
     return root, search_entry, result_text, animacy_var
 
 
-def update_result_text(result_message):
-    """
-    Update the result text widget with the provided message.
-
-    """
-    result_text.config(state='normal')  # Enable the Text widget for editing
-    result_text.delete("1.0", tk.END)  # Clear the existing text
+def update_result_text(result_text, result_message):
+    """Update the result text widget with the provided message."""
+    result_text.config(state='normal')
+    result_text.delete("1.0", tk.END)
     result_text.insert(tk.END, result_message)
-    result_text.config(state='disabled')  # Disable the Text widget for editing
+    result_text.config(state='disabled')
 
 
-def perform_search(event=None, from_button=False, animacy="neživotné"):
+def perform_search(search_entry, result_text, animacy="neživotné"):
     """
     Perform a search based on user input and update the result text.
-
     """
-    search_term = search_entry.get()
-    search_results = search_word(search_term)
+    search_term = search_entry.get().strip()
+    if not search_term:
+        update_result_text(result_text, "Ma ruš! Please enter a word to search.")
+        return
 
-    if "word" in search_results:
-        word = search_results["word"]
-        part_of_speech = search_results["part_of_speech"]
-        
+    try:
+        search_results = search_word(search_term)
+    except Exception as e:
+        update_result_text(result_text, f"An error occurred: {e}")
+        return
 
-        if part_of_speech == "množné":
-            update_result_text("Ma ruš! No paradigms for plural forms available.")
+    # search_word returns a dict on success, a plain string when not found
+    if not isinstance(search_results, dict):
+        update_result_text(result_text, f"Result: {search_results}")
+        return
 
+    word = search_results["word"]
+    part_of_speech = search_results["part_of_speech"]
 
-        elif part_of_speech == "noun":
-            gender = search_results["gender"]
-            paradigms = generate_noun_paradigms(word, gender, animacy=animacy)
-           
-            update_result_text("")
+    if part_of_speech == "množné":
+        update_result_text(result_text, "Ma ruš! No paradigms for plural forms available.")
 
-            # Display paradigms
-            formatted_paradigms = "Singulár:\n\n" + format_noun_paradigms(paradigms["Singulár"]) + "\n\nPlurál:\n\n" + format_noun_paradigms(paradigms["Plurál"])
+    elif part_of_speech == "noun":
+        gender = search_results["gender"]
+        paradigms = generate_noun_paradigms(word, gender, animacy=animacy)
+        formatted = (
+            "Singulár:\n\n"
+            + format_noun_paradigms(paradigms["Singulár"])
+            + "\n\nPlurál:\n\n"
+            + format_noun_paradigms(paradigms["Plurál"])
+        )
+        update_result_text(result_text, formatted)
 
-            update_result_text(formatted_paradigms)
-           
-        
-        elif part_of_speech == "verb":
-            formatted_paradigms = process_verb(word)
-            update_result_text("")
-            update_result_text(formatted_paradigms)
-        
+    elif part_of_speech == "verb":
+        formatted = process_verb(word)
+        if formatted is None:
+            update_result_text(result_text, f"Ma ruš! Could not generate paradigms for '{word}'.")
         else:
-            update_result_text(f"Ma ruš! No paradigms for {word} available.")
-    
+            update_result_text(result_text, formatted)
+
     else:
-        update_result_text(f"Result: {search_results}")
+        update_result_text(result_text, f"Ma ruš! No paradigms for {word} available.")
 
 
 if __name__ == "__main__":
