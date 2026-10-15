@@ -1,0 +1,8323 @@
+{
+ "nouns": {
+  "mas|masculine|životné": {
+   "Singulár": {
+    "nominatív": "mas",
+    "genitív": "maseskero",
+    "datív": "maseske",
+    "akuzatív": "mases",
+    "vokatív": "maseja",
+    "lokál": "maseste",
+    "ablatív": "masestar",
+    "inštrumentál": "maseha"
+   },
+   "Plurál": {
+    "nominatív": "masa",
+    "genitív": "masengero",
+    "datív": "masenge",
+    "akuzatív": "masen",
+    "vokatív": "masale",
+    "lokál": "masende",
+    "ablatív": "masendar",
+    "inštrumentál": "masenca"
+   }
+  },
+  "mas|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "mas",
+    "genitív": "maseskero",
+    "datív": "maseske",
+    "akuzatív": "mas",
+    "vokatív": "mas",
+    "lokál": "maseste",
+    "ablatív": "masestar",
+    "inštrumentál": "maseha"
+   },
+   "Plurál": {
+    "nominatív": "masa",
+    "genitív": "masengero",
+    "datív": "masenge",
+    "akuzatív": "masa",
+    "vokatív": "masa",
+    "lokál": "masende",
+    "ablatív": "masendar",
+    "inštrumentál": "masenca"
+   }
+  },
+  "mas|feminine|životné": {
+   "Singulár": {
+    "nominatív": "mas",
+    "genitív": "maseskero",
+    "datív": "maseske",
+    "akuzatív": "mases",
+    "vokatív": "maseja",
+    "lokál": "maseste",
+    "ablatív": "masestar",
+    "inštrumentál": "maseha"
+   },
+   "Plurál": {
+    "nominatív": "masa",
+    "genitív": "masengero",
+    "datív": "masenge",
+    "akuzatív": "masen",
+    "vokatív": "masale",
+    "lokál": "masende",
+    "ablatív": "masendar",
+    "inštrumentál": "masenca"
+   }
+  },
+  "mas|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "mas",
+    "genitív": "maseskero",
+    "datív": "maseske",
+    "akuzatív": "mas",
+    "vokatív": "mas",
+    "lokál": "maseste",
+    "ablatív": "masestar",
+    "inštrumentál": "maseha"
+   },
+   "Plurál": {
+    "nominatív": "masa",
+    "genitív": "masengero",
+    "datív": "masenge",
+    "akuzatív": "masa",
+    "vokatív": "masa",
+    "lokál": "masende",
+    "ablatív": "masendar",
+    "inštrumentál": "masenca"
+   }
+  },
+  "mas|other|životné": {
+   "Singulár": {
+    "nominatív": "mas",
+    "genitív": "maseskero",
+    "datív": "maseske",
+    "akuzatív": "mases",
+    "vokatív": "maseja",
+    "lokál": "maseste",
+    "ablatív": "masestar",
+    "inštrumentál": "maseha"
+   },
+   "Plurál": {
+    "nominatív": "masa",
+    "genitív": "masengero",
+    "datív": "masenge",
+    "akuzatív": "masen",
+    "vokatív": "masale",
+    "lokál": "masende",
+    "ablatív": "masendar",
+    "inštrumentál": "masenca"
+   }
+  },
+  "mas|other|neživotné": {
+   "Singulár": {
+    "nominatív": "mas",
+    "genitív": "maseskero",
+    "datív": "maseske",
+    "akuzatív": "mas",
+    "vokatív": "mas",
+    "lokál": "maseste",
+    "ablatív": "masestar",
+    "inštrumentál": "maseha"
+   },
+   "Plurál": {
+    "nominatív": "masa",
+    "genitív": "masengero",
+    "datív": "masenge",
+    "akuzatív": "masa",
+    "vokatív": "masa",
+    "lokál": "masende",
+    "ablatív": "masendar",
+    "inštrumentál": "masenca"
+   }
+  },
+  "kher|masculine|životné": {
+   "Singulár": {
+    "nominatív": "kher",
+    "genitív": "khereskero",
+    "datív": "khereske",
+    "akuzatív": "kheres",
+    "vokatív": "khereja",
+    "lokál": "khereste",
+    "ablatív": "kherestar",
+    "inštrumentál": "khereha"
+   },
+   "Plurál": {
+    "nominatív": "khera",
+    "genitív": "kherengero",
+    "datív": "kherenge",
+    "akuzatív": "kheren",
+    "vokatív": "kherale",
+    "lokál": "kherende",
+    "ablatív": "kherendar",
+    "inštrumentál": "kherenca"
+   }
+  },
+  "kher|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "kher",
+    "genitív": "khereskero",
+    "datív": "khereske",
+    "akuzatív": "kher",
+    "vokatív": "kher",
+    "lokál": "khereste",
+    "ablatív": "kherestar",
+    "inštrumentál": "khereha"
+   },
+   "Plurál": {
+    "nominatív": "khera",
+    "genitív": "kherengero",
+    "datív": "kherenge",
+    "akuzatív": "khera",
+    "vokatív": "khera",
+    "lokál": "kherende",
+    "ablatív": "kherendar",
+    "inštrumentál": "kherenca"
+   }
+  },
+  "kher|feminine|životné": {
+   "Singulár": {
+    "nominatív": "kher",
+    "genitív": "kherakero",
+    "datív": "kherake",
+    "akuzatív": "khera",
+    "vokatív": "kherije",
+    "lokál": "kherate",
+    "ablatív": "kheratar",
+    "inštrumentál": "kheraha"
+   },
+   "Plurál": {
+    "nominatív": "khera",
+    "genitív": "kherengero",
+    "datív": "kherenge",
+    "akuzatív": "kheren",
+    "vokatív": "kherale",
+    "lokál": "kherende",
+    "ablatív": "kherendar",
+    "inštrumentál": "kherenca"
+   }
+  },
+  "kher|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "kher",
+    "genitív": "kherakero",
+    "datív": "kherake",
+    "akuzatív": "kher",
+    "vokatív": "kher",
+    "lokál": "kherate",
+    "ablatív": "kheratar",
+    "inštrumentál": "kheraha"
+   },
+   "Plurál": {
+    "nominatív": "khera",
+    "genitív": "kherengero",
+    "datív": "kherenge",
+    "akuzatív": "kheren",
+    "vokatív": "kheren",
+    "lokál": "kherende",
+    "ablatív": "kherendar",
+    "inštrumentál": "kherenca"
+   }
+  },
+  "kher|other|životné": {
+   "Singulár": {
+    "nominatív": "kher",
+    "genitív": "kherkero",
+    "datív": "kherke",
+    "akuzatív": "khera",
+    "vokatív": "kherije",
+    "lokál": "kherte",
+    "ablatív": "khertar",
+    "inštrumentál": "kherha"
+   },
+   "Plurál": {
+    "nominatív": "kher",
+    "genitív": "khergero",
+    "datív": "kherge",
+    "akuzatív": "kheren",
+    "vokatív": "kherale",
+    "lokál": "kherde",
+    "ablatív": "kherdar",
+    "inštrumentál": "kherca"
+   }
+  },
+  "kher|other|neživotné": {
+   "Singulár": {
+    "nominatív": "kher",
+    "genitív": "kherkero",
+    "datív": "kherke",
+    "akuzatív": "khera",
+    "vokatív": "kherije",
+    "lokál": "kherte",
+    "ablatív": "khertar",
+    "inštrumentál": "kherha"
+   },
+   "Plurál": {
+    "nominatív": "kher",
+    "genitív": "khergero",
+    "datív": "kherge",
+    "akuzatív": "kheren",
+    "vokatív": "kherale",
+    "lokál": "kherde",
+    "ablatív": "kherdar",
+    "inštrumentál": "kherca"
+   }
+  },
+  "sudcas|masculine|životné": {
+   "Singulár": {
+    "nominatív": "sudcas",
+    "genitív": "sudcaskero",
+    "datív": "sudcaske",
+    "akuzatív": "sudcas",
+    "vokatív": "sudcona",
+    "lokál": "sudcaste",
+    "ablatív": "sudcastar",
+    "inštrumentál": "sudcaha"
+   },
+   "Plurál": {
+    "nominatív": "sudci",
+    "genitív": "sudcengero",
+    "datív": "sudcenge",
+    "akuzatív": "sudcen",
+    "vokatív": "sudcale",
+    "lokál": "sudcende",
+    "ablatív": "sudcendar",
+    "inštrumentál": "sudcenca"
+   }
+  },
+  "sudcas|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "sudcas",
+    "genitív": "sudcaskero",
+    "datív": "sudcaske",
+    "akuzatív": "sudcas",
+    "vokatív": "sudcas",
+    "lokál": "sudcaste",
+    "ablatív": "sudcastar",
+    "inštrumentál": "sudcaha"
+   },
+   "Plurál": {
+    "nominatív": "sudci",
+    "genitív": "sudcengero",
+    "datív": "sudcenge",
+    "akuzatív": "sudcen",
+    "vokatív": "sudcen",
+    "lokál": "sudcende",
+    "ablatív": "sudcendar",
+    "inštrumentál": "sudcenca"
+   }
+  },
+  "sudcas|feminine|životné": {
+   "Singulár": {
+    "nominatív": "sudcas",
+    "genitív": "sudcaskero",
+    "datív": "sudcaske",
+    "akuzatív": "sudcas",
+    "vokatív": "sudcona",
+    "lokál": "sudcaste",
+    "ablatív": "sudcastar",
+    "inštrumentál": "sudcaha"
+   },
+   "Plurál": {
+    "nominatív": "sudci",
+    "genitív": "sudcengero",
+    "datív": "sudcenge",
+    "akuzatív": "sudcen",
+    "vokatív": "sudcale",
+    "lokál": "sudcende",
+    "ablatív": "sudcendar",
+    "inštrumentál": "sudcenca"
+   }
+  },
+  "sudcas|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "sudcas",
+    "genitív": "sudcaskero",
+    "datív": "sudcaske",
+    "akuzatív": "sudcas",
+    "vokatív": "sudcas",
+    "lokál": "sudcaste",
+    "ablatív": "sudcastar",
+    "inštrumentál": "sudcaha"
+   },
+   "Plurál": {
+    "nominatív": "sudci",
+    "genitív": "sudcengero",
+    "datív": "sudcenge",
+    "akuzatív": "sudcen",
+    "vokatív": "sudcen",
+    "lokál": "sudcende",
+    "ablatív": "sudcendar",
+    "inštrumentál": "sudcenca"
+   }
+  },
+  "sudcas|other|životné": {
+   "Singulár": {
+    "nominatív": "sudcas",
+    "genitív": "sudcaskero",
+    "datív": "sudcaske",
+    "akuzatív": "sudcas",
+    "vokatív": "sudcona",
+    "lokál": "sudcaste",
+    "ablatív": "sudcastar",
+    "inštrumentál": "sudcaha"
+   },
+   "Plurál": {
+    "nominatív": "sudci",
+    "genitív": "sudcengero",
+    "datív": "sudcenge",
+    "akuzatív": "sudcen",
+    "vokatív": "sudcale",
+    "lokál": "sudcende",
+    "ablatív": "sudcendar",
+    "inštrumentál": "sudcenca"
+   }
+  },
+  "sudcas|other|neživotné": {
+   "Singulár": {
+    "nominatív": "sudcas",
+    "genitív": "sudcaskero",
+    "datív": "sudcaske",
+    "akuzatív": "sudcas",
+    "vokatív": "sudcas",
+    "lokál": "sudcaste",
+    "ablatív": "sudcastar",
+    "inštrumentál": "sudcaha"
+   },
+   "Plurál": {
+    "nominatív": "sudci",
+    "genitív": "sudcengero",
+    "datív": "sudcenge",
+    "akuzatív": "sudcen",
+    "vokatív": "sudcen",
+    "lokál": "sudcende",
+    "ablatív": "sudcendar",
+    "inštrumentál": "sudcenca"
+   }
+  },
+  "trapišagos|masculine|životné": {
+   "Singulár": {
+    "nominatív": "trapišagos",
+    "genitív": "trapišagoskero",
+    "datív": "trapišagoske",
+    "akuzatív": "trapišagos",
+    "vokatív": "trapišagona",
+    "lokál": "trapišagoste",
+    "ablatív": "trapišagostar",
+    "inštrumentál": "trapišagoha"
+   },
+   "Plurál": {
+    "nominatív": "trapišagi",
+    "genitív": "trapišagengero",
+    "datív": "trapišagenge",
+    "akuzatív": "trapišagen",
+    "vokatív": "trapišagale",
+    "lokál": "trapišagende",
+    "ablatív": "trapišagendar",
+    "inštrumentál": "trapišagenca"
+   }
+  },
+  "trapišagos|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "trapišagos",
+    "genitív": "trapišagoskero",
+    "datív": "trapišagoske",
+    "akuzatív": "trapišagos",
+    "vokatív": "trapišagos",
+    "lokál": "trapišagoste",
+    "ablatív": "trapišagostar",
+    "inštrumentál": "trapišagoha"
+   },
+   "Plurál": {
+    "nominatív": "trapišagi",
+    "genitív": "trapišagengero",
+    "datív": "trapišagenge",
+    "akuzatív": "trapišagen",
+    "vokatív": "trapišagen",
+    "lokál": "trapišagende",
+    "ablatív": "trapišagendar",
+    "inštrumentál": "trapišagenca"
+   }
+  },
+  "trapišagos|feminine|životné": {
+   "Singulár": {
+    "nominatív": "trapišagos",
+    "genitív": "trapišagoskero",
+    "datív": "trapišagoske",
+    "akuzatív": "trapišagos",
+    "vokatív": "trapišagona",
+    "lokál": "trapišagoste",
+    "ablatív": "trapišagostar",
+    "inštrumentál": "trapišagoha"
+   },
+   "Plurál": {
+    "nominatív": "trapišagi",
+    "genitív": "trapišagengero",
+    "datív": "trapišagenge",
+    "akuzatív": "trapišagen",
+    "vokatív": "trapišagale",
+    "lokál": "trapišagende",
+    "ablatív": "trapišagendar",
+    "inštrumentál": "trapišagenca"
+   }
+  },
+  "trapišagos|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "trapišagos",
+    "genitív": "trapišagoskero",
+    "datív": "trapišagoske",
+    "akuzatív": "trapišagos",
+    "vokatív": "trapišagos",
+    "lokál": "trapišagoste",
+    "ablatív": "trapišagostar",
+    "inštrumentál": "trapišagoha"
+   },
+   "Plurál": {
+    "nominatív": "trapišagi",
+    "genitív": "trapišagengero",
+    "datív": "trapišagenge",
+    "akuzatív": "trapišagen",
+    "vokatív": "trapišagen",
+    "lokál": "trapišagende",
+    "ablatív": "trapišagendar",
+    "inštrumentál": "trapišagenca"
+   }
+  },
+  "trapišagos|other|životné": {
+   "Singulár": {
+    "nominatív": "trapišagos",
+    "genitív": "trapišagoskero",
+    "datív": "trapišagoske",
+    "akuzatív": "trapišagos",
+    "vokatív": "trapišagona",
+    "lokál": "trapišagoste",
+    "ablatív": "trapišagostar",
+    "inštrumentál": "trapišagoha"
+   },
+   "Plurál": {
+    "nominatív": "trapišagi",
+    "genitív": "trapišagengero",
+    "datív": "trapišagenge",
+    "akuzatív": "trapišagen",
+    "vokatív": "trapišagale",
+    "lokál": "trapišagende",
+    "ablatív": "trapišagendar",
+    "inštrumentál": "trapišagenca"
+   }
+  },
+  "trapišagos|other|neživotné": {
+   "Singulár": {
+    "nominatív": "trapišagos",
+    "genitív": "trapišagoskero",
+    "datív": "trapišagoske",
+    "akuzatív": "trapišagos",
+    "vokatív": "trapišagos",
+    "lokál": "trapišagoste",
+    "ablatív": "trapišagostar",
+    "inštrumentál": "trapišagoha"
+   },
+   "Plurál": {
+    "nominatív": "trapišagi",
+    "genitív": "trapišagengero",
+    "datív": "trapišagenge",
+    "akuzatív": "trapišagen",
+    "vokatív": "trapišagen",
+    "lokál": "trapišagende",
+    "ablatív": "trapišagendar",
+    "inštrumentál": "trapišagenca"
+   }
+  },
+  "uraviben|masculine|životné": {
+   "Singulár": {
+    "nominatív": "uraviben",
+    "genitív": "uravibnaskero",
+    "datív": "uravibnaske",
+    "akuzatív": "uravibnas",
+    "vokatív": "uravibeneja",
+    "lokál": "uravibnaste",
+    "ablatív": "uravibnastar",
+    "inštrumentál": "uravibnaha"
+   },
+   "Plurál": {
+    "nominatív": "uravibena",
+    "genitív": "uravibnengero",
+    "datív": "uravibnenge",
+    "akuzatív": "uravibnen",
+    "vokatív": "uravibenale",
+    "lokál": "uravibnende",
+    "ablatív": "uravibnendar",
+    "inštrumentál": "uravibnenca"
+   }
+  },
+  "uraviben|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "uraviben",
+    "genitív": "uravibnaskero",
+    "datív": "uravibnaske",
+    "akuzatív": "uraviben",
+    "vokatív": "uraviben",
+    "lokál": "uravibnaste",
+    "ablatív": "uravibnastar",
+    "inštrumentál": "uravibnaha"
+   },
+   "Plurál": {
+    "nominatív": "uravibena",
+    "genitív": "uravibnengero",
+    "datív": "uravibnenge",
+    "akuzatív": "uravibena",
+    "vokatív": "uravibena",
+    "lokál": "uravibnende",
+    "ablatív": "uravibnendar",
+    "inštrumentál": "uravibnenca"
+   }
+  },
+  "uraviben|feminine|životné": {
+   "Singulár": {
+    "nominatív": "uraviben",
+    "genitív": "uravibnaskero",
+    "datív": "uravibnaske",
+    "akuzatív": "uravibnas",
+    "vokatív": "uravibeneja",
+    "lokál": "uravibnaste",
+    "ablatív": "uravibnastar",
+    "inštrumentál": "uravibnaha"
+   },
+   "Plurál": {
+    "nominatív": "uravibena",
+    "genitív": "uravibnengero",
+    "datív": "uravibnenge",
+    "akuzatív": "uravibnen",
+    "vokatív": "uravibenale",
+    "lokál": "uravibnende",
+    "ablatív": "uravibnendar",
+    "inštrumentál": "uravibnenca"
+   }
+  },
+  "uraviben|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "uraviben",
+    "genitív": "uravibnaskero",
+    "datív": "uravibnaske",
+    "akuzatív": "uraviben",
+    "vokatív": "uraviben",
+    "lokál": "uravibnaste",
+    "ablatív": "uravibnastar",
+    "inštrumentál": "uravibnaha"
+   },
+   "Plurál": {
+    "nominatív": "uravibena",
+    "genitív": "uravibnengero",
+    "datív": "uravibnenge",
+    "akuzatív": "uravibena",
+    "vokatív": "uravibena",
+    "lokál": "uravibnende",
+    "ablatív": "uravibnendar",
+    "inštrumentál": "uravibnenca"
+   }
+  },
+  "uraviben|other|životné": {
+   "Singulár": {
+    "nominatív": "uraviben",
+    "genitív": "uravibnaskero",
+    "datív": "uravibnaske",
+    "akuzatív": "uravibnas",
+    "vokatív": "uravibeneja",
+    "lokál": "uravibnaste",
+    "ablatív": "uravibnastar",
+    "inštrumentál": "uravibnaha"
+   },
+   "Plurál": {
+    "nominatív": "uravibena",
+    "genitív": "uravibnengero",
+    "datív": "uravibnenge",
+    "akuzatív": "uravibnen",
+    "vokatív": "uravibenale",
+    "lokál": "uravibnende",
+    "ablatív": "uravibnendar",
+    "inštrumentál": "uravibnenca"
+   }
+  },
+  "uraviben|other|neživotné": {
+   "Singulár": {
+    "nominatív": "uraviben",
+    "genitív": "uravibnaskero",
+    "datív": "uravibnaske",
+    "akuzatív": "uraviben",
+    "vokatív": "uraviben",
+    "lokál": "uravibnaste",
+    "ablatív": "uravibnastar",
+    "inštrumentál": "uravibnaha"
+   },
+   "Plurál": {
+    "nominatív": "uravibena",
+    "genitív": "uravibnengero",
+    "datív": "uravibnenge",
+    "akuzatív": "uravibena",
+    "vokatív": "uravibena",
+    "lokál": "uravibnende",
+    "ablatív": "uravibnendar",
+    "inštrumentál": "uravibnenca"
+   }
+  },
+  "raklo|masculine|životné": {
+   "Singulár": {
+    "nominatív": "raklo",
+    "genitív": "rakleskero",
+    "datív": "rakleske",
+    "akuzatív": "rakles",
+    "vokatív": "rakleja",
+    "lokál": "rakleste",
+    "ablatív": "raklestar",
+    "inštrumentál": "rakleha"
+   },
+   "Plurál": {
+    "nominatív": "rakle",
+    "genitív": "raklengero",
+    "datív": "raklenge",
+    "akuzatív": "raklen",
+    "vokatív": "raklale",
+    "lokál": "raklende",
+    "ablatív": "raklendar",
+    "inštrumentál": "raklenca"
+   }
+  },
+  "raklo|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "raklo",
+    "genitív": "rakleskero",
+    "datív": "rakleske",
+    "akuzatív": "raklo",
+    "vokatív": "raklo",
+    "lokál": "rakleste",
+    "ablatív": "raklestar",
+    "inštrumentál": "rakleha"
+   },
+   "Plurál": {
+    "nominatív": "rakle",
+    "genitív": "raklengero",
+    "datív": "raklenge",
+    "akuzatív": "rakle",
+    "vokatív": "rakle",
+    "lokál": "raklende",
+    "ablatív": "raklendar",
+    "inštrumentál": "raklenca"
+   }
+  },
+  "raklo|feminine|životné": {
+   "Singulár": {
+    "nominatív": "raklo",
+    "genitív": "rakleskero",
+    "datív": "rakleske",
+    "akuzatív": "rakles",
+    "vokatív": "rakleja",
+    "lokál": "rakleste",
+    "ablatív": "raklestar",
+    "inštrumentál": "rakleha"
+   },
+   "Plurál": {
+    "nominatív": "rakle",
+    "genitív": "raklengero",
+    "datív": "raklenge",
+    "akuzatív": "raklen",
+    "vokatív": "raklale",
+    "lokál": "raklende",
+    "ablatív": "raklendar",
+    "inštrumentál": "raklenca"
+   }
+  },
+  "raklo|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "raklo",
+    "genitív": "rakleskero",
+    "datív": "rakleske",
+    "akuzatív": "raklo",
+    "vokatív": "raklo",
+    "lokál": "rakleste",
+    "ablatív": "raklestar",
+    "inštrumentál": "rakleha"
+   },
+   "Plurál": {
+    "nominatív": "rakle",
+    "genitív": "raklengero",
+    "datív": "raklenge",
+    "akuzatív": "rakle",
+    "vokatív": "rakle",
+    "lokál": "raklende",
+    "ablatív": "raklendar",
+    "inštrumentál": "raklenca"
+   }
+  },
+  "raklo|other|životné": {
+   "Singulár": {
+    "nominatív": "raklo",
+    "genitív": "rakleskero",
+    "datív": "rakleske",
+    "akuzatív": "rakles",
+    "vokatív": "rakleja",
+    "lokál": "rakleste",
+    "ablatív": "raklestar",
+    "inštrumentál": "rakleha"
+   },
+   "Plurál": {
+    "nominatív": "rakle",
+    "genitív": "raklengero",
+    "datív": "raklenge",
+    "akuzatív": "raklen",
+    "vokatív": "raklale",
+    "lokál": "raklende",
+    "ablatív": "raklendar",
+    "inštrumentál": "raklenca"
+   }
+  },
+  "raklo|other|neživotné": {
+   "Singulár": {
+    "nominatív": "raklo",
+    "genitív": "rakleskero",
+    "datív": "rakleske",
+    "akuzatív": "raklo",
+    "vokatív": "raklo",
+    "lokál": "rakleste",
+    "ablatív": "raklestar",
+    "inštrumentál": "rakleha"
+   },
+   "Plurál": {
+    "nominatív": "rakle",
+    "genitív": "raklengero",
+    "datív": "raklenge",
+    "akuzatív": "rakle",
+    "vokatív": "rakle",
+    "lokál": "raklende",
+    "ablatív": "raklendar",
+    "inštrumentál": "raklenca"
+   }
+  },
+  "voďi|masculine|životné": {
+   "Singulár": {
+    "nominatív": "voďi",
+    "genitív": "voďeskero",
+    "datív": "voďeske",
+    "akuzatív": "voďes",
+    "vokatív": "voďieja",
+    "lokál": "voďeste",
+    "ablatív": "voďestar",
+    "inštrumentál": "voďeha"
+   },
+   "Plurál": {
+    "nominatív": "voďa",
+    "genitív": "voďengero",
+    "datív": "voďenge",
+    "akuzatív": "voďen",
+    "vokatív": "voďiale",
+    "lokál": "voďende",
+    "ablatív": "voďendar",
+    "inštrumentál": "voďenca"
+   }
+  },
+  "voďi|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "voďi",
+    "genitív": "voďeskero",
+    "datív": "voďeske",
+    "akuzatív": "voďi",
+    "vokatív": "voďi",
+    "lokál": "voďeste",
+    "ablatív": "voďestar",
+    "inštrumentál": "voďeha"
+   },
+   "Plurál": {
+    "nominatív": "voďa",
+    "genitív": "voďengero",
+    "datív": "voďenge",
+    "akuzatív": "voďa",
+    "vokatív": "voďa",
+    "lokál": "voďende",
+    "ablatív": "voďendar",
+    "inštrumentál": "voďenca"
+   }
+  },
+  "voďi|feminine|životné": {
+   "Singulár": {
+    "nominatív": "voďi",
+    "genitív": "voďeskero",
+    "datív": "voďeske",
+    "akuzatív": "voďes",
+    "vokatív": "voďieja",
+    "lokál": "voďeste",
+    "ablatív": "voďestar",
+    "inštrumentál": "voďeha"
+   },
+   "Plurál": {
+    "nominatív": "voďa",
+    "genitív": "voďengero",
+    "datív": "voďenge",
+    "akuzatív": "voďen",
+    "vokatív": "voďiale",
+    "lokál": "voďende",
+    "ablatív": "voďendar",
+    "inštrumentál": "voďenca"
+   }
+  },
+  "voďi|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "voďi",
+    "genitív": "voďeskero",
+    "datív": "voďeske",
+    "akuzatív": "voďi",
+    "vokatív": "voďi",
+    "lokál": "voďeste",
+    "ablatív": "voďestar",
+    "inštrumentál": "voďeha"
+   },
+   "Plurál": {
+    "nominatív": "voďa",
+    "genitív": "voďengero",
+    "datív": "voďenge",
+    "akuzatív": "voďa",
+    "vokatív": "voďa",
+    "lokál": "voďende",
+    "ablatív": "voďendar",
+    "inštrumentál": "voďenca"
+   }
+  },
+  "voďi|other|životné": {
+   "Singulár": {
+    "nominatív": "voďi",
+    "genitív": "voďeskero",
+    "datív": "voďeske",
+    "akuzatív": "voďes",
+    "vokatív": "voďieja",
+    "lokál": "voďeste",
+    "ablatív": "voďestar",
+    "inštrumentál": "voďeha"
+   },
+   "Plurál": {
+    "nominatív": "voďa",
+    "genitív": "voďengero",
+    "datív": "voďenge",
+    "akuzatív": "voďen",
+    "vokatív": "voďiale",
+    "lokál": "voďende",
+    "ablatív": "voďendar",
+    "inštrumentál": "voďenca"
+   }
+  },
+  "voďi|other|neživotné": {
+   "Singulár": {
+    "nominatív": "voďi",
+    "genitív": "voďeskero",
+    "datív": "voďeske",
+    "akuzatív": "voďi",
+    "vokatív": "voďi",
+    "lokál": "voďeste",
+    "ablatív": "voďestar",
+    "inštrumentál": "voďeha"
+   },
+   "Plurál": {
+    "nominatív": "voďa",
+    "genitív": "voďengero",
+    "datív": "voďenge",
+    "akuzatív": "voďa",
+    "vokatív": "voďa",
+    "lokál": "voďende",
+    "ablatív": "voďendar",
+    "inštrumentál": "voďenca"
+   }
+  },
+  "paňi|masculine|životné": {
+   "Singulár": {
+    "nominatív": "paňi",
+    "genitív": "paňeskero",
+    "datív": "paňeske",
+    "akuzatív": "paňes",
+    "vokatív": "paňieja",
+    "lokál": "paňeste",
+    "ablatív": "paňestar",
+    "inštrumentál": "paňeha"
+   },
+   "Plurál": {
+    "nominatív": "paňa",
+    "genitív": "paňengero",
+    "datív": "paňenge",
+    "akuzatív": "paňen",
+    "vokatív": "paňiale",
+    "lokál": "paňende",
+    "ablatív": "paňendar",
+    "inštrumentál": "paňenca"
+   }
+  },
+  "paňi|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "paňi",
+    "genitív": "paňeskero",
+    "datív": "paňeske",
+    "akuzatív": "paňi",
+    "vokatív": "paňi",
+    "lokál": "paňeste",
+    "ablatív": "paňestar",
+    "inštrumentál": "paňeha"
+   },
+   "Plurál": {
+    "nominatív": "paňa",
+    "genitív": "paňengero",
+    "datív": "paňenge",
+    "akuzatív": "paňa",
+    "vokatív": "paňa",
+    "lokál": "paňende",
+    "ablatív": "paňendar",
+    "inštrumentál": "paňenca"
+   }
+  },
+  "paňi|feminine|životné": {
+   "Singulár": {
+    "nominatív": "paňi",
+    "genitív": "paňeskero",
+    "datív": "paňeske",
+    "akuzatív": "paňes",
+    "vokatív": "paňieja",
+    "lokál": "paňeste",
+    "ablatív": "paňestar",
+    "inštrumentál": "paňeha"
+   },
+   "Plurál": {
+    "nominatív": "paňa",
+    "genitív": "paňengero",
+    "datív": "paňenge",
+    "akuzatív": "paňen",
+    "vokatív": "paňiale",
+    "lokál": "paňende",
+    "ablatív": "paňendar",
+    "inštrumentál": "paňenca"
+   }
+  },
+  "paňi|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "paňi",
+    "genitív": "paňeskero",
+    "datív": "paňeske",
+    "akuzatív": "paňi",
+    "vokatív": "paňi",
+    "lokál": "paňeste",
+    "ablatív": "paňestar",
+    "inštrumentál": "paňeha"
+   },
+   "Plurál": {
+    "nominatív": "paňa",
+    "genitív": "paňengero",
+    "datív": "paňenge",
+    "akuzatív": "paňa",
+    "vokatív": "paňa",
+    "lokál": "paňende",
+    "ablatív": "paňendar",
+    "inštrumentál": "paňenca"
+   }
+  },
+  "paňi|other|životné": {
+   "Singulár": {
+    "nominatív": "paňi",
+    "genitív": "paňeskero",
+    "datív": "paňeske",
+    "akuzatív": "paňes",
+    "vokatív": "paňieja",
+    "lokál": "paňeste",
+    "ablatív": "paňestar",
+    "inštrumentál": "paňeha"
+   },
+   "Plurál": {
+    "nominatív": "paňa",
+    "genitív": "paňengero",
+    "datív": "paňenge",
+    "akuzatív": "paňen",
+    "vokatív": "paňiale",
+    "lokál": "paňende",
+    "ablatív": "paňendar",
+    "inštrumentál": "paňenca"
+   }
+  },
+  "paňi|other|neživotné": {
+   "Singulár": {
+    "nominatív": "paňi",
+    "genitív": "paňeskero",
+    "datív": "paňeske",
+    "akuzatív": "paňi",
+    "vokatív": "paňi",
+    "lokál": "paňeste",
+    "ablatív": "paňestar",
+    "inštrumentál": "paňeha"
+   },
+   "Plurál": {
+    "nominatív": "paňa",
+    "genitív": "paňengero",
+    "datív": "paňenge",
+    "akuzatív": "paňa",
+    "vokatív": "paňa",
+    "lokál": "paňende",
+    "ablatív": "paňendar",
+    "inštrumentál": "paňenca"
+   }
+  },
+  "učiťeľka|masculine|životné": {
+   "Singulár": {
+    "nominatív": "učiťeľka",
+    "genitív": "učiťeľkakero",
+    "datív": "učiťeľkake",
+    "akuzatív": "učiťeľka",
+    "vokatív": "učiťeľka",
+    "lokál": "učiťeľkate",
+    "ablatív": "učiťeľkatar",
+    "inštrumentál": "učiťeľkaha"
+   },
+   "Plurál": {
+    "nominatív": "učiťeľki",
+    "genitív": "učiťeľkengero",
+    "datív": "učiťeľkenge",
+    "akuzatív": "učiťeľken",
+    "vokatív": "učiťeľki",
+    "lokál": "učiťeľkende",
+    "ablatív": "učiťeľkendar",
+    "inštrumentál": "učiťeľkenca"
+   }
+  },
+  "učiťeľka|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "učiťeľka",
+    "genitív": "učiťeľkakero",
+    "datív": "učiťeľkake",
+    "akuzatív": "učiťeľka",
+    "vokatív": "učiťeľka",
+    "lokál": "učiťeľkate",
+    "ablatív": "učiťeľkatar",
+    "inštrumentál": "učiťeľkaha"
+   },
+   "Plurál": {
+    "nominatív": "učiťeľki",
+    "genitív": "učiťeľkengero",
+    "datív": "učiťeľkenge",
+    "akuzatív": "učiťeľken",
+    "vokatív": "učiťeľken",
+    "lokál": "učiťeľkende",
+    "ablatív": "učiťeľkendar",
+    "inštrumentál": "učiťeľkenca"
+   }
+  },
+  "učiťeľka|feminine|životné": {
+   "Singulár": {
+    "nominatív": "učiťeľka",
+    "genitív": "učiťeľkakero",
+    "datív": "učiťeľkake",
+    "akuzatív": "učiťeľka",
+    "vokatív": "učiťeľka",
+    "lokál": "učiťeľkate",
+    "ablatív": "učiťeľkatar",
+    "inštrumentál": "učiťeľkaha"
+   },
+   "Plurál": {
+    "nominatív": "učiťeľki",
+    "genitív": "učiťeľkengero",
+    "datív": "učiťeľkenge",
+    "akuzatív": "učiťeľken",
+    "vokatív": "učiťeľki",
+    "lokál": "učiťeľkende",
+    "ablatív": "učiťeľkendar",
+    "inštrumentál": "učiťeľkenca"
+   }
+  },
+  "učiťeľka|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "učiťeľka",
+    "genitív": "učiťeľkakero",
+    "datív": "učiťeľkake",
+    "akuzatív": "učiťeľka",
+    "vokatív": "učiťeľka",
+    "lokál": "učiťeľkate",
+    "ablatív": "učiťeľkatar",
+    "inštrumentál": "učiťeľkaha"
+   },
+   "Plurál": {
+    "nominatív": "učiťeľki",
+    "genitív": "učiťeľkengero",
+    "datív": "učiťeľkenge",
+    "akuzatív": "učiťeľken",
+    "vokatív": "učiťeľken",
+    "lokál": "učiťeľkende",
+    "ablatív": "učiťeľkendar",
+    "inštrumentál": "učiťeľkenca"
+   }
+  },
+  "učiťeľka|other|životné": {
+   "Singulár": {
+    "nominatív": "učiťeľka",
+    "genitív": "učiťeľkakero",
+    "datív": "učiťeľkake",
+    "akuzatív": "učiťeľka",
+    "vokatív": "učiťeľka",
+    "lokál": "učiťeľkate",
+    "ablatív": "učiťeľkatar",
+    "inštrumentál": "učiťeľkaha"
+   },
+   "Plurál": {
+    "nominatív": "učiťeľki",
+    "genitív": "učiťeľkengero",
+    "datív": "učiťeľkenge",
+    "akuzatív": "učiťeľken",
+    "vokatív": "učiťeľki",
+    "lokál": "učiťeľkende",
+    "ablatív": "učiťeľkendar",
+    "inštrumentál": "učiťeľkenca"
+   }
+  },
+  "učiťeľka|other|neživotné": {
+   "Singulár": {
+    "nominatív": "učiťeľka",
+    "genitív": "učiťeľkakero",
+    "datív": "učiťeľkake",
+    "akuzatív": "učiťeľka",
+    "vokatív": "učiťeľka",
+    "lokál": "učiťeľkate",
+    "ablatív": "učiťeľkatar",
+    "inštrumentál": "učiťeľkaha"
+   },
+   "Plurál": {
+    "nominatív": "učiťeľki",
+    "genitív": "učiťeľkengero",
+    "datív": "učiťeľkenge",
+    "akuzatív": "učiťeľken",
+    "vokatív": "učiťeľken",
+    "lokál": "učiťeľkende",
+    "ablatív": "učiťeľkendar",
+    "inštrumentál": "učiťeľkenca"
+   }
+  },
+  "rakľi|masculine|životné": {
+   "Singulár": {
+    "nominatív": "rakľi",
+    "genitív": "rakľakero",
+    "datív": "rakľake",
+    "akuzatív": "rakľa",
+    "vokatív": "rakľije",
+    "lokál": "rakľate",
+    "ablatív": "rakľatar",
+    "inštrumentál": "rakľaha"
+   },
+   "Plurál": {
+    "nominatív": "rakľa",
+    "genitív": "rakľengero",
+    "datív": "rakľenge",
+    "akuzatív": "rakľen",
+    "vokatív": "rakľale",
+    "lokál": "rakľende",
+    "ablatív": "rakľendar",
+    "inštrumentál": "rakľenca"
+   }
+  },
+  "rakľi|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "rakľi",
+    "genitív": "rakľakero",
+    "datív": "rakľake",
+    "akuzatív": "rakľi",
+    "vokatív": "rakľi",
+    "lokál": "rakľate",
+    "ablatív": "rakľatar",
+    "inštrumentál": "rakľaha"
+   },
+   "Plurál": {
+    "nominatív": "rakľa",
+    "genitív": "rakľengero",
+    "datív": "rakľenge",
+    "akuzatív": "rakľen",
+    "vokatív": "rakľen",
+    "lokál": "rakľende",
+    "ablatív": "rakľendar",
+    "inštrumentál": "rakľenca"
+   }
+  },
+  "rakľi|feminine|životné": {
+   "Singulár": {
+    "nominatív": "rakľi",
+    "genitív": "rakľakero",
+    "datív": "rakľake",
+    "akuzatív": "rakľa",
+    "vokatív": "rakľije",
+    "lokál": "rakľate",
+    "ablatív": "rakľatar",
+    "inštrumentál": "rakľaha"
+   },
+   "Plurál": {
+    "nominatív": "rakľa",
+    "genitív": "rakľengero",
+    "datív": "rakľenge",
+    "akuzatív": "rakľen",
+    "vokatív": "rakľale",
+    "lokál": "rakľende",
+    "ablatív": "rakľendar",
+    "inštrumentál": "rakľenca"
+   }
+  },
+  "rakľi|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "rakľi",
+    "genitív": "rakľakero",
+    "datív": "rakľake",
+    "akuzatív": "rakľi",
+    "vokatív": "rakľi",
+    "lokál": "rakľate",
+    "ablatív": "rakľatar",
+    "inštrumentál": "rakľaha"
+   },
+   "Plurál": {
+    "nominatív": "rakľa",
+    "genitív": "rakľengero",
+    "datív": "rakľenge",
+    "akuzatív": "rakľen",
+    "vokatív": "rakľen",
+    "lokál": "rakľende",
+    "ablatív": "rakľendar",
+    "inštrumentál": "rakľenca"
+   }
+  },
+  "rakľi|other|životné": {
+   "Singulár": {
+    "nominatív": "rakľi",
+    "genitív": "rakľakero",
+    "datív": "rakľake",
+    "akuzatív": "rakľa",
+    "vokatív": "rakľije",
+    "lokál": "rakľate",
+    "ablatív": "rakľatar",
+    "inštrumentál": "rakľaha"
+   },
+   "Plurál": {
+    "nominatív": "rakľa",
+    "genitív": "rakľengero",
+    "datív": "rakľenge",
+    "akuzatív": "rakľen",
+    "vokatív": "rakľale",
+    "lokál": "rakľende",
+    "ablatív": "rakľendar",
+    "inštrumentál": "rakľenca"
+   }
+  },
+  "rakľi|other|neživotné": {
+   "Singulár": {
+    "nominatív": "rakľi",
+    "genitív": "rakľakero",
+    "datív": "rakľake",
+    "akuzatív": "rakľi",
+    "vokatív": "rakľi",
+    "lokál": "rakľate",
+    "ablatív": "rakľatar",
+    "inštrumentál": "rakľaha"
+   },
+   "Plurál": {
+    "nominatív": "rakľa",
+    "genitív": "rakľengero",
+    "datív": "rakľenge",
+    "akuzatív": "rakľen",
+    "vokatív": "rakľen",
+    "lokál": "rakľende",
+    "ablatív": "rakľendar",
+    "inštrumentál": "rakľenca"
+   }
+  },
+  "pheň|masculine|životné": {
+   "Singulár": {
+    "nominatív": "pheň",
+    "genitív": "pheňeskero",
+    "datív": "pheňeske",
+    "akuzatív": "pheňes",
+    "vokatív": "pheňeja",
+    "lokál": "pheňeste",
+    "ablatív": "pheňestar",
+    "inštrumentál": "pheňeha"
+   },
+   "Plurál": {
+    "nominatív": "pheňa",
+    "genitív": "pheňengero",
+    "datív": "pheňenge",
+    "akuzatív": "pheňen",
+    "vokatív": "pheňale",
+    "lokál": "pheňende",
+    "ablatív": "pheňendar",
+    "inštrumentál": "pheňenca"
+   }
+  },
+  "pheň|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "pheň",
+    "genitív": "pheňeskero",
+    "datív": "pheňeske",
+    "akuzatív": "pheň",
+    "vokatív": "pheň",
+    "lokál": "pheňeste",
+    "ablatív": "pheňestar",
+    "inštrumentál": "pheňeha"
+   },
+   "Plurál": {
+    "nominatív": "pheňa",
+    "genitív": "pheňengero",
+    "datív": "pheňenge",
+    "akuzatív": "pheňa",
+    "vokatív": "pheňa",
+    "lokál": "pheňende",
+    "ablatív": "pheňendar",
+    "inštrumentál": "pheňenca"
+   }
+  },
+  "pheň|feminine|životné": {
+   "Singulár": {
+    "nominatív": "pheň",
+    "genitív": "pheňakero",
+    "datív": "pheňake",
+    "akuzatív": "pheňa",
+    "vokatív": "pheňije",
+    "lokál": "pheňate",
+    "ablatív": "pheňatar",
+    "inštrumentál": "pheňaha"
+   },
+   "Plurál": {
+    "nominatív": "pheňa",
+    "genitív": "pheňengero",
+    "datív": "pheňenge",
+    "akuzatív": "pheňen",
+    "vokatív": "pheňale",
+    "lokál": "pheňende",
+    "ablatív": "pheňendar",
+    "inštrumentál": "pheňenca"
+   }
+  },
+  "pheň|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "pheň",
+    "genitív": "pheňakero",
+    "datív": "pheňake",
+    "akuzatív": "pheň",
+    "vokatív": "pheň",
+    "lokál": "pheňate",
+    "ablatív": "pheňatar",
+    "inštrumentál": "pheňaha"
+   },
+   "Plurál": {
+    "nominatív": "pheňa",
+    "genitív": "pheňengero",
+    "datív": "pheňenge",
+    "akuzatív": "pheňen",
+    "vokatív": "pheňen",
+    "lokál": "pheňende",
+    "ablatív": "pheňendar",
+    "inštrumentál": "pheňenca"
+   }
+  },
+  "pheň|other|životné": {
+   "Singulár": {
+    "nominatív": "pheň",
+    "genitív": "pheňkero",
+    "datív": "pheňke",
+    "akuzatív": "pheňa",
+    "vokatív": "pheňije",
+    "lokál": "pheňte",
+    "ablatív": "pheňtar",
+    "inštrumentál": "pheňha"
+   },
+   "Plurál": {
+    "nominatív": "pheň",
+    "genitív": "pheňgero",
+    "datív": "pheňge",
+    "akuzatív": "pheňen",
+    "vokatív": "pheňale",
+    "lokál": "pheňde",
+    "ablatív": "pheňdar",
+    "inštrumentál": "pheňca"
+   }
+  },
+  "pheň|other|neživotné": {
+   "Singulár": {
+    "nominatív": "pheň",
+    "genitív": "pheňkero",
+    "datív": "pheňke",
+    "akuzatív": "pheňa",
+    "vokatív": "pheňije",
+    "lokál": "pheňte",
+    "ablatív": "pheňtar",
+    "inštrumentál": "pheňha"
+   },
+   "Plurál": {
+    "nominatív": "pheň",
+    "genitív": "pheňgero",
+    "datív": "pheňge",
+    "akuzatív": "pheňen",
+    "vokatív": "pheňale",
+    "lokál": "pheňde",
+    "ablatív": "pheňdar",
+    "inštrumentál": "pheňca"
+   }
+  },
+  "phral|masculine|životné": {
+   "Singulár": {
+    "nominatív": "phral",
+    "genitív": "phraleskero",
+    "datív": "phraleske",
+    "akuzatív": "phrales",
+    "vokatív": "phraleja",
+    "lokál": "phraleste",
+    "ablatív": "phralestar",
+    "inštrumentál": "phraleha"
+   },
+   "Plurál": {
+    "nominatív": "phrala",
+    "genitív": "phralengero",
+    "datív": "phralenge",
+    "akuzatív": "phralen",
+    "vokatív": "phralale",
+    "lokál": "phralende",
+    "ablatív": "phralendar",
+    "inštrumentál": "phralenca"
+   }
+  },
+  "phral|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "phral",
+    "genitív": "phraleskero",
+    "datív": "phraleske",
+    "akuzatív": "phral",
+    "vokatív": "phral",
+    "lokál": "phraleste",
+    "ablatív": "phralestar",
+    "inštrumentál": "phraleha"
+   },
+   "Plurál": {
+    "nominatív": "phrala",
+    "genitív": "phralengero",
+    "datív": "phralenge",
+    "akuzatív": "phrala",
+    "vokatív": "phrala",
+    "lokál": "phralende",
+    "ablatív": "phralendar",
+    "inštrumentál": "phralenca"
+   }
+  },
+  "phral|feminine|životné": {
+   "Singulár": {
+    "nominatív": "phral",
+    "genitív": "phralakero",
+    "datív": "phralake",
+    "akuzatív": "phrala",
+    "vokatív": "phralije",
+    "lokál": "phralate",
+    "ablatív": "phralatar",
+    "inštrumentál": "phralaha"
+   },
+   "Plurál": {
+    "nominatív": "phrala",
+    "genitív": "phralengero",
+    "datív": "phralenge",
+    "akuzatív": "phralen",
+    "vokatív": "phralale",
+    "lokál": "phralende",
+    "ablatív": "phralendar",
+    "inštrumentál": "phralenca"
+   }
+  },
+  "phral|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "phral",
+    "genitív": "phralakero",
+    "datív": "phralake",
+    "akuzatív": "phral",
+    "vokatív": "phral",
+    "lokál": "phralate",
+    "ablatív": "phralatar",
+    "inštrumentál": "phralaha"
+   },
+   "Plurál": {
+    "nominatív": "phrala",
+    "genitív": "phralengero",
+    "datív": "phralenge",
+    "akuzatív": "phralen",
+    "vokatív": "phralen",
+    "lokál": "phralende",
+    "ablatív": "phralendar",
+    "inštrumentál": "phralenca"
+   }
+  },
+  "phral|other|životné": {
+   "Singulár": {
+    "nominatív": "phral",
+    "genitív": "phralkero",
+    "datív": "phralke",
+    "akuzatív": "phrala",
+    "vokatív": "phralije",
+    "lokál": "phralte",
+    "ablatív": "phraltar",
+    "inštrumentál": "phralha"
+   },
+   "Plurál": {
+    "nominatív": "phral",
+    "genitív": "phralgero",
+    "datív": "phralge",
+    "akuzatív": "phralen",
+    "vokatív": "phralale",
+    "lokál": "phralde",
+    "ablatív": "phraldar",
+    "inštrumentál": "phralca"
+   }
+  },
+  "phral|other|neživotné": {
+   "Singulár": {
+    "nominatív": "phral",
+    "genitív": "phralkero",
+    "datív": "phralke",
+    "akuzatív": "phrala",
+    "vokatív": "phralije",
+    "lokál": "phralte",
+    "ablatív": "phraltar",
+    "inštrumentál": "phralha"
+   },
+   "Plurál": {
+    "nominatív": "phral",
+    "genitív": "phralgero",
+    "datív": "phralge",
+    "akuzatív": "phralen",
+    "vokatív": "phralale",
+    "lokál": "phralde",
+    "ablatív": "phraldar",
+    "inštrumentál": "phralca"
+   }
+  },
+  "khosno|masculine|životné": {
+   "Singulár": {
+    "nominatív": "khosno",
+    "genitív": "khosneskero",
+    "datív": "khosneske",
+    "akuzatív": "khosnes",
+    "vokatív": "khosneja",
+    "lokál": "khosneste",
+    "ablatív": "khosnestar",
+    "inštrumentál": "khosneha"
+   },
+   "Plurál": {
+    "nominatív": "khosne",
+    "genitív": "khosnengero",
+    "datív": "khosnenge",
+    "akuzatív": "khosnen",
+    "vokatív": "khosnale",
+    "lokál": "khosnende",
+    "ablatív": "khosnendar",
+    "inštrumentál": "khosnenca"
+   }
+  },
+  "khosno|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "khosno",
+    "genitív": "khosneskero",
+    "datív": "khosneske",
+    "akuzatív": "khosno",
+    "vokatív": "khosno",
+    "lokál": "khosneste",
+    "ablatív": "khosnestar",
+    "inštrumentál": "khosneha"
+   },
+   "Plurál": {
+    "nominatív": "khosne",
+    "genitív": "khosnengero",
+    "datív": "khosnenge",
+    "akuzatív": "khosne",
+    "vokatív": "khosne",
+    "lokál": "khosnende",
+    "ablatív": "khosnendar",
+    "inštrumentál": "khosnenca"
+   }
+  },
+  "khosno|feminine|životné": {
+   "Singulár": {
+    "nominatív": "khosno",
+    "genitív": "khosneskero",
+    "datív": "khosneske",
+    "akuzatív": "khosnes",
+    "vokatív": "khosneja",
+    "lokál": "khosneste",
+    "ablatív": "khosnestar",
+    "inštrumentál": "khosneha"
+   },
+   "Plurál": {
+    "nominatív": "khosne",
+    "genitív": "khosnengero",
+    "datív": "khosnenge",
+    "akuzatív": "khosnen",
+    "vokatív": "khosnale",
+    "lokál": "khosnende",
+    "ablatív": "khosnendar",
+    "inštrumentál": "khosnenca"
+   }
+  },
+  "khosno|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "khosno",
+    "genitív": "khosneskero",
+    "datív": "khosneske",
+    "akuzatív": "khosno",
+    "vokatív": "khosno",
+    "lokál": "khosneste",
+    "ablatív": "khosnestar",
+    "inštrumentál": "khosneha"
+   },
+   "Plurál": {
+    "nominatív": "khosne",
+    "genitív": "khosnengero",
+    "datív": "khosnenge",
+    "akuzatív": "khosne",
+    "vokatív": "khosne",
+    "lokál": "khosnende",
+    "ablatív": "khosnendar",
+    "inštrumentál": "khosnenca"
+   }
+  },
+  "khosno|other|životné": {
+   "Singulár": {
+    "nominatív": "khosno",
+    "genitív": "khosneskero",
+    "datív": "khosneske",
+    "akuzatív": "khosnes",
+    "vokatív": "khosneja",
+    "lokál": "khosneste",
+    "ablatív": "khosnestar",
+    "inštrumentál": "khosneha"
+   },
+   "Plurál": {
+    "nominatív": "khosne",
+    "genitív": "khosnengero",
+    "datív": "khosnenge",
+    "akuzatív": "khosnen",
+    "vokatív": "khosnale",
+    "lokál": "khosnende",
+    "ablatív": "khosnendar",
+    "inštrumentál": "khosnenca"
+   }
+  },
+  "khosno|other|neživotné": {
+   "Singulár": {
+    "nominatív": "khosno",
+    "genitív": "khosneskero",
+    "datív": "khosneske",
+    "akuzatív": "khosno",
+    "vokatív": "khosno",
+    "lokál": "khosneste",
+    "ablatív": "khosnestar",
+    "inštrumentál": "khosneha"
+   },
+   "Plurál": {
+    "nominatív": "khosne",
+    "genitív": "khosnengero",
+    "datív": "khosnenge",
+    "akuzatív": "khosne",
+    "vokatív": "khosne",
+    "lokál": "khosnende",
+    "ablatív": "khosnendar",
+    "inštrumentál": "khosnenca"
+   }
+  },
+  "piri|masculine|životné": {
+   "Singulár": {
+    "nominatív": "piri",
+    "genitív": "pirakero",
+    "datív": "pirake",
+    "akuzatív": "pira",
+    "vokatív": "pirije",
+    "lokál": "pirate",
+    "ablatív": "piratar",
+    "inštrumentál": "piraha"
+   },
+   "Plurál": {
+    "nominatív": "pira",
+    "genitív": "pirengero",
+    "datív": "pirenge",
+    "akuzatív": "piren",
+    "vokatív": "pirale",
+    "lokál": "pirende",
+    "ablatív": "pirendar",
+    "inštrumentál": "pirenca"
+   }
+  },
+  "piri|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "piri",
+    "genitív": "pirakero",
+    "datív": "pirake",
+    "akuzatív": "piri",
+    "vokatív": "piri",
+    "lokál": "pirate",
+    "ablatív": "piratar",
+    "inštrumentál": "piraha"
+   },
+   "Plurál": {
+    "nominatív": "pira",
+    "genitív": "pirengero",
+    "datív": "pirenge",
+    "akuzatív": "piren",
+    "vokatív": "piren",
+    "lokál": "pirende",
+    "ablatív": "pirendar",
+    "inštrumentál": "pirenca"
+   }
+  },
+  "piri|feminine|životné": {
+   "Singulár": {
+    "nominatív": "piri",
+    "genitív": "pirakero",
+    "datív": "pirake",
+    "akuzatív": "pira",
+    "vokatív": "pirije",
+    "lokál": "pirate",
+    "ablatív": "piratar",
+    "inštrumentál": "piraha"
+   },
+   "Plurál": {
+    "nominatív": "pira",
+    "genitív": "pirengero",
+    "datív": "pirenge",
+    "akuzatív": "piren",
+    "vokatív": "pirale",
+    "lokál": "pirende",
+    "ablatív": "pirendar",
+    "inštrumentál": "pirenca"
+   }
+  },
+  "piri|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "piri",
+    "genitív": "pirakero",
+    "datív": "pirake",
+    "akuzatív": "piri",
+    "vokatív": "piri",
+    "lokál": "pirate",
+    "ablatív": "piratar",
+    "inštrumentál": "piraha"
+   },
+   "Plurál": {
+    "nominatív": "pira",
+    "genitív": "pirengero",
+    "datív": "pirenge",
+    "akuzatív": "piren",
+    "vokatív": "piren",
+    "lokál": "pirende",
+    "ablatív": "pirendar",
+    "inštrumentál": "pirenca"
+   }
+  },
+  "piri|other|životné": {
+   "Singulár": {
+    "nominatív": "piri",
+    "genitív": "pirakero",
+    "datív": "pirake",
+    "akuzatív": "pira",
+    "vokatív": "pirije",
+    "lokál": "pirate",
+    "ablatív": "piratar",
+    "inštrumentál": "piraha"
+   },
+   "Plurál": {
+    "nominatív": "pira",
+    "genitív": "pirengero",
+    "datív": "pirenge",
+    "akuzatív": "piren",
+    "vokatív": "pirale",
+    "lokál": "pirende",
+    "ablatív": "pirendar",
+    "inštrumentál": "pirenca"
+   }
+  },
+  "piri|other|neživotné": {
+   "Singulár": {
+    "nominatív": "piri",
+    "genitív": "pirakero",
+    "datív": "pirake",
+    "akuzatív": "piri",
+    "vokatív": "piri",
+    "lokál": "pirate",
+    "ablatív": "piratar",
+    "inštrumentál": "piraha"
+   },
+   "Plurál": {
+    "nominatív": "pira",
+    "genitív": "pirengero",
+    "datív": "pirenge",
+    "akuzatív": "piren",
+    "vokatív": "piren",
+    "lokál": "pirende",
+    "ablatív": "pirendar",
+    "inštrumentál": "pirenca"
+   }
+  },
+  "khoskerdo|masculine|životné": {
+   "Singulár": {
+    "nominatív": "khoskerdo",
+    "genitív": "khoskerdeskero",
+    "datív": "khoskerdeske",
+    "akuzatív": "khoskerdes",
+    "vokatív": "khoskerdeja",
+    "lokál": "khoskerdeste",
+    "ablatív": "khoskerdestar",
+    "inštrumentál": "khoskerdeha"
+   },
+   "Plurál": {
+    "nominatív": "khoskerde",
+    "genitív": "khoskerdengero",
+    "datív": "khoskerdenge",
+    "akuzatív": "khoskerden",
+    "vokatív": "khoskerdale",
+    "lokál": "khoskerdende",
+    "ablatív": "khoskerdendar",
+    "inštrumentál": "khoskerdenca"
+   }
+  },
+  "khoskerdo|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "khoskerdo",
+    "genitív": "khoskerdeskero",
+    "datív": "khoskerdeske",
+    "akuzatív": "khoskerdo",
+    "vokatív": "khoskerdo",
+    "lokál": "khoskerdeste",
+    "ablatív": "khoskerdestar",
+    "inštrumentál": "khoskerdeha"
+   },
+   "Plurál": {
+    "nominatív": "khoskerde",
+    "genitív": "khoskerdengero",
+    "datív": "khoskerdenge",
+    "akuzatív": "khoskerde",
+    "vokatív": "khoskerde",
+    "lokál": "khoskerdende",
+    "ablatív": "khoskerdendar",
+    "inštrumentál": "khoskerdenca"
+   }
+  },
+  "khoskerdo|feminine|životné": {
+   "Singulár": {
+    "nominatív": "khoskerdo",
+    "genitív": "khoskerdeskero",
+    "datív": "khoskerdeske",
+    "akuzatív": "khoskerdes",
+    "vokatív": "khoskerdeja",
+    "lokál": "khoskerdeste",
+    "ablatív": "khoskerdestar",
+    "inštrumentál": "khoskerdeha"
+   },
+   "Plurál": {
+    "nominatív": "khoskerde",
+    "genitív": "khoskerdengero",
+    "datív": "khoskerdenge",
+    "akuzatív": "khoskerden",
+    "vokatív": "khoskerdale",
+    "lokál": "khoskerdende",
+    "ablatív": "khoskerdendar",
+    "inštrumentál": "khoskerdenca"
+   }
+  },
+  "khoskerdo|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "khoskerdo",
+    "genitív": "khoskerdeskero",
+    "datív": "khoskerdeske",
+    "akuzatív": "khoskerdo",
+    "vokatív": "khoskerdo",
+    "lokál": "khoskerdeste",
+    "ablatív": "khoskerdestar",
+    "inštrumentál": "khoskerdeha"
+   },
+   "Plurál": {
+    "nominatív": "khoskerde",
+    "genitív": "khoskerdengero",
+    "datív": "khoskerdenge",
+    "akuzatív": "khoskerde",
+    "vokatív": "khoskerde",
+    "lokál": "khoskerdende",
+    "ablatív": "khoskerdendar",
+    "inštrumentál": "khoskerdenca"
+   }
+  },
+  "khoskerdo|other|životné": {
+   "Singulár": {
+    "nominatív": "khoskerdo",
+    "genitív": "khoskerdeskero",
+    "datív": "khoskerdeske",
+    "akuzatív": "khoskerdes",
+    "vokatív": "khoskerdeja",
+    "lokál": "khoskerdeste",
+    "ablatív": "khoskerdestar",
+    "inštrumentál": "khoskerdeha"
+   },
+   "Plurál": {
+    "nominatív": "khoskerde",
+    "genitív": "khoskerdengero",
+    "datív": "khoskerdenge",
+    "akuzatív": "khoskerden",
+    "vokatív": "khoskerdale",
+    "lokál": "khoskerdende",
+    "ablatív": "khoskerdendar",
+    "inštrumentál": "khoskerdenca"
+   }
+  },
+  "khoskerdo|other|neživotné": {
+   "Singulár": {
+    "nominatív": "khoskerdo",
+    "genitív": "khoskerdeskero",
+    "datív": "khoskerdeske",
+    "akuzatív": "khoskerdo",
+    "vokatív": "khoskerdo",
+    "lokál": "khoskerdeste",
+    "ablatív": "khoskerdestar",
+    "inštrumentál": "khoskerdeha"
+   },
+   "Plurál": {
+    "nominatív": "khoskerde",
+    "genitív": "khoskerdengero",
+    "datív": "khoskerdenge",
+    "akuzatív": "khoskerde",
+    "vokatív": "khoskerde",
+    "lokál": "khoskerdende",
+    "ablatív": "khoskerdendar",
+    "inštrumentál": "khoskerdenca"
+   }
+  },
+  "lavutaris|masculine|životné": {
+   "Singulár": {
+    "nominatív": "lavutaris",
+    "genitív": "lavutariskero",
+    "datív": "lavutariske",
+    "akuzatív": "lavutaris",
+    "vokatív": "lavutarona",
+    "lokál": "lavutariste",
+    "ablatív": "lavutaristar",
+    "inštrumentál": "lavutariha"
+   },
+   "Plurál": {
+    "nominatív": "lavutara",
+    "genitív": "lavutarengero",
+    "datív": "lavutarenge",
+    "akuzatív": "lavutaren",
+    "vokatív": "lavutarale",
+    "lokál": "lavutarende",
+    "ablatív": "lavutarendar",
+    "inštrumentál": "lavutarenca"
+   }
+  },
+  "lavutaris|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "lavutaris",
+    "genitív": "lavutariskero",
+    "datív": "lavutariske",
+    "akuzatív": "lavutaris",
+    "vokatív": "lavutaris",
+    "lokál": "lavutariste",
+    "ablatív": "lavutaristar",
+    "inštrumentál": "lavutariha"
+   },
+   "Plurál": {
+    "nominatív": "lavutara",
+    "genitív": "lavutarengero",
+    "datív": "lavutarenge",
+    "akuzatív": "lavutaren",
+    "vokatív": "lavutaren",
+    "lokál": "lavutarende",
+    "ablatív": "lavutarendar",
+    "inštrumentál": "lavutarenca"
+   }
+  },
+  "lavutaris|feminine|životné": {
+   "Singulár": {
+    "nominatív": "lavutaris",
+    "genitív": "lavutariskero",
+    "datív": "lavutariske",
+    "akuzatív": "lavutaris",
+    "vokatív": "lavutarona",
+    "lokál": "lavutariste",
+    "ablatív": "lavutaristar",
+    "inštrumentál": "lavutariha"
+   },
+   "Plurál": {
+    "nominatív": "lavutara",
+    "genitív": "lavutarengero",
+    "datív": "lavutarenge",
+    "akuzatív": "lavutaren",
+    "vokatív": "lavutarale",
+    "lokál": "lavutarende",
+    "ablatív": "lavutarendar",
+    "inštrumentál": "lavutarenca"
+   }
+  },
+  "lavutaris|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "lavutaris",
+    "genitív": "lavutariskero",
+    "datív": "lavutariske",
+    "akuzatív": "lavutaris",
+    "vokatív": "lavutaris",
+    "lokál": "lavutariste",
+    "ablatív": "lavutaristar",
+    "inštrumentál": "lavutariha"
+   },
+   "Plurál": {
+    "nominatív": "lavutara",
+    "genitív": "lavutarengero",
+    "datív": "lavutarenge",
+    "akuzatív": "lavutaren",
+    "vokatív": "lavutaren",
+    "lokál": "lavutarende",
+    "ablatív": "lavutarendar",
+    "inštrumentál": "lavutarenca"
+   }
+  },
+  "lavutaris|other|životné": {
+   "Singulár": {
+    "nominatív": "lavutaris",
+    "genitív": "lavutariskero",
+    "datív": "lavutariske",
+    "akuzatív": "lavutaris",
+    "vokatív": "lavutarona",
+    "lokál": "lavutariste",
+    "ablatív": "lavutaristar",
+    "inštrumentál": "lavutariha"
+   },
+   "Plurál": {
+    "nominatív": "lavutara",
+    "genitív": "lavutarengero",
+    "datív": "lavutarenge",
+    "akuzatív": "lavutaren",
+    "vokatív": "lavutarale",
+    "lokál": "lavutarende",
+    "ablatív": "lavutarendar",
+    "inštrumentál": "lavutarenca"
+   }
+  },
+  "lavutaris|other|neživotné": {
+   "Singulár": {
+    "nominatív": "lavutaris",
+    "genitív": "lavutariskero",
+    "datív": "lavutariske",
+    "akuzatív": "lavutaris",
+    "vokatív": "lavutaris",
+    "lokál": "lavutariste",
+    "ablatív": "lavutaristar",
+    "inštrumentál": "lavutariha"
+   },
+   "Plurál": {
+    "nominatív": "lavutara",
+    "genitív": "lavutarengero",
+    "datív": "lavutarenge",
+    "akuzatív": "lavutaren",
+    "vokatív": "lavutaren",
+    "lokál": "lavutarende",
+    "ablatív": "lavutarendar",
+    "inštrumentál": "lavutarenca"
+   }
+  },
+  "papus|masculine|životné": {
+   "Singulár": {
+    "nominatív": "papus",
+    "genitív": "papuskero",
+    "datív": "papuske",
+    "akuzatív": "papus",
+    "vokatív": "papona",
+    "lokál": "papuste",
+    "ablatív": "papustar",
+    "inštrumentál": "papuha"
+   },
+   "Plurál": {
+    "nominatív": "papi",
+    "genitív": "papengero",
+    "datív": "papenge",
+    "akuzatív": "papen",
+    "vokatív": "papale",
+    "lokál": "papende",
+    "ablatív": "papendar",
+    "inštrumentál": "papenca"
+   }
+  },
+  "papus|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "papus",
+    "genitív": "papuskero",
+    "datív": "papuske",
+    "akuzatív": "papus",
+    "vokatív": "papus",
+    "lokál": "papuste",
+    "ablatív": "papustar",
+    "inštrumentál": "papuha"
+   },
+   "Plurál": {
+    "nominatív": "papi",
+    "genitív": "papengero",
+    "datív": "papenge",
+    "akuzatív": "papen",
+    "vokatív": "papen",
+    "lokál": "papende",
+    "ablatív": "papendar",
+    "inštrumentál": "papenca"
+   }
+  },
+  "papus|feminine|životné": {
+   "Singulár": {
+    "nominatív": "papus",
+    "genitív": "papuskero",
+    "datív": "papuske",
+    "akuzatív": "papus",
+    "vokatív": "papona",
+    "lokál": "papuste",
+    "ablatív": "papustar",
+    "inštrumentál": "papuha"
+   },
+   "Plurál": {
+    "nominatív": "papi",
+    "genitív": "papengero",
+    "datív": "papenge",
+    "akuzatív": "papen",
+    "vokatív": "papale",
+    "lokál": "papende",
+    "ablatív": "papendar",
+    "inštrumentál": "papenca"
+   }
+  },
+  "papus|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "papus",
+    "genitív": "papuskero",
+    "datív": "papuske",
+    "akuzatív": "papus",
+    "vokatív": "papus",
+    "lokál": "papuste",
+    "ablatív": "papustar",
+    "inštrumentál": "papuha"
+   },
+   "Plurál": {
+    "nominatív": "papi",
+    "genitív": "papengero",
+    "datív": "papenge",
+    "akuzatív": "papen",
+    "vokatív": "papen",
+    "lokál": "papende",
+    "ablatív": "papendar",
+    "inštrumentál": "papenca"
+   }
+  },
+  "papus|other|životné": {
+   "Singulár": {
+    "nominatív": "papus",
+    "genitív": "papuskero",
+    "datív": "papuske",
+    "akuzatív": "papus",
+    "vokatív": "papona",
+    "lokál": "papuste",
+    "ablatív": "papustar",
+    "inštrumentál": "papuha"
+   },
+   "Plurál": {
+    "nominatív": "papi",
+    "genitív": "papengero",
+    "datív": "papenge",
+    "akuzatív": "papen",
+    "vokatív": "papale",
+    "lokál": "papende",
+    "ablatív": "papendar",
+    "inštrumentál": "papenca"
+   }
+  },
+  "papus|other|neživotné": {
+   "Singulár": {
+    "nominatív": "papus",
+    "genitív": "papuskero",
+    "datív": "papuske",
+    "akuzatív": "papus",
+    "vokatív": "papus",
+    "lokál": "papuste",
+    "ablatív": "papustar",
+    "inštrumentál": "papuha"
+   },
+   "Plurál": {
+    "nominatív": "papi",
+    "genitív": "papengero",
+    "datív": "papenge",
+    "akuzatív": "papen",
+    "vokatív": "papen",
+    "lokál": "papende",
+    "ablatív": "papendar",
+    "inštrumentál": "papenca"
+   }
+  },
+  "bašavno|masculine|životné": {
+   "Singulár": {
+    "nominatív": "bašavno",
+    "genitív": "bašavneskero",
+    "datív": "bašavneske",
+    "akuzatív": "bašavnes",
+    "vokatív": "bašavneja",
+    "lokál": "bašavneste",
+    "ablatív": "bašavnestar",
+    "inštrumentál": "bašavneha"
+   },
+   "Plurál": {
+    "nominatív": "bašavne",
+    "genitív": "bašavnengero",
+    "datív": "bašavnenge",
+    "akuzatív": "bašavnen",
+    "vokatív": "bašavnale",
+    "lokál": "bašavnende",
+    "ablatív": "bašavnendar",
+    "inštrumentál": "bašavnenca"
+   }
+  },
+  "bašavno|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "bašavno",
+    "genitív": "bašavneskero",
+    "datív": "bašavneske",
+    "akuzatív": "bašavno",
+    "vokatív": "bašavno",
+    "lokál": "bašavneste",
+    "ablatív": "bašavnestar",
+    "inštrumentál": "bašavneha"
+   },
+   "Plurál": {
+    "nominatív": "bašavne",
+    "genitív": "bašavnengero",
+    "datív": "bašavnenge",
+    "akuzatív": "bašavne",
+    "vokatív": "bašavne",
+    "lokál": "bašavnende",
+    "ablatív": "bašavnendar",
+    "inštrumentál": "bašavnenca"
+   }
+  },
+  "bašavno|feminine|životné": {
+   "Singulár": {
+    "nominatív": "bašavno",
+    "genitív": "bašavneskero",
+    "datív": "bašavneske",
+    "akuzatív": "bašavnes",
+    "vokatív": "bašavneja",
+    "lokál": "bašavneste",
+    "ablatív": "bašavnestar",
+    "inštrumentál": "bašavneha"
+   },
+   "Plurál": {
+    "nominatív": "bašavne",
+    "genitív": "bašavnengero",
+    "datív": "bašavnenge",
+    "akuzatív": "bašavnen",
+    "vokatív": "bašavnale",
+    "lokál": "bašavnende",
+    "ablatív": "bašavnendar",
+    "inštrumentál": "bašavnenca"
+   }
+  },
+  "bašavno|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "bašavno",
+    "genitív": "bašavneskero",
+    "datív": "bašavneske",
+    "akuzatív": "bašavno",
+    "vokatív": "bašavno",
+    "lokál": "bašavneste",
+    "ablatív": "bašavnestar",
+    "inštrumentál": "bašavneha"
+   },
+   "Plurál": {
+    "nominatív": "bašavne",
+    "genitív": "bašavnengero",
+    "datív": "bašavnenge",
+    "akuzatív": "bašavne",
+    "vokatív": "bašavne",
+    "lokál": "bašavnende",
+    "ablatív": "bašavnendar",
+    "inštrumentál": "bašavnenca"
+   }
+  },
+  "bašavno|other|životné": {
+   "Singulár": {
+    "nominatív": "bašavno",
+    "genitív": "bašavneskero",
+    "datív": "bašavneske",
+    "akuzatív": "bašavnes",
+    "vokatív": "bašavneja",
+    "lokál": "bašavneste",
+    "ablatív": "bašavnestar",
+    "inštrumentál": "bašavneha"
+   },
+   "Plurál": {
+    "nominatív": "bašavne",
+    "genitív": "bašavnengero",
+    "datív": "bašavnenge",
+    "akuzatív": "bašavnen",
+    "vokatív": "bašavnale",
+    "lokál": "bašavnende",
+    "ablatív": "bašavnendar",
+    "inštrumentál": "bašavnenca"
+   }
+  },
+  "bašavno|other|neživotné": {
+   "Singulár": {
+    "nominatív": "bašavno",
+    "genitív": "bašavneskero",
+    "datív": "bašavneske",
+    "akuzatív": "bašavno",
+    "vokatív": "bašavno",
+    "lokál": "bašavneste",
+    "ablatív": "bašavnestar",
+    "inštrumentál": "bašavneha"
+   },
+   "Plurál": {
+    "nominatív": "bašavne",
+    "genitív": "bašavnengero",
+    "datív": "bašavnenge",
+    "akuzatív": "bašavne",
+    "vokatív": "bašavne",
+    "lokál": "bašavnende",
+    "ablatív": "bašavnendar",
+    "inštrumentál": "bašavnenca"
+   }
+  },
+  "pharipen|masculine|životné": {
+   "Singulár": {
+    "nominatív": "pharipen",
+    "genitív": "pharipnaskero",
+    "datív": "pharipnaske",
+    "akuzatív": "pharipnas",
+    "vokatív": "pharipeneja",
+    "lokál": "pharipnaste",
+    "ablatív": "pharipnastar",
+    "inštrumentál": "pharipnaha"
+   },
+   "Plurál": {
+    "nominatív": "pharipena",
+    "genitív": "pharipnengero",
+    "datív": "pharipnenge",
+    "akuzatív": "pharipnen",
+    "vokatív": "pharipenale",
+    "lokál": "pharipnende",
+    "ablatív": "pharipnendar",
+    "inštrumentál": "pharipnenca"
+   }
+  },
+  "pharipen|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "pharipen",
+    "genitív": "pharipnaskero",
+    "datív": "pharipnaske",
+    "akuzatív": "pharipen",
+    "vokatív": "pharipen",
+    "lokál": "pharipnaste",
+    "ablatív": "pharipnastar",
+    "inštrumentál": "pharipnaha"
+   },
+   "Plurál": {
+    "nominatív": "pharipena",
+    "genitív": "pharipnengero",
+    "datív": "pharipnenge",
+    "akuzatív": "pharipena",
+    "vokatív": "pharipena",
+    "lokál": "pharipnende",
+    "ablatív": "pharipnendar",
+    "inštrumentál": "pharipnenca"
+   }
+  },
+  "pharipen|feminine|životné": {
+   "Singulár": {
+    "nominatív": "pharipen",
+    "genitív": "pharipnaskero",
+    "datív": "pharipnaske",
+    "akuzatív": "pharipnas",
+    "vokatív": "pharipeneja",
+    "lokál": "pharipnaste",
+    "ablatív": "pharipnastar",
+    "inštrumentál": "pharipnaha"
+   },
+   "Plurál": {
+    "nominatív": "pharipena",
+    "genitív": "pharipnengero",
+    "datív": "pharipnenge",
+    "akuzatív": "pharipnen",
+    "vokatív": "pharipenale",
+    "lokál": "pharipnende",
+    "ablatív": "pharipnendar",
+    "inštrumentál": "pharipnenca"
+   }
+  },
+  "pharipen|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "pharipen",
+    "genitív": "pharipnaskero",
+    "datív": "pharipnaske",
+    "akuzatív": "pharipen",
+    "vokatív": "pharipen",
+    "lokál": "pharipnaste",
+    "ablatív": "pharipnastar",
+    "inštrumentál": "pharipnaha"
+   },
+   "Plurál": {
+    "nominatív": "pharipena",
+    "genitív": "pharipnengero",
+    "datív": "pharipnenge",
+    "akuzatív": "pharipena",
+    "vokatív": "pharipena",
+    "lokál": "pharipnende",
+    "ablatív": "pharipnendar",
+    "inštrumentál": "pharipnenca"
+   }
+  },
+  "pharipen|other|životné": {
+   "Singulár": {
+    "nominatív": "pharipen",
+    "genitív": "pharipnaskero",
+    "datív": "pharipnaske",
+    "akuzatív": "pharipnas",
+    "vokatív": "pharipeneja",
+    "lokál": "pharipnaste",
+    "ablatív": "pharipnastar",
+    "inštrumentál": "pharipnaha"
+   },
+   "Plurál": {
+    "nominatív": "pharipena",
+    "genitív": "pharipnengero",
+    "datív": "pharipnenge",
+    "akuzatív": "pharipnen",
+    "vokatív": "pharipenale",
+    "lokál": "pharipnende",
+    "ablatív": "pharipnendar",
+    "inštrumentál": "pharipnenca"
+   }
+  },
+  "pharipen|other|neživotné": {
+   "Singulár": {
+    "nominatív": "pharipen",
+    "genitív": "pharipnaskero",
+    "datív": "pharipnaske",
+    "akuzatív": "pharipen",
+    "vokatív": "pharipen",
+    "lokál": "pharipnaste",
+    "ablatív": "pharipnastar",
+    "inštrumentál": "pharipnaha"
+   },
+   "Plurál": {
+    "nominatív": "pharipena",
+    "genitív": "pharipnengero",
+    "datív": "pharipnenge",
+    "akuzatív": "pharipena",
+    "vokatív": "pharipena",
+    "lokál": "pharipnende",
+    "ablatív": "pharipnendar",
+    "inštrumentál": "pharipnenca"
+   }
+  },
+  "problemos|masculine|životné": {
+   "Singulár": {
+    "nominatív": "problemos",
+    "genitív": "problemoskero",
+    "datív": "problemoske",
+    "akuzatív": "problemos",
+    "vokatív": "problemona",
+    "lokál": "problemoste",
+    "ablatív": "problemostar",
+    "inštrumentál": "problemoha"
+   },
+   "Plurál": {
+    "nominatív": "problemi",
+    "genitív": "problemengero",
+    "datív": "problemenge",
+    "akuzatív": "problemen",
+    "vokatív": "problemale",
+    "lokál": "problemende",
+    "ablatív": "problemendar",
+    "inštrumentál": "problemenca"
+   }
+  },
+  "problemos|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "problemos",
+    "genitív": "problemoskero",
+    "datív": "problemoske",
+    "akuzatív": "problemos",
+    "vokatív": "problemos",
+    "lokál": "problemoste",
+    "ablatív": "problemostar",
+    "inštrumentál": "problemoha"
+   },
+   "Plurál": {
+    "nominatív": "problemi",
+    "genitív": "problemengero",
+    "datív": "problemenge",
+    "akuzatív": "problemen",
+    "vokatív": "problemen",
+    "lokál": "problemende",
+    "ablatív": "problemendar",
+    "inštrumentál": "problemenca"
+   }
+  },
+  "problemos|feminine|životné": {
+   "Singulár": {
+    "nominatív": "problemos",
+    "genitív": "problemoskero",
+    "datív": "problemoske",
+    "akuzatív": "problemos",
+    "vokatív": "problemona",
+    "lokál": "problemoste",
+    "ablatív": "problemostar",
+    "inštrumentál": "problemoha"
+   },
+   "Plurál": {
+    "nominatív": "problemi",
+    "genitív": "problemengero",
+    "datív": "problemenge",
+    "akuzatív": "problemen",
+    "vokatív": "problemale",
+    "lokál": "problemende",
+    "ablatív": "problemendar",
+    "inštrumentál": "problemenca"
+   }
+  },
+  "problemos|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "problemos",
+    "genitív": "problemoskero",
+    "datív": "problemoske",
+    "akuzatív": "problemos",
+    "vokatív": "problemos",
+    "lokál": "problemoste",
+    "ablatív": "problemostar",
+    "inštrumentál": "problemoha"
+   },
+   "Plurál": {
+    "nominatív": "problemi",
+    "genitív": "problemengero",
+    "datív": "problemenge",
+    "akuzatív": "problemen",
+    "vokatív": "problemen",
+    "lokál": "problemende",
+    "ablatív": "problemendar",
+    "inštrumentál": "problemenca"
+   }
+  },
+  "problemos|other|životné": {
+   "Singulár": {
+    "nominatív": "problemos",
+    "genitív": "problemoskero",
+    "datív": "problemoske",
+    "akuzatív": "problemos",
+    "vokatív": "problemona",
+    "lokál": "problemoste",
+    "ablatív": "problemostar",
+    "inštrumentál": "problemoha"
+   },
+   "Plurál": {
+    "nominatív": "problemi",
+    "genitív": "problemengero",
+    "datív": "problemenge",
+    "akuzatív": "problemen",
+    "vokatív": "problemale",
+    "lokál": "problemende",
+    "ablatív": "problemendar",
+    "inštrumentál": "problemenca"
+   }
+  },
+  "problemos|other|neživotné": {
+   "Singulár": {
+    "nominatív": "problemos",
+    "genitív": "problemoskero",
+    "datív": "problemoske",
+    "akuzatív": "problemos",
+    "vokatív": "problemos",
+    "lokál": "problemoste",
+    "ablatív": "problemostar",
+    "inštrumentál": "problemoha"
+   },
+   "Plurál": {
+    "nominatív": "problemi",
+    "genitív": "problemengero",
+    "datív": "problemenge",
+    "akuzatív": "problemen",
+    "vokatív": "problemen",
+    "lokál": "problemende",
+    "ablatív": "problemendar",
+    "inštrumentál": "problemenca"
+   }
+  },
+  "kamiben|masculine|životné": {
+   "Singulár": {
+    "nominatív": "kamiben",
+    "genitív": "kamibnaskero",
+    "datív": "kamibnaske",
+    "akuzatív": "kamibnas",
+    "vokatív": "kamibeneja",
+    "lokál": "kamibnaste",
+    "ablatív": "kamibnastar",
+    "inštrumentál": "kamibnaha"
+   },
+   "Plurál": {
+    "nominatív": "kamibena",
+    "genitív": "kamibnengero",
+    "datív": "kamibnenge",
+    "akuzatív": "kamibnen",
+    "vokatív": "kamibenale",
+    "lokál": "kamibnende",
+    "ablatív": "kamibnendar",
+    "inštrumentál": "kamibnenca"
+   }
+  },
+  "kamiben|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "kamiben",
+    "genitív": "kamibnaskero",
+    "datív": "kamibnaske",
+    "akuzatív": "kamiben",
+    "vokatív": "kamiben",
+    "lokál": "kamibnaste",
+    "ablatív": "kamibnastar",
+    "inštrumentál": "kamibnaha"
+   },
+   "Plurál": {
+    "nominatív": "kamibena",
+    "genitív": "kamibnengero",
+    "datív": "kamibnenge",
+    "akuzatív": "kamibena",
+    "vokatív": "kamibena",
+    "lokál": "kamibnende",
+    "ablatív": "kamibnendar",
+    "inštrumentál": "kamibnenca"
+   }
+  },
+  "kamiben|feminine|životné": {
+   "Singulár": {
+    "nominatív": "kamiben",
+    "genitív": "kamibnaskero",
+    "datív": "kamibnaske",
+    "akuzatív": "kamibnas",
+    "vokatív": "kamibeneja",
+    "lokál": "kamibnaste",
+    "ablatív": "kamibnastar",
+    "inštrumentál": "kamibnaha"
+   },
+   "Plurál": {
+    "nominatív": "kamibena",
+    "genitív": "kamibnengero",
+    "datív": "kamibnenge",
+    "akuzatív": "kamibnen",
+    "vokatív": "kamibenale",
+    "lokál": "kamibnende",
+    "ablatív": "kamibnendar",
+    "inštrumentál": "kamibnenca"
+   }
+  },
+  "kamiben|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "kamiben",
+    "genitív": "kamibnaskero",
+    "datív": "kamibnaske",
+    "akuzatív": "kamiben",
+    "vokatív": "kamiben",
+    "lokál": "kamibnaste",
+    "ablatív": "kamibnastar",
+    "inštrumentál": "kamibnaha"
+   },
+   "Plurál": {
+    "nominatív": "kamibena",
+    "genitív": "kamibnengero",
+    "datív": "kamibnenge",
+    "akuzatív": "kamibena",
+    "vokatív": "kamibena",
+    "lokál": "kamibnende",
+    "ablatív": "kamibnendar",
+    "inštrumentál": "kamibnenca"
+   }
+  },
+  "kamiben|other|životné": {
+   "Singulár": {
+    "nominatív": "kamiben",
+    "genitív": "kamibnaskero",
+    "datív": "kamibnaske",
+    "akuzatív": "kamibnas",
+    "vokatív": "kamibeneja",
+    "lokál": "kamibnaste",
+    "ablatív": "kamibnastar",
+    "inštrumentál": "kamibnaha"
+   },
+   "Plurál": {
+    "nominatív": "kamibena",
+    "genitív": "kamibnengero",
+    "datív": "kamibnenge",
+    "akuzatív": "kamibnen",
+    "vokatív": "kamibenale",
+    "lokál": "kamibnende",
+    "ablatív": "kamibnendar",
+    "inštrumentál": "kamibnenca"
+   }
+  },
+  "kamiben|other|neživotné": {
+   "Singulár": {
+    "nominatív": "kamiben",
+    "genitív": "kamibnaskero",
+    "datív": "kamibnaske",
+    "akuzatív": "kamiben",
+    "vokatív": "kamiben",
+    "lokál": "kamibnaste",
+    "ablatív": "kamibnastar",
+    "inštrumentál": "kamibnaha"
+   },
+   "Plurál": {
+    "nominatív": "kamibena",
+    "genitív": "kamibnengero",
+    "datív": "kamibnenge",
+    "akuzatív": "kamibena",
+    "vokatív": "kamibena",
+    "lokál": "kamibnende",
+    "ablatív": "kamibnendar",
+    "inštrumentál": "kamibnenca"
+   }
+  },
+  "kamňipen|masculine|životné": {
+   "Singulár": {
+    "nominatív": "kamňipen",
+    "genitív": "kamňipnaskero",
+    "datív": "kamňipnaske",
+    "akuzatív": "kamňipnas",
+    "vokatív": "kamňipeneja",
+    "lokál": "kamňipnaste",
+    "ablatív": "kamňipnastar",
+    "inštrumentál": "kamňipnaha"
+   },
+   "Plurál": {
+    "nominatív": "kamňipena",
+    "genitív": "kamňipnengero",
+    "datív": "kamňipnenge",
+    "akuzatív": "kamňipnen",
+    "vokatív": "kamňipenale",
+    "lokál": "kamňipnende",
+    "ablatív": "kamňipnendar",
+    "inštrumentál": "kamňipnenca"
+   }
+  },
+  "kamňipen|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "kamňipen",
+    "genitív": "kamňipnaskero",
+    "datív": "kamňipnaske",
+    "akuzatív": "kamňipen",
+    "vokatív": "kamňipen",
+    "lokál": "kamňipnaste",
+    "ablatív": "kamňipnastar",
+    "inštrumentál": "kamňipnaha"
+   },
+   "Plurál": {
+    "nominatív": "kamňipena",
+    "genitív": "kamňipnengero",
+    "datív": "kamňipnenge",
+    "akuzatív": "kamňipena",
+    "vokatív": "kamňipena",
+    "lokál": "kamňipnende",
+    "ablatív": "kamňipnendar",
+    "inštrumentál": "kamňipnenca"
+   }
+  },
+  "kamňipen|feminine|životné": {
+   "Singulár": {
+    "nominatív": "kamňipen",
+    "genitív": "kamňipnaskero",
+    "datív": "kamňipnaske",
+    "akuzatív": "kamňipnas",
+    "vokatív": "kamňipeneja",
+    "lokál": "kamňipnaste",
+    "ablatív": "kamňipnastar",
+    "inštrumentál": "kamňipnaha"
+   },
+   "Plurál": {
+    "nominatív": "kamňipena",
+    "genitív": "kamňipnengero",
+    "datív": "kamňipnenge",
+    "akuzatív": "kamňipnen",
+    "vokatív": "kamňipenale",
+    "lokál": "kamňipnende",
+    "ablatív": "kamňipnendar",
+    "inštrumentál": "kamňipnenca"
+   }
+  },
+  "kamňipen|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "kamňipen",
+    "genitív": "kamňipnaskero",
+    "datív": "kamňipnaske",
+    "akuzatív": "kamňipen",
+    "vokatív": "kamňipen",
+    "lokál": "kamňipnaste",
+    "ablatív": "kamňipnastar",
+    "inštrumentál": "kamňipnaha"
+   },
+   "Plurál": {
+    "nominatív": "kamňipena",
+    "genitív": "kamňipnengero",
+    "datív": "kamňipnenge",
+    "akuzatív": "kamňipena",
+    "vokatív": "kamňipena",
+    "lokál": "kamňipnende",
+    "ablatív": "kamňipnendar",
+    "inštrumentál": "kamňipnenca"
+   }
+  },
+  "kamňipen|other|životné": {
+   "Singulár": {
+    "nominatív": "kamňipen",
+    "genitív": "kamňipnaskero",
+    "datív": "kamňipnaske",
+    "akuzatív": "kamňipnas",
+    "vokatív": "kamňipeneja",
+    "lokál": "kamňipnaste",
+    "ablatív": "kamňipnastar",
+    "inštrumentál": "kamňipnaha"
+   },
+   "Plurál": {
+    "nominatív": "kamňipena",
+    "genitív": "kamňipnengero",
+    "datív": "kamňipnenge",
+    "akuzatív": "kamňipnen",
+    "vokatív": "kamňipenale",
+    "lokál": "kamňipnende",
+    "ablatív": "kamňipnendar",
+    "inštrumentál": "kamňipnenca"
+   }
+  },
+  "kamňipen|other|neživotné": {
+   "Singulár": {
+    "nominatív": "kamňipen",
+    "genitív": "kamňipnaskero",
+    "datív": "kamňipnaske",
+    "akuzatív": "kamňipen",
+    "vokatív": "kamňipen",
+    "lokál": "kamňipnaste",
+    "ablatív": "kamňipnastar",
+    "inštrumentál": "kamňipnaha"
+   },
+   "Plurál": {
+    "nominatív": "kamňipena",
+    "genitív": "kamňipnengero",
+    "datív": "kamňipnenge",
+    "akuzatív": "kamňipena",
+    "vokatív": "kamňipena",
+    "lokál": "kamňipnende",
+    "ablatív": "kamňipnendar",
+    "inštrumentál": "kamňipnenca"
+   }
+  },
+  "džuvľi|masculine|životné": {
+   "Singulár": {
+    "nominatív": "džuvľi",
+    "genitív": "džuvľakero",
+    "datív": "džuvľake",
+    "akuzatív": "džuvľa",
+    "vokatív": "džuvľije",
+    "lokál": "džuvľate",
+    "ablatív": "džuvľatar",
+    "inštrumentál": "džuvľaha"
+   },
+   "Plurál": {
+    "nominatív": "džuvľa",
+    "genitív": "džuvľengero",
+    "datív": "džuvľenge",
+    "akuzatív": "džuvľen",
+    "vokatív": "džuvľale",
+    "lokál": "džuvľende",
+    "ablatív": "džuvľendar",
+    "inštrumentál": "džuvľenca"
+   }
+  },
+  "džuvľi|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "džuvľi",
+    "genitív": "džuvľakero",
+    "datív": "džuvľake",
+    "akuzatív": "džuvľi",
+    "vokatív": "džuvľi",
+    "lokál": "džuvľate",
+    "ablatív": "džuvľatar",
+    "inštrumentál": "džuvľaha"
+   },
+   "Plurál": {
+    "nominatív": "džuvľa",
+    "genitív": "džuvľengero",
+    "datív": "džuvľenge",
+    "akuzatív": "džuvľen",
+    "vokatív": "džuvľen",
+    "lokál": "džuvľende",
+    "ablatív": "džuvľendar",
+    "inštrumentál": "džuvľenca"
+   }
+  },
+  "džuvľi|feminine|životné": {
+   "Singulár": {
+    "nominatív": "džuvľi",
+    "genitív": "džuvľakero",
+    "datív": "džuvľake",
+    "akuzatív": "džuvľa",
+    "vokatív": "džuvľije",
+    "lokál": "džuvľate",
+    "ablatív": "džuvľatar",
+    "inštrumentál": "džuvľaha"
+   },
+   "Plurál": {
+    "nominatív": "džuvľa",
+    "genitív": "džuvľengero",
+    "datív": "džuvľenge",
+    "akuzatív": "džuvľen",
+    "vokatív": "džuvľale",
+    "lokál": "džuvľende",
+    "ablatív": "džuvľendar",
+    "inštrumentál": "džuvľenca"
+   }
+  },
+  "džuvľi|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "džuvľi",
+    "genitív": "džuvľakero",
+    "datív": "džuvľake",
+    "akuzatív": "džuvľi",
+    "vokatív": "džuvľi",
+    "lokál": "džuvľate",
+    "ablatív": "džuvľatar",
+    "inštrumentál": "džuvľaha"
+   },
+   "Plurál": {
+    "nominatív": "džuvľa",
+    "genitív": "džuvľengero",
+    "datív": "džuvľenge",
+    "akuzatív": "džuvľen",
+    "vokatív": "džuvľen",
+    "lokál": "džuvľende",
+    "ablatív": "džuvľendar",
+    "inštrumentál": "džuvľenca"
+   }
+  },
+  "džuvľi|other|životné": {
+   "Singulár": {
+    "nominatív": "džuvľi",
+    "genitív": "džuvľakero",
+    "datív": "džuvľake",
+    "akuzatív": "džuvľa",
+    "vokatív": "džuvľije",
+    "lokál": "džuvľate",
+    "ablatív": "džuvľatar",
+    "inštrumentál": "džuvľaha"
+   },
+   "Plurál": {
+    "nominatív": "džuvľa",
+    "genitív": "džuvľengero",
+    "datív": "džuvľenge",
+    "akuzatív": "džuvľen",
+    "vokatív": "džuvľale",
+    "lokál": "džuvľende",
+    "ablatív": "džuvľendar",
+    "inštrumentál": "džuvľenca"
+   }
+  },
+  "džuvľi|other|neživotné": {
+   "Singulár": {
+    "nominatív": "džuvľi",
+    "genitív": "džuvľakero",
+    "datív": "džuvľake",
+    "akuzatív": "džuvľi",
+    "vokatív": "džuvľi",
+    "lokál": "džuvľate",
+    "ablatív": "džuvľatar",
+    "inštrumentál": "džuvľaha"
+   },
+   "Plurál": {
+    "nominatív": "džuvľa",
+    "genitív": "džuvľengero",
+    "datív": "džuvľenge",
+    "akuzatív": "džuvľen",
+    "vokatív": "džuvľen",
+    "lokál": "džuvľende",
+    "ablatív": "džuvľendar",
+    "inštrumentál": "džuvľenca"
+   }
+  },
+  "manušňi|masculine|životné": {
+   "Singulár": {
+    "nominatív": "manušňi",
+    "genitív": "manušňakero",
+    "datív": "manušňake",
+    "akuzatív": "manušňa",
+    "vokatív": "manušňije",
+    "lokál": "manušňate",
+    "ablatív": "manušňatar",
+    "inštrumentál": "manušňaha"
+   },
+   "Plurál": {
+    "nominatív": "manušňa",
+    "genitív": "manušňengero",
+    "datív": "manušňenge",
+    "akuzatív": "manušňen",
+    "vokatív": "manušňale",
+    "lokál": "manušňende",
+    "ablatív": "manušňendar",
+    "inštrumentál": "manušňenca"
+   }
+  },
+  "manušňi|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "manušňi",
+    "genitív": "manušňakero",
+    "datív": "manušňake",
+    "akuzatív": "manušňi",
+    "vokatív": "manušňi",
+    "lokál": "manušňate",
+    "ablatív": "manušňatar",
+    "inštrumentál": "manušňaha"
+   },
+   "Plurál": {
+    "nominatív": "manušňa",
+    "genitív": "manušňengero",
+    "datív": "manušňenge",
+    "akuzatív": "manušňen",
+    "vokatív": "manušňen",
+    "lokál": "manušňende",
+    "ablatív": "manušňendar",
+    "inštrumentál": "manušňenca"
+   }
+  },
+  "manušňi|feminine|životné": {
+   "Singulár": {
+    "nominatív": "manušňi",
+    "genitív": "manušňakero",
+    "datív": "manušňake",
+    "akuzatív": "manušňa",
+    "vokatív": "manušňije",
+    "lokál": "manušňate",
+    "ablatív": "manušňatar",
+    "inštrumentál": "manušňaha"
+   },
+   "Plurál": {
+    "nominatív": "manušňa",
+    "genitív": "manušňengero",
+    "datív": "manušňenge",
+    "akuzatív": "manušňen",
+    "vokatív": "manušňale",
+    "lokál": "manušňende",
+    "ablatív": "manušňendar",
+    "inštrumentál": "manušňenca"
+   }
+  },
+  "manušňi|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "manušňi",
+    "genitív": "manušňakero",
+    "datív": "manušňake",
+    "akuzatív": "manušňi",
+    "vokatív": "manušňi",
+    "lokál": "manušňate",
+    "ablatív": "manušňatar",
+    "inštrumentál": "manušňaha"
+   },
+   "Plurál": {
+    "nominatív": "manušňa",
+    "genitív": "manušňengero",
+    "datív": "manušňenge",
+    "akuzatív": "manušňen",
+    "vokatív": "manušňen",
+    "lokál": "manušňende",
+    "ablatív": "manušňendar",
+    "inštrumentál": "manušňenca"
+   }
+  },
+  "manušňi|other|životné": {
+   "Singulár": {
+    "nominatív": "manušňi",
+    "genitív": "manušňakero",
+    "datív": "manušňake",
+    "akuzatív": "manušňa",
+    "vokatív": "manušňije",
+    "lokál": "manušňate",
+    "ablatív": "manušňatar",
+    "inštrumentál": "manušňaha"
+   },
+   "Plurál": {
+    "nominatív": "manušňa",
+    "genitív": "manušňengero",
+    "datív": "manušňenge",
+    "akuzatív": "manušňen",
+    "vokatív": "manušňale",
+    "lokál": "manušňende",
+    "ablatív": "manušňendar",
+    "inštrumentál": "manušňenca"
+   }
+  },
+  "manušňi|other|neživotné": {
+   "Singulár": {
+    "nominatív": "manušňi",
+    "genitív": "manušňakero",
+    "datív": "manušňake",
+    "akuzatív": "manušňi",
+    "vokatív": "manušňi",
+    "lokál": "manušňate",
+    "ablatív": "manušňatar",
+    "inštrumentál": "manušňaha"
+   },
+   "Plurál": {
+    "nominatív": "manušňa",
+    "genitív": "manušňengero",
+    "datív": "manušňenge",
+    "akuzatív": "manušňen",
+    "vokatív": "manušňen",
+    "lokál": "manušňende",
+    "ablatív": "manušňendar",
+    "inštrumentál": "manušňenca"
+   }
+  },
+  "džeňi|masculine|životné": {
+   "Singulár": {
+    "nominatív": "džeňi",
+    "genitív": "džeňakero",
+    "datív": "džeňake",
+    "akuzatív": "džeňa",
+    "vokatív": "džeňije",
+    "lokál": "džeňate",
+    "ablatív": "džeňatar",
+    "inštrumentál": "džeňaha"
+   },
+   "Plurál": {
+    "nominatív": "džeňa",
+    "genitív": "džeňengero",
+    "datív": "džeňenge",
+    "akuzatív": "džeňen",
+    "vokatív": "džeňale",
+    "lokál": "džeňende",
+    "ablatív": "džeňendar",
+    "inštrumentál": "džeňenca"
+   }
+  },
+  "džeňi|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "džeňi",
+    "genitív": "džeňakero",
+    "datív": "džeňake",
+    "akuzatív": "džeňi",
+    "vokatív": "džeňi",
+    "lokál": "džeňate",
+    "ablatív": "džeňatar",
+    "inštrumentál": "džeňaha"
+   },
+   "Plurál": {
+    "nominatív": "džeňa",
+    "genitív": "džeňengero",
+    "datív": "džeňenge",
+    "akuzatív": "džeňen",
+    "vokatív": "džeňen",
+    "lokál": "džeňende",
+    "ablatív": "džeňendar",
+    "inštrumentál": "džeňenca"
+   }
+  },
+  "džeňi|feminine|životné": {
+   "Singulár": {
+    "nominatív": "džeňi",
+    "genitív": "džeňakero",
+    "datív": "džeňake",
+    "akuzatív": "džeňa",
+    "vokatív": "džeňije",
+    "lokál": "džeňate",
+    "ablatív": "džeňatar",
+    "inštrumentál": "džeňaha"
+   },
+   "Plurál": {
+    "nominatív": "džeňa",
+    "genitív": "džeňengero",
+    "datív": "džeňenge",
+    "akuzatív": "džeňen",
+    "vokatív": "džeňale",
+    "lokál": "džeňende",
+    "ablatív": "džeňendar",
+    "inštrumentál": "džeňenca"
+   }
+  },
+  "džeňi|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "džeňi",
+    "genitív": "džeňakero",
+    "datív": "džeňake",
+    "akuzatív": "džeňi",
+    "vokatív": "džeňi",
+    "lokál": "džeňate",
+    "ablatív": "džeňatar",
+    "inštrumentál": "džeňaha"
+   },
+   "Plurál": {
+    "nominatív": "džeňa",
+    "genitív": "džeňengero",
+    "datív": "džeňenge",
+    "akuzatív": "džeňen",
+    "vokatív": "džeňen",
+    "lokál": "džeňende",
+    "ablatív": "džeňendar",
+    "inštrumentál": "džeňenca"
+   }
+  },
+  "džeňi|other|životné": {
+   "Singulár": {
+    "nominatív": "džeňi",
+    "genitív": "džeňakero",
+    "datív": "džeňake",
+    "akuzatív": "džeňa",
+    "vokatív": "džeňije",
+    "lokál": "džeňate",
+    "ablatív": "džeňatar",
+    "inštrumentál": "džeňaha"
+   },
+   "Plurál": {
+    "nominatív": "džeňa",
+    "genitív": "džeňengero",
+    "datív": "džeňenge",
+    "akuzatív": "džeňen",
+    "vokatív": "džeňale",
+    "lokál": "džeňende",
+    "ablatív": "džeňendar",
+    "inštrumentál": "džeňenca"
+   }
+  },
+  "džeňi|other|neživotné": {
+   "Singulár": {
+    "nominatív": "džeňi",
+    "genitív": "džeňakero",
+    "datív": "džeňake",
+    "akuzatív": "džeňi",
+    "vokatív": "džeňi",
+    "lokál": "džeňate",
+    "ablatív": "džeňatar",
+    "inštrumentál": "džeňaha"
+   },
+   "Plurál": {
+    "nominatív": "džeňa",
+    "genitív": "džeňengero",
+    "datív": "džeňenge",
+    "akuzatív": "džeňen",
+    "vokatív": "džeňen",
+    "lokál": "džeňende",
+    "ablatív": "džeňendar",
+    "inštrumentál": "džeňenca"
+   }
+  },
+  "sikhľarďi|masculine|životné": {
+   "Singulár": {
+    "nominatív": "sikhľarďi",
+    "genitív": "sikhľarďakero",
+    "datív": "sikhľarďake",
+    "akuzatív": "sikhľarďa",
+    "vokatív": "sikhľarďije",
+    "lokál": "sikhľarďate",
+    "ablatív": "sikhľarďatar",
+    "inštrumentál": "sikhľarďaha"
+   },
+   "Plurál": {
+    "nominatív": "sikhľarďa",
+    "genitív": "sikhľarďengero",
+    "datív": "sikhľarďenge",
+    "akuzatív": "sikhľarďen",
+    "vokatív": "sikhľarďale",
+    "lokál": "sikhľarďende",
+    "ablatív": "sikhľarďendar",
+    "inštrumentál": "sikhľarďenca"
+   }
+  },
+  "sikhľarďi|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "sikhľarďi",
+    "genitív": "sikhľarďakero",
+    "datív": "sikhľarďake",
+    "akuzatív": "sikhľarďi",
+    "vokatív": "sikhľarďi",
+    "lokál": "sikhľarďate",
+    "ablatív": "sikhľarďatar",
+    "inštrumentál": "sikhľarďaha"
+   },
+   "Plurál": {
+    "nominatív": "sikhľarďa",
+    "genitív": "sikhľarďengero",
+    "datív": "sikhľarďenge",
+    "akuzatív": "sikhľarďen",
+    "vokatív": "sikhľarďen",
+    "lokál": "sikhľarďende",
+    "ablatív": "sikhľarďendar",
+    "inštrumentál": "sikhľarďenca"
+   }
+  },
+  "sikhľarďi|feminine|životné": {
+   "Singulár": {
+    "nominatív": "sikhľarďi",
+    "genitív": "sikhľarďakero",
+    "datív": "sikhľarďake",
+    "akuzatív": "sikhľarďa",
+    "vokatív": "sikhľarďije",
+    "lokál": "sikhľarďate",
+    "ablatív": "sikhľarďatar",
+    "inštrumentál": "sikhľarďaha"
+   },
+   "Plurál": {
+    "nominatív": "sikhľarďa",
+    "genitív": "sikhľarďengero",
+    "datív": "sikhľarďenge",
+    "akuzatív": "sikhľarďen",
+    "vokatív": "sikhľarďale",
+    "lokál": "sikhľarďende",
+    "ablatív": "sikhľarďendar",
+    "inštrumentál": "sikhľarďenca"
+   }
+  },
+  "sikhľarďi|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "sikhľarďi",
+    "genitív": "sikhľarďakero",
+    "datív": "sikhľarďake",
+    "akuzatív": "sikhľarďi",
+    "vokatív": "sikhľarďi",
+    "lokál": "sikhľarďate",
+    "ablatív": "sikhľarďatar",
+    "inštrumentál": "sikhľarďaha"
+   },
+   "Plurál": {
+    "nominatív": "sikhľarďa",
+    "genitív": "sikhľarďengero",
+    "datív": "sikhľarďenge",
+    "akuzatív": "sikhľarďen",
+    "vokatív": "sikhľarďen",
+    "lokál": "sikhľarďende",
+    "ablatív": "sikhľarďendar",
+    "inštrumentál": "sikhľarďenca"
+   }
+  },
+  "sikhľarďi|other|životné": {
+   "Singulár": {
+    "nominatív": "sikhľarďi",
+    "genitív": "sikhľarďakero",
+    "datív": "sikhľarďake",
+    "akuzatív": "sikhľarďa",
+    "vokatív": "sikhľarďije",
+    "lokál": "sikhľarďate",
+    "ablatív": "sikhľarďatar",
+    "inštrumentál": "sikhľarďaha"
+   },
+   "Plurál": {
+    "nominatív": "sikhľarďa",
+    "genitív": "sikhľarďengero",
+    "datív": "sikhľarďenge",
+    "akuzatív": "sikhľarďen",
+    "vokatív": "sikhľarďale",
+    "lokál": "sikhľarďende",
+    "ablatív": "sikhľarďendar",
+    "inštrumentál": "sikhľarďenca"
+   }
+  },
+  "sikhľarďi|other|neživotné": {
+   "Singulár": {
+    "nominatív": "sikhľarďi",
+    "genitív": "sikhľarďakero",
+    "datív": "sikhľarďake",
+    "akuzatív": "sikhľarďi",
+    "vokatív": "sikhľarďi",
+    "lokál": "sikhľarďate",
+    "ablatív": "sikhľarďatar",
+    "inštrumentál": "sikhľarďaha"
+   },
+   "Plurál": {
+    "nominatív": "sikhľarďa",
+    "genitív": "sikhľarďengero",
+    "datív": "sikhľarďenge",
+    "akuzatív": "sikhľarďen",
+    "vokatív": "sikhľarďen",
+    "lokál": "sikhľarďende",
+    "ablatív": "sikhľarďendar",
+    "inštrumentál": "sikhľarďenca"
+   }
+  },
+  "čhavo|masculine|životné": {
+   "Singulár": {
+    "nominatív": "čhavo",
+    "genitív": "čhaveskero",
+    "datív": "čhaveske",
+    "akuzatív": "čhaves",
+    "vokatív": "čhaveja",
+    "lokál": "čhaveste",
+    "ablatív": "čhavestar",
+    "inštrumentál": "čhaveha"
+   },
+   "Plurál": {
+    "nominatív": "čhave",
+    "genitív": "čhavengero",
+    "datív": "čhavenge",
+    "akuzatív": "čhaven",
+    "vokatív": "čhavale",
+    "lokál": "čhavende",
+    "ablatív": "čhavendar",
+    "inštrumentál": "čhavenca"
+   }
+  },
+  "čhavo|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "čhavo",
+    "genitív": "čhaveskero",
+    "datív": "čhaveske",
+    "akuzatív": "čhavo",
+    "vokatív": "čhavo",
+    "lokál": "čhaveste",
+    "ablatív": "čhavestar",
+    "inštrumentál": "čhaveha"
+   },
+   "Plurál": {
+    "nominatív": "čhave",
+    "genitív": "čhavengero",
+    "datív": "čhavenge",
+    "akuzatív": "čhave",
+    "vokatív": "čhave",
+    "lokál": "čhavende",
+    "ablatív": "čhavendar",
+    "inštrumentál": "čhavenca"
+   }
+  },
+  "čhavo|feminine|životné": {
+   "Singulár": {
+    "nominatív": "čhavo",
+    "genitív": "čhaveskero",
+    "datív": "čhaveske",
+    "akuzatív": "čhaves",
+    "vokatív": "čhaveja",
+    "lokál": "čhaveste",
+    "ablatív": "čhavestar",
+    "inštrumentál": "čhaveha"
+   },
+   "Plurál": {
+    "nominatív": "čhave",
+    "genitív": "čhavengero",
+    "datív": "čhavenge",
+    "akuzatív": "čhaven",
+    "vokatív": "čhavale",
+    "lokál": "čhavende",
+    "ablatív": "čhavendar",
+    "inštrumentál": "čhavenca"
+   }
+  },
+  "čhavo|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "čhavo",
+    "genitív": "čhaveskero",
+    "datív": "čhaveske",
+    "akuzatív": "čhavo",
+    "vokatív": "čhavo",
+    "lokál": "čhaveste",
+    "ablatív": "čhavestar",
+    "inštrumentál": "čhaveha"
+   },
+   "Plurál": {
+    "nominatív": "čhave",
+    "genitív": "čhavengero",
+    "datív": "čhavenge",
+    "akuzatív": "čhave",
+    "vokatív": "čhave",
+    "lokál": "čhavende",
+    "ablatív": "čhavendar",
+    "inštrumentál": "čhavenca"
+   }
+  },
+  "čhavo|other|životné": {
+   "Singulár": {
+    "nominatív": "čhavo",
+    "genitív": "čhaveskero",
+    "datív": "čhaveske",
+    "akuzatív": "čhaves",
+    "vokatív": "čhaveja",
+    "lokál": "čhaveste",
+    "ablatív": "čhavestar",
+    "inštrumentál": "čhaveha"
+   },
+   "Plurál": {
+    "nominatív": "čhave",
+    "genitív": "čhavengero",
+    "datív": "čhavenge",
+    "akuzatív": "čhaven",
+    "vokatív": "čhavale",
+    "lokál": "čhavende",
+    "ablatív": "čhavendar",
+    "inštrumentál": "čhavenca"
+   }
+  },
+  "čhavo|other|neživotné": {
+   "Singulár": {
+    "nominatív": "čhavo",
+    "genitív": "čhaveskero",
+    "datív": "čhaveske",
+    "akuzatív": "čhavo",
+    "vokatív": "čhavo",
+    "lokál": "čhaveste",
+    "ablatív": "čhavestar",
+    "inštrumentál": "čhaveha"
+   },
+   "Plurál": {
+    "nominatív": "čhave",
+    "genitív": "čhavengero",
+    "datív": "čhavenge",
+    "akuzatív": "čhave",
+    "vokatív": "čhave",
+    "lokál": "čhavende",
+    "ablatív": "čhavendar",
+    "inštrumentál": "čhavenca"
+   }
+  },
+  "čhaj|masculine|životné": {
+   "Singulár": {
+    "nominatív": "čhaj",
+    "genitív": "čhajeskero",
+    "datív": "čhajeske",
+    "akuzatív": "čhajes",
+    "vokatív": "čhajeja",
+    "lokál": "čhajeste",
+    "ablatív": "čhajestar",
+    "inštrumentál": "čhajeha"
+   },
+   "Plurál": {
+    "nominatív": "čhaja",
+    "genitív": "čhajengero",
+    "datív": "čhajenge",
+    "akuzatív": "čhajen",
+    "vokatív": "čhajale",
+    "lokál": "čhajende",
+    "ablatív": "čhajendar",
+    "inštrumentál": "čhajenca"
+   }
+  },
+  "čhaj|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "čhaj",
+    "genitív": "čhajeskero",
+    "datív": "čhajeske",
+    "akuzatív": "čhaj",
+    "vokatív": "čhaj",
+    "lokál": "čhajeste",
+    "ablatív": "čhajestar",
+    "inštrumentál": "čhajeha"
+   },
+   "Plurál": {
+    "nominatív": "čhaja",
+    "genitív": "čhajengero",
+    "datív": "čhajenge",
+    "akuzatív": "čhaja",
+    "vokatív": "čhaja",
+    "lokál": "čhajende",
+    "ablatív": "čhajendar",
+    "inštrumentál": "čhajenca"
+   }
+  },
+  "čhaj|feminine|životné": {
+   "Singulár": {
+    "nominatív": "čhaj",
+    "genitív": "čhajakero",
+    "datív": "čhajake",
+    "akuzatív": "čhaja",
+    "vokatív": "čhajije",
+    "lokál": "čhajate",
+    "ablatív": "čhajatar",
+    "inštrumentál": "čhajaha"
+   },
+   "Plurál": {
+    "nominatív": "čhaja",
+    "genitív": "čhajengero",
+    "datív": "čhajenge",
+    "akuzatív": "čhajen",
+    "vokatív": "čhajale",
+    "lokál": "čhajende",
+    "ablatív": "čhajendar",
+    "inštrumentál": "čhajenca"
+   }
+  },
+  "čhaj|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "čhaj",
+    "genitív": "čhajakero",
+    "datív": "čhajake",
+    "akuzatív": "čhaj",
+    "vokatív": "čhaj",
+    "lokál": "čhajate",
+    "ablatív": "čhajatar",
+    "inštrumentál": "čhajaha"
+   },
+   "Plurál": {
+    "nominatív": "čhaja",
+    "genitív": "čhajengero",
+    "datív": "čhajenge",
+    "akuzatív": "čhajen",
+    "vokatív": "čhajen",
+    "lokál": "čhajende",
+    "ablatív": "čhajendar",
+    "inštrumentál": "čhajenca"
+   }
+  },
+  "čhaj|other|životné": {
+   "Singulár": {
+    "nominatív": "čhaj",
+    "genitív": "čhajkero",
+    "datív": "čhajke",
+    "akuzatív": "čhaja",
+    "vokatív": "čhajije",
+    "lokál": "čhajte",
+    "ablatív": "čhajtar",
+    "inštrumentál": "čhajha"
+   },
+   "Plurál": {
+    "nominatív": "čhaj",
+    "genitív": "čhajgero",
+    "datív": "čhajge",
+    "akuzatív": "čhajen",
+    "vokatív": "čhajale",
+    "lokál": "čhajde",
+    "ablatív": "čhajdar",
+    "inštrumentál": "čhajca"
+   }
+  },
+  "čhaj|other|neživotné": {
+   "Singulár": {
+    "nominatív": "čhaj",
+    "genitív": "čhajkero",
+    "datív": "čhajke",
+    "akuzatív": "čhaja",
+    "vokatív": "čhajije",
+    "lokál": "čhajte",
+    "ablatív": "čhajtar",
+    "inštrumentál": "čhajha"
+   },
+   "Plurál": {
+    "nominatív": "čhaj",
+    "genitív": "čhajgero",
+    "datív": "čhajge",
+    "akuzatív": "čhajen",
+    "vokatív": "čhajale",
+    "lokál": "čhajde",
+    "ablatív": "čhajdar",
+    "inštrumentál": "čhajca"
+   }
+  },
+  "dad|masculine|životné": {
+   "Singulár": {
+    "nominatív": "dad",
+    "genitív": "dadeskero",
+    "datív": "dadeske",
+    "akuzatív": "dades",
+    "vokatív": "dadeja",
+    "lokál": "dadeste",
+    "ablatív": "dadestar",
+    "inštrumentál": "dadeha"
+   },
+   "Plurál": {
+    "nominatív": "dada",
+    "genitív": "dadengero",
+    "datív": "dadenge",
+    "akuzatív": "daden",
+    "vokatív": "dadale",
+    "lokál": "dadende",
+    "ablatív": "dadendar",
+    "inštrumentál": "dadenca"
+   }
+  },
+  "dad|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "dad",
+    "genitív": "dadeskero",
+    "datív": "dadeske",
+    "akuzatív": "dad",
+    "vokatív": "dad",
+    "lokál": "dadeste",
+    "ablatív": "dadestar",
+    "inštrumentál": "dadeha"
+   },
+   "Plurál": {
+    "nominatív": "dada",
+    "genitív": "dadengero",
+    "datív": "dadenge",
+    "akuzatív": "dada",
+    "vokatív": "dada",
+    "lokál": "dadende",
+    "ablatív": "dadendar",
+    "inštrumentál": "dadenca"
+   }
+  },
+  "dad|feminine|životné": {
+   "Singulár": {
+    "nominatív": "dad",
+    "genitív": "dadakero",
+    "datív": "dadake",
+    "akuzatív": "dada",
+    "vokatív": "dadije",
+    "lokál": "dadate",
+    "ablatív": "dadatar",
+    "inštrumentál": "dadaha"
+   },
+   "Plurál": {
+    "nominatív": "dada",
+    "genitív": "dadengero",
+    "datív": "dadenge",
+    "akuzatív": "daden",
+    "vokatív": "dadale",
+    "lokál": "dadende",
+    "ablatív": "dadendar",
+    "inštrumentál": "dadenca"
+   }
+  },
+  "dad|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "dad",
+    "genitív": "dadakero",
+    "datív": "dadake",
+    "akuzatív": "dad",
+    "vokatív": "dad",
+    "lokál": "dadate",
+    "ablatív": "dadatar",
+    "inštrumentál": "dadaha"
+   },
+   "Plurál": {
+    "nominatív": "dada",
+    "genitív": "dadengero",
+    "datív": "dadenge",
+    "akuzatív": "daden",
+    "vokatív": "daden",
+    "lokál": "dadende",
+    "ablatív": "dadendar",
+    "inštrumentál": "dadenca"
+   }
+  },
+  "dad|other|životné": {
+   "Singulár": {
+    "nominatív": "dad",
+    "genitív": "dadkero",
+    "datív": "dadke",
+    "akuzatív": "dada",
+    "vokatív": "dadije",
+    "lokál": "dadte",
+    "ablatív": "dadtar",
+    "inštrumentál": "dadha"
+   },
+   "Plurál": {
+    "nominatív": "dad",
+    "genitív": "dadgero",
+    "datív": "dadge",
+    "akuzatív": "daden",
+    "vokatív": "dadale",
+    "lokál": "dadde",
+    "ablatív": "daddar",
+    "inštrumentál": "dadca"
+   }
+  },
+  "dad|other|neživotné": {
+   "Singulár": {
+    "nominatív": "dad",
+    "genitív": "dadkero",
+    "datív": "dadke",
+    "akuzatív": "dada",
+    "vokatív": "dadije",
+    "lokál": "dadte",
+    "ablatív": "dadtar",
+    "inštrumentál": "dadha"
+   },
+   "Plurál": {
+    "nominatív": "dad",
+    "genitív": "dadgero",
+    "datív": "dadge",
+    "akuzatív": "daden",
+    "vokatív": "dadale",
+    "lokál": "dadde",
+    "ablatív": "daddar",
+    "inštrumentál": "dadca"
+   }
+  },
+  "daj|masculine|životné": {
+   "Singulár": {
+    "nominatív": "daj",
+    "genitív": "dajeskero",
+    "datív": "dajeske",
+    "akuzatív": "dajes",
+    "vokatív": "dajeja",
+    "lokál": "dajeste",
+    "ablatív": "dajestar",
+    "inštrumentál": "dajeha"
+   },
+   "Plurál": {
+    "nominatív": "daja",
+    "genitív": "dajengero",
+    "datív": "dajenge",
+    "akuzatív": "dajen",
+    "vokatív": "dajale",
+    "lokál": "dajende",
+    "ablatív": "dajendar",
+    "inštrumentál": "dajenca"
+   }
+  },
+  "daj|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "daj",
+    "genitív": "dajeskero",
+    "datív": "dajeske",
+    "akuzatív": "daj",
+    "vokatív": "daj",
+    "lokál": "dajeste",
+    "ablatív": "dajestar",
+    "inštrumentál": "dajeha"
+   },
+   "Plurál": {
+    "nominatív": "daja",
+    "genitív": "dajengero",
+    "datív": "dajenge",
+    "akuzatív": "daja",
+    "vokatív": "daja",
+    "lokál": "dajende",
+    "ablatív": "dajendar",
+    "inštrumentál": "dajenca"
+   }
+  },
+  "daj|feminine|životné": {
+   "Singulár": {
+    "nominatív": "daj",
+    "genitív": "dajakero",
+    "datív": "dajake",
+    "akuzatív": "daja",
+    "vokatív": "dajije",
+    "lokál": "dajate",
+    "ablatív": "dajatar",
+    "inštrumentál": "dajaha"
+   },
+   "Plurál": {
+    "nominatív": "daja",
+    "genitív": "dajengero",
+    "datív": "dajenge",
+    "akuzatív": "dajen",
+    "vokatív": "dajale",
+    "lokál": "dajende",
+    "ablatív": "dajendar",
+    "inštrumentál": "dajenca"
+   }
+  },
+  "daj|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "daj",
+    "genitív": "dajakero",
+    "datív": "dajake",
+    "akuzatív": "daj",
+    "vokatív": "daj",
+    "lokál": "dajate",
+    "ablatív": "dajatar",
+    "inštrumentál": "dajaha"
+   },
+   "Plurál": {
+    "nominatív": "daja",
+    "genitív": "dajengero",
+    "datív": "dajenge",
+    "akuzatív": "dajen",
+    "vokatív": "dajen",
+    "lokál": "dajende",
+    "ablatív": "dajendar",
+    "inštrumentál": "dajenca"
+   }
+  },
+  "daj|other|životné": {
+   "Singulár": {
+    "nominatív": "daj",
+    "genitív": "dajkero",
+    "datív": "dajke",
+    "akuzatív": "daja",
+    "vokatív": "dajije",
+    "lokál": "dajte",
+    "ablatív": "dajtar",
+    "inštrumentál": "dajha"
+   },
+   "Plurál": {
+    "nominatív": "daj",
+    "genitív": "dajgero",
+    "datív": "dajge",
+    "akuzatív": "dajen",
+    "vokatív": "dajale",
+    "lokál": "dajde",
+    "ablatív": "dajdar",
+    "inštrumentál": "dajca"
+   }
+  },
+  "daj|other|neživotné": {
+   "Singulár": {
+    "nominatív": "daj",
+    "genitív": "dajkero",
+    "datív": "dajke",
+    "akuzatív": "daja",
+    "vokatív": "dajije",
+    "lokál": "dajte",
+    "ablatív": "dajtar",
+    "inštrumentál": "dajha"
+   },
+   "Plurál": {
+    "nominatív": "daj",
+    "genitív": "dajgero",
+    "datív": "dajge",
+    "akuzatív": "dajen",
+    "vokatív": "dajale",
+    "lokál": "dajde",
+    "ablatív": "dajdar",
+    "inštrumentál": "dajca"
+   }
+  },
+  "balval|masculine|životné": {
+   "Singulár": {
+    "nominatív": "balval",
+    "genitív": "balvaleskero",
+    "datív": "balvaleske",
+    "akuzatív": "balvales",
+    "vokatív": "balvaleja",
+    "lokál": "balvaleste",
+    "ablatív": "balvalestar",
+    "inštrumentál": "balvaleha"
+   },
+   "Plurál": {
+    "nominatív": "balvala",
+    "genitív": "balvalengero",
+    "datív": "balvalenge",
+    "akuzatív": "balvalen",
+    "vokatív": "balvalale",
+    "lokál": "balvalende",
+    "ablatív": "balvalendar",
+    "inštrumentál": "balvalenca"
+   }
+  },
+  "balval|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "balval",
+    "genitív": "balvaleskero",
+    "datív": "balvaleske",
+    "akuzatív": "balval",
+    "vokatív": "balval",
+    "lokál": "balvaleste",
+    "ablatív": "balvalestar",
+    "inštrumentál": "balvaleha"
+   },
+   "Plurál": {
+    "nominatív": "balvala",
+    "genitív": "balvalengero",
+    "datív": "balvalenge",
+    "akuzatív": "balvala",
+    "vokatív": "balvala",
+    "lokál": "balvalende",
+    "ablatív": "balvalendar",
+    "inštrumentál": "balvalenca"
+   }
+  },
+  "balval|feminine|životné": {
+   "Singulár": {
+    "nominatív": "balval",
+    "genitív": "balvalakero",
+    "datív": "balvalake",
+    "akuzatív": "balvala",
+    "vokatív": "balvalije",
+    "lokál": "balvalate",
+    "ablatív": "balvalatar",
+    "inštrumentál": "balvalaha"
+   },
+   "Plurál": {
+    "nominatív": "balvala",
+    "genitív": "balvalengero",
+    "datív": "balvalenge",
+    "akuzatív": "balvalen",
+    "vokatív": "balvalale",
+    "lokál": "balvalende",
+    "ablatív": "balvalendar",
+    "inštrumentál": "balvalenca"
+   }
+  },
+  "balval|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "balval",
+    "genitív": "balvalakero",
+    "datív": "balvalake",
+    "akuzatív": "balval",
+    "vokatív": "balval",
+    "lokál": "balvalate",
+    "ablatív": "balvalatar",
+    "inštrumentál": "balvalaha"
+   },
+   "Plurál": {
+    "nominatív": "balvala",
+    "genitív": "balvalengero",
+    "datív": "balvalenge",
+    "akuzatív": "balvalen",
+    "vokatív": "balvalen",
+    "lokál": "balvalende",
+    "ablatív": "balvalendar",
+    "inštrumentál": "balvalenca"
+   }
+  },
+  "balval|other|životné": {
+   "Singulár": {
+    "nominatív": "balval",
+    "genitív": "balvalkero",
+    "datív": "balvalke",
+    "akuzatív": "balvala",
+    "vokatív": "balvalije",
+    "lokál": "balvalte",
+    "ablatív": "balvaltar",
+    "inštrumentál": "balvalha"
+   },
+   "Plurál": {
+    "nominatív": "balval",
+    "genitív": "balvalgero",
+    "datív": "balvalge",
+    "akuzatív": "balvalen",
+    "vokatív": "balvalale",
+    "lokál": "balvalde",
+    "ablatív": "balvaldar",
+    "inštrumentál": "balvalca"
+   }
+  },
+  "balval|other|neživotné": {
+   "Singulár": {
+    "nominatív": "balval",
+    "genitív": "balvalkero",
+    "datív": "balvalke",
+    "akuzatív": "balvala",
+    "vokatív": "balvalije",
+    "lokál": "balvalte",
+    "ablatív": "balvaltar",
+    "inštrumentál": "balvalha"
+   },
+   "Plurál": {
+    "nominatív": "balval",
+    "genitív": "balvalgero",
+    "datív": "balvalge",
+    "akuzatív": "balvalen",
+    "vokatív": "balvalale",
+    "lokál": "balvalde",
+    "ablatív": "balvaldar",
+    "inštrumentál": "balvalca"
+   }
+  },
+  "kham|masculine|životné": {
+   "Singulár": {
+    "nominatív": "kham",
+    "genitív": "khameskero",
+    "datív": "khameske",
+    "akuzatív": "khames",
+    "vokatív": "khameja",
+    "lokál": "khameste",
+    "ablatív": "khamestar",
+    "inštrumentál": "khameha"
+   },
+   "Plurál": {
+    "nominatív": "khama",
+    "genitív": "khamengero",
+    "datív": "khamenge",
+    "akuzatív": "khamen",
+    "vokatív": "khamale",
+    "lokál": "khamende",
+    "ablatív": "khamendar",
+    "inštrumentál": "khamenca"
+   }
+  },
+  "kham|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "kham",
+    "genitív": "khameskero",
+    "datív": "khameske",
+    "akuzatív": "kham",
+    "vokatív": "kham",
+    "lokál": "khameste",
+    "ablatív": "khamestar",
+    "inštrumentál": "khameha"
+   },
+   "Plurál": {
+    "nominatív": "khama",
+    "genitív": "khamengero",
+    "datív": "khamenge",
+    "akuzatív": "khama",
+    "vokatív": "khama",
+    "lokál": "khamende",
+    "ablatív": "khamendar",
+    "inštrumentál": "khamenca"
+   }
+  },
+  "kham|feminine|životné": {
+   "Singulár": {
+    "nominatív": "kham",
+    "genitív": "khamakero",
+    "datív": "khamake",
+    "akuzatív": "khama",
+    "vokatív": "khamije",
+    "lokál": "khamate",
+    "ablatív": "khamatar",
+    "inštrumentál": "khamaha"
+   },
+   "Plurál": {
+    "nominatív": "khama",
+    "genitív": "khamengero",
+    "datív": "khamenge",
+    "akuzatív": "khamen",
+    "vokatív": "khamale",
+    "lokál": "khamende",
+    "ablatív": "khamendar",
+    "inštrumentál": "khamenca"
+   }
+  },
+  "kham|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "kham",
+    "genitív": "khamakero",
+    "datív": "khamake",
+    "akuzatív": "kham",
+    "vokatív": "kham",
+    "lokál": "khamate",
+    "ablatív": "khamatar",
+    "inštrumentál": "khamaha"
+   },
+   "Plurál": {
+    "nominatív": "khama",
+    "genitív": "khamengero",
+    "datív": "khamenge",
+    "akuzatív": "khamen",
+    "vokatív": "khamen",
+    "lokál": "khamende",
+    "ablatív": "khamendar",
+    "inštrumentál": "khamenca"
+   }
+  },
+  "kham|other|životné": {
+   "Singulár": {
+    "nominatív": "kham",
+    "genitív": "khamkero",
+    "datív": "khamke",
+    "akuzatív": "khama",
+    "vokatív": "khamije",
+    "lokál": "khamte",
+    "ablatív": "khamtar",
+    "inštrumentál": "khamha"
+   },
+   "Plurál": {
+    "nominatív": "kham",
+    "genitív": "khamgero",
+    "datív": "khamge",
+    "akuzatív": "khamen",
+    "vokatív": "khamale",
+    "lokál": "khamde",
+    "ablatív": "khamdar",
+    "inštrumentál": "khamca"
+   }
+  },
+  "kham|other|neživotné": {
+   "Singulár": {
+    "nominatív": "kham",
+    "genitív": "khamkero",
+    "datív": "khamke",
+    "akuzatív": "khama",
+    "vokatív": "khamije",
+    "lokál": "khamte",
+    "ablatív": "khamtar",
+    "inštrumentál": "khamha"
+   },
+   "Plurál": {
+    "nominatív": "kham",
+    "genitív": "khamgero",
+    "datív": "khamge",
+    "akuzatív": "khamen",
+    "vokatív": "khamale",
+    "lokál": "khamde",
+    "ablatív": "khamdar",
+    "inštrumentál": "khamca"
+   }
+  },
+  "foros|masculine|životné": {
+   "Singulár": {
+    "nominatív": "foros",
+    "genitív": "foroskero",
+    "datív": "foroske",
+    "akuzatív": "foros",
+    "vokatív": "forona",
+    "lokál": "foroste",
+    "ablatív": "forostar",
+    "inštrumentál": "foroha"
+   },
+   "Plurál": {
+    "nominatív": "fori",
+    "genitív": "forengero",
+    "datív": "forenge",
+    "akuzatív": "foren",
+    "vokatív": "forale",
+    "lokál": "forende",
+    "ablatív": "forendar",
+    "inštrumentál": "forenca"
+   }
+  },
+  "foros|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "foros",
+    "genitív": "foroskero",
+    "datív": "foroske",
+    "akuzatív": "foros",
+    "vokatív": "foros",
+    "lokál": "foroste",
+    "ablatív": "forostar",
+    "inštrumentál": "foroha"
+   },
+   "Plurál": {
+    "nominatív": "fori",
+    "genitív": "forengero",
+    "datív": "forenge",
+    "akuzatív": "foren",
+    "vokatív": "foren",
+    "lokál": "forende",
+    "ablatív": "forendar",
+    "inštrumentál": "forenca"
+   }
+  },
+  "foros|feminine|životné": {
+   "Singulár": {
+    "nominatív": "foros",
+    "genitív": "foroskero",
+    "datív": "foroske",
+    "akuzatív": "foros",
+    "vokatív": "forona",
+    "lokál": "foroste",
+    "ablatív": "forostar",
+    "inštrumentál": "foroha"
+   },
+   "Plurál": {
+    "nominatív": "fori",
+    "genitív": "forengero",
+    "datív": "forenge",
+    "akuzatív": "foren",
+    "vokatív": "forale",
+    "lokál": "forende",
+    "ablatív": "forendar",
+    "inštrumentál": "forenca"
+   }
+  },
+  "foros|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "foros",
+    "genitív": "foroskero",
+    "datív": "foroske",
+    "akuzatív": "foros",
+    "vokatív": "foros",
+    "lokál": "foroste",
+    "ablatív": "forostar",
+    "inštrumentál": "foroha"
+   },
+   "Plurál": {
+    "nominatív": "fori",
+    "genitív": "forengero",
+    "datív": "forenge",
+    "akuzatív": "foren",
+    "vokatív": "foren",
+    "lokál": "forende",
+    "ablatív": "forendar",
+    "inštrumentál": "forenca"
+   }
+  },
+  "foros|other|životné": {
+   "Singulár": {
+    "nominatív": "foros",
+    "genitív": "foroskero",
+    "datív": "foroske",
+    "akuzatív": "foros",
+    "vokatív": "forona",
+    "lokál": "foroste",
+    "ablatív": "forostar",
+    "inštrumentál": "foroha"
+   },
+   "Plurál": {
+    "nominatív": "fori",
+    "genitív": "forengero",
+    "datív": "forenge",
+    "akuzatív": "foren",
+    "vokatív": "forale",
+    "lokál": "forende",
+    "ablatív": "forendar",
+    "inštrumentál": "forenca"
+   }
+  },
+  "foros|other|neživotné": {
+   "Singulár": {
+    "nominatív": "foros",
+    "genitív": "foroskero",
+    "datív": "foroske",
+    "akuzatív": "foros",
+    "vokatív": "foros",
+    "lokál": "foroste",
+    "ablatív": "forostar",
+    "inštrumentál": "foroha"
+   },
+   "Plurál": {
+    "nominatív": "fori",
+    "genitív": "forengero",
+    "datív": "forenge",
+    "akuzatív": "foren",
+    "vokatív": "foren",
+    "lokál": "forende",
+    "ablatív": "forendar",
+    "inštrumentál": "forenca"
+   }
+  },
+  "rom|masculine|životné": {
+   "Singulár": {
+    "nominatív": "rom",
+    "genitív": "romeskero",
+    "datív": "romeske",
+    "akuzatív": "romes",
+    "vokatív": "romeja",
+    "lokál": "romeste",
+    "ablatív": "romestar",
+    "inštrumentál": "romeha"
+   },
+   "Plurál": {
+    "nominatív": "roma",
+    "genitív": "romengero",
+    "datív": "romenge",
+    "akuzatív": "romen",
+    "vokatív": "romale",
+    "lokál": "romende",
+    "ablatív": "romendar",
+    "inštrumentál": "romenca"
+   }
+  },
+  "rom|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "rom",
+    "genitív": "romeskero",
+    "datív": "romeske",
+    "akuzatív": "rom",
+    "vokatív": "rom",
+    "lokál": "romeste",
+    "ablatív": "romestar",
+    "inštrumentál": "romeha"
+   },
+   "Plurál": {
+    "nominatív": "roma",
+    "genitív": "romengero",
+    "datív": "romenge",
+    "akuzatív": "roma",
+    "vokatív": "roma",
+    "lokál": "romende",
+    "ablatív": "romendar",
+    "inštrumentál": "romenca"
+   }
+  },
+  "rom|feminine|životné": {
+   "Singulár": {
+    "nominatív": "rom",
+    "genitív": "romakero",
+    "datív": "romake",
+    "akuzatív": "roma",
+    "vokatív": "romije",
+    "lokál": "romate",
+    "ablatív": "romatar",
+    "inštrumentál": "romaha"
+   },
+   "Plurál": {
+    "nominatív": "roma",
+    "genitív": "romengero",
+    "datív": "romenge",
+    "akuzatív": "romen",
+    "vokatív": "romale",
+    "lokál": "romende",
+    "ablatív": "romendar",
+    "inštrumentál": "romenca"
+   }
+  },
+  "rom|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "rom",
+    "genitív": "romakero",
+    "datív": "romake",
+    "akuzatív": "rom",
+    "vokatív": "rom",
+    "lokál": "romate",
+    "ablatív": "romatar",
+    "inštrumentál": "romaha"
+   },
+   "Plurál": {
+    "nominatív": "roma",
+    "genitív": "romengero",
+    "datív": "romenge",
+    "akuzatív": "romen",
+    "vokatív": "romen",
+    "lokál": "romende",
+    "ablatív": "romendar",
+    "inštrumentál": "romenca"
+   }
+  },
+  "rom|other|životné": {
+   "Singulár": {
+    "nominatív": "rom",
+    "genitív": "romkero",
+    "datív": "romke",
+    "akuzatív": "roma",
+    "vokatív": "romije",
+    "lokál": "romte",
+    "ablatív": "romtar",
+    "inštrumentál": "romha"
+   },
+   "Plurál": {
+    "nominatív": "rom",
+    "genitív": "romgero",
+    "datív": "romge",
+    "akuzatív": "romen",
+    "vokatív": "romale",
+    "lokál": "romde",
+    "ablatív": "romdar",
+    "inštrumentál": "romca"
+   }
+  },
+  "rom|other|neživotné": {
+   "Singulár": {
+    "nominatív": "rom",
+    "genitív": "romkero",
+    "datív": "romke",
+    "akuzatív": "roma",
+    "vokatív": "romije",
+    "lokál": "romte",
+    "ablatív": "romtar",
+    "inštrumentál": "romha"
+   },
+   "Plurál": {
+    "nominatív": "rom",
+    "genitív": "romgero",
+    "datív": "romge",
+    "akuzatív": "romen",
+    "vokatív": "romale",
+    "lokál": "romde",
+    "ablatív": "romdar",
+    "inštrumentál": "romca"
+   }
+  },
+  "romňi|masculine|životné": {
+   "Singulár": {
+    "nominatív": "romňi",
+    "genitív": "romňakero",
+    "datív": "romňake",
+    "akuzatív": "romňa",
+    "vokatív": "romňije",
+    "lokál": "romňate",
+    "ablatív": "romňatar",
+    "inštrumentál": "romňaha"
+   },
+   "Plurál": {
+    "nominatív": "romňa",
+    "genitív": "romňengero",
+    "datív": "romňenge",
+    "akuzatív": "romňen",
+    "vokatív": "romňale",
+    "lokál": "romňende",
+    "ablatív": "romňendar",
+    "inštrumentál": "romňenca"
+   }
+  },
+  "romňi|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "romňi",
+    "genitív": "romňakero",
+    "datív": "romňake",
+    "akuzatív": "romňi",
+    "vokatív": "romňi",
+    "lokál": "romňate",
+    "ablatív": "romňatar",
+    "inštrumentál": "romňaha"
+   },
+   "Plurál": {
+    "nominatív": "romňa",
+    "genitív": "romňengero",
+    "datív": "romňenge",
+    "akuzatív": "romňen",
+    "vokatív": "romňen",
+    "lokál": "romňende",
+    "ablatív": "romňendar",
+    "inštrumentál": "romňenca"
+   }
+  },
+  "romňi|feminine|životné": {
+   "Singulár": {
+    "nominatív": "romňi",
+    "genitív": "romňakero",
+    "datív": "romňake",
+    "akuzatív": "romňa",
+    "vokatív": "romňije",
+    "lokál": "romňate",
+    "ablatív": "romňatar",
+    "inštrumentál": "romňaha"
+   },
+   "Plurál": {
+    "nominatív": "romňa",
+    "genitív": "romňengero",
+    "datív": "romňenge",
+    "akuzatív": "romňen",
+    "vokatív": "romňale",
+    "lokál": "romňende",
+    "ablatív": "romňendar",
+    "inštrumentál": "romňenca"
+   }
+  },
+  "romňi|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "romňi",
+    "genitív": "romňakero",
+    "datív": "romňake",
+    "akuzatív": "romňi",
+    "vokatív": "romňi",
+    "lokál": "romňate",
+    "ablatív": "romňatar",
+    "inštrumentál": "romňaha"
+   },
+   "Plurál": {
+    "nominatív": "romňa",
+    "genitív": "romňengero",
+    "datív": "romňenge",
+    "akuzatív": "romňen",
+    "vokatív": "romňen",
+    "lokál": "romňende",
+    "ablatív": "romňendar",
+    "inštrumentál": "romňenca"
+   }
+  },
+  "romňi|other|životné": {
+   "Singulár": {
+    "nominatív": "romňi",
+    "genitív": "romňakero",
+    "datív": "romňake",
+    "akuzatív": "romňa",
+    "vokatív": "romňije",
+    "lokál": "romňate",
+    "ablatív": "romňatar",
+    "inštrumentál": "romňaha"
+   },
+   "Plurál": {
+    "nominatív": "romňa",
+    "genitív": "romňengero",
+    "datív": "romňenge",
+    "akuzatív": "romňen",
+    "vokatív": "romňale",
+    "lokál": "romňende",
+    "ablatív": "romňendar",
+    "inštrumentál": "romňenca"
+   }
+  },
+  "romňi|other|neživotné": {
+   "Singulár": {
+    "nominatív": "romňi",
+    "genitív": "romňakero",
+    "datív": "romňake",
+    "akuzatív": "romňi",
+    "vokatív": "romňi",
+    "lokál": "romňate",
+    "ablatív": "romňatar",
+    "inštrumentál": "romňaha"
+   },
+   "Plurál": {
+    "nominatív": "romňa",
+    "genitív": "romňengero",
+    "datív": "romňenge",
+    "akuzatív": "romňen",
+    "vokatív": "romňen",
+    "lokál": "romňende",
+    "ablatív": "romňendar",
+    "inštrumentál": "romňenca"
+   }
+  },
+  "gadžo|masculine|životné": {
+   "Singulár": {
+    "nominatív": "gadžo",
+    "genitív": "gadžeskero",
+    "datív": "gadžeske",
+    "akuzatív": "gadžes",
+    "vokatív": "gadžeja",
+    "lokál": "gadžeste",
+    "ablatív": "gadžestar",
+    "inštrumentál": "gadžeha"
+   },
+   "Plurál": {
+    "nominatív": "gadže",
+    "genitív": "gadžengero",
+    "datív": "gadženge",
+    "akuzatív": "gadžen",
+    "vokatív": "gadžale",
+    "lokál": "gadžende",
+    "ablatív": "gadžendar",
+    "inštrumentál": "gadženca"
+   }
+  },
+  "gadžo|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "gadžo",
+    "genitív": "gadžeskero",
+    "datív": "gadžeske",
+    "akuzatív": "gadžo",
+    "vokatív": "gadžo",
+    "lokál": "gadžeste",
+    "ablatív": "gadžestar",
+    "inštrumentál": "gadžeha"
+   },
+   "Plurál": {
+    "nominatív": "gadže",
+    "genitív": "gadžengero",
+    "datív": "gadženge",
+    "akuzatív": "gadže",
+    "vokatív": "gadže",
+    "lokál": "gadžende",
+    "ablatív": "gadžendar",
+    "inštrumentál": "gadženca"
+   }
+  },
+  "gadžo|feminine|životné": {
+   "Singulár": {
+    "nominatív": "gadžo",
+    "genitív": "gadžeskero",
+    "datív": "gadžeske",
+    "akuzatív": "gadžes",
+    "vokatív": "gadžeja",
+    "lokál": "gadžeste",
+    "ablatív": "gadžestar",
+    "inštrumentál": "gadžeha"
+   },
+   "Plurál": {
+    "nominatív": "gadže",
+    "genitív": "gadžengero",
+    "datív": "gadženge",
+    "akuzatív": "gadžen",
+    "vokatív": "gadžale",
+    "lokál": "gadžende",
+    "ablatív": "gadžendar",
+    "inštrumentál": "gadženca"
+   }
+  },
+  "gadžo|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "gadžo",
+    "genitív": "gadžeskero",
+    "datív": "gadžeske",
+    "akuzatív": "gadžo",
+    "vokatív": "gadžo",
+    "lokál": "gadžeste",
+    "ablatív": "gadžestar",
+    "inštrumentál": "gadžeha"
+   },
+   "Plurál": {
+    "nominatív": "gadže",
+    "genitív": "gadžengero",
+    "datív": "gadženge",
+    "akuzatív": "gadže",
+    "vokatív": "gadže",
+    "lokál": "gadžende",
+    "ablatív": "gadžendar",
+    "inštrumentál": "gadženca"
+   }
+  },
+  "gadžo|other|životné": {
+   "Singulár": {
+    "nominatív": "gadžo",
+    "genitív": "gadžeskero",
+    "datív": "gadžeske",
+    "akuzatív": "gadžes",
+    "vokatív": "gadžeja",
+    "lokál": "gadžeste",
+    "ablatív": "gadžestar",
+    "inštrumentál": "gadžeha"
+   },
+   "Plurál": {
+    "nominatív": "gadže",
+    "genitív": "gadžengero",
+    "datív": "gadženge",
+    "akuzatív": "gadžen",
+    "vokatív": "gadžale",
+    "lokál": "gadžende",
+    "ablatív": "gadžendar",
+    "inštrumentál": "gadženca"
+   }
+  },
+  "gadžo|other|neživotné": {
+   "Singulár": {
+    "nominatív": "gadžo",
+    "genitív": "gadžeskero",
+    "datív": "gadžeske",
+    "akuzatív": "gadžo",
+    "vokatív": "gadžo",
+    "lokál": "gadžeste",
+    "ablatív": "gadžestar",
+    "inštrumentál": "gadžeha"
+   },
+   "Plurál": {
+    "nominatív": "gadže",
+    "genitív": "gadžengero",
+    "datív": "gadženge",
+    "akuzatív": "gadže",
+    "vokatív": "gadže",
+    "lokál": "gadžende",
+    "ablatív": "gadžendar",
+    "inštrumentál": "gadženca"
+   }
+  },
+  "čiriklo|masculine|životné": {
+   "Singulár": {
+    "nominatív": "čiriklo",
+    "genitív": "čirikleskero",
+    "datív": "čirikleske",
+    "akuzatív": "čirikles",
+    "vokatív": "čirikleja",
+    "lokál": "čirikleste",
+    "ablatív": "čiriklestar",
+    "inštrumentál": "čirikleha"
+   },
+   "Plurál": {
+    "nominatív": "čirikle",
+    "genitív": "čiriklengero",
+    "datív": "čiriklenge",
+    "akuzatív": "čiriklen",
+    "vokatív": "čiriklale",
+    "lokál": "čiriklende",
+    "ablatív": "čiriklendar",
+    "inštrumentál": "čiriklenca"
+   }
+  },
+  "čiriklo|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "čiriklo",
+    "genitív": "čirikleskero",
+    "datív": "čirikleske",
+    "akuzatív": "čiriklo",
+    "vokatív": "čiriklo",
+    "lokál": "čirikleste",
+    "ablatív": "čiriklestar",
+    "inštrumentál": "čirikleha"
+   },
+   "Plurál": {
+    "nominatív": "čirikle",
+    "genitív": "čiriklengero",
+    "datív": "čiriklenge",
+    "akuzatív": "čirikle",
+    "vokatív": "čirikle",
+    "lokál": "čiriklende",
+    "ablatív": "čiriklendar",
+    "inštrumentál": "čiriklenca"
+   }
+  },
+  "čiriklo|feminine|životné": {
+   "Singulár": {
+    "nominatív": "čiriklo",
+    "genitív": "čirikleskero",
+    "datív": "čirikleske",
+    "akuzatív": "čirikles",
+    "vokatív": "čirikleja",
+    "lokál": "čirikleste",
+    "ablatív": "čiriklestar",
+    "inštrumentál": "čirikleha"
+   },
+   "Plurál": {
+    "nominatív": "čirikle",
+    "genitív": "čiriklengero",
+    "datív": "čiriklenge",
+    "akuzatív": "čiriklen",
+    "vokatív": "čiriklale",
+    "lokál": "čiriklende",
+    "ablatív": "čiriklendar",
+    "inštrumentál": "čiriklenca"
+   }
+  },
+  "čiriklo|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "čiriklo",
+    "genitív": "čirikleskero",
+    "datív": "čirikleske",
+    "akuzatív": "čiriklo",
+    "vokatív": "čiriklo",
+    "lokál": "čirikleste",
+    "ablatív": "čiriklestar",
+    "inštrumentál": "čirikleha"
+   },
+   "Plurál": {
+    "nominatív": "čirikle",
+    "genitív": "čiriklengero",
+    "datív": "čiriklenge",
+    "akuzatív": "čirikle",
+    "vokatív": "čirikle",
+    "lokál": "čiriklende",
+    "ablatív": "čiriklendar",
+    "inštrumentál": "čiriklenca"
+   }
+  },
+  "čiriklo|other|životné": {
+   "Singulár": {
+    "nominatív": "čiriklo",
+    "genitív": "čirikleskero",
+    "datív": "čirikleske",
+    "akuzatív": "čirikles",
+    "vokatív": "čirikleja",
+    "lokál": "čirikleste",
+    "ablatív": "čiriklestar",
+    "inštrumentál": "čirikleha"
+   },
+   "Plurál": {
+    "nominatív": "čirikle",
+    "genitív": "čiriklengero",
+    "datív": "čiriklenge",
+    "akuzatív": "čiriklen",
+    "vokatív": "čiriklale",
+    "lokál": "čiriklende",
+    "ablatív": "čiriklendar",
+    "inštrumentál": "čiriklenca"
+   }
+  },
+  "čiriklo|other|neživotné": {
+   "Singulár": {
+    "nominatív": "čiriklo",
+    "genitív": "čirikleskero",
+    "datív": "čirikleske",
+    "akuzatív": "čiriklo",
+    "vokatív": "čiriklo",
+    "lokál": "čirikleste",
+    "ablatív": "čiriklestar",
+    "inštrumentál": "čirikleha"
+   },
+   "Plurál": {
+    "nominatív": "čirikle",
+    "genitív": "čiriklengero",
+    "datív": "čiriklenge",
+    "akuzatív": "čirikle",
+    "vokatív": "čirikle",
+    "lokál": "čiriklende",
+    "ablatív": "čiriklendar",
+    "inštrumentál": "čiriklenca"
+   }
+  },
+  "šero|masculine|životné": {
+   "Singulár": {
+    "nominatív": "šero",
+    "genitív": "šereskero",
+    "datív": "šereske",
+    "akuzatív": "šeres",
+    "vokatív": "šereja",
+    "lokál": "šereste",
+    "ablatív": "šerestar",
+    "inštrumentál": "šereha"
+   },
+   "Plurál": {
+    "nominatív": "šere",
+    "genitív": "šerengero",
+    "datív": "šerenge",
+    "akuzatív": "šeren",
+    "vokatív": "šerale",
+    "lokál": "šerende",
+    "ablatív": "šerendar",
+    "inštrumentál": "šerenca"
+   }
+  },
+  "šero|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "šero",
+    "genitív": "šereskero",
+    "datív": "šereske",
+    "akuzatív": "šero",
+    "vokatív": "šero",
+    "lokál": "šereste",
+    "ablatív": "šerestar",
+    "inštrumentál": "šereha"
+   },
+   "Plurál": {
+    "nominatív": "šere",
+    "genitív": "šerengero",
+    "datív": "šerenge",
+    "akuzatív": "šere",
+    "vokatív": "šere",
+    "lokál": "šerende",
+    "ablatív": "šerendar",
+    "inštrumentál": "šerenca"
+   }
+  },
+  "šero|feminine|životné": {
+   "Singulár": {
+    "nominatív": "šero",
+    "genitív": "šereskero",
+    "datív": "šereske",
+    "akuzatív": "šeres",
+    "vokatív": "šereja",
+    "lokál": "šereste",
+    "ablatív": "šerestar",
+    "inštrumentál": "šereha"
+   },
+   "Plurál": {
+    "nominatív": "šere",
+    "genitív": "šerengero",
+    "datív": "šerenge",
+    "akuzatív": "šeren",
+    "vokatív": "šerale",
+    "lokál": "šerende",
+    "ablatív": "šerendar",
+    "inštrumentál": "šerenca"
+   }
+  },
+  "šero|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "šero",
+    "genitív": "šereskero",
+    "datív": "šereske",
+    "akuzatív": "šero",
+    "vokatív": "šero",
+    "lokál": "šereste",
+    "ablatív": "šerestar",
+    "inštrumentál": "šereha"
+   },
+   "Plurál": {
+    "nominatív": "šere",
+    "genitív": "šerengero",
+    "datív": "šerenge",
+    "akuzatív": "šere",
+    "vokatív": "šere",
+    "lokál": "šerende",
+    "ablatív": "šerendar",
+    "inštrumentál": "šerenca"
+   }
+  },
+  "šero|other|životné": {
+   "Singulár": {
+    "nominatív": "šero",
+    "genitív": "šereskero",
+    "datív": "šereske",
+    "akuzatív": "šeres",
+    "vokatív": "šereja",
+    "lokál": "šereste",
+    "ablatív": "šerestar",
+    "inštrumentál": "šereha"
+   },
+   "Plurál": {
+    "nominatív": "šere",
+    "genitív": "šerengero",
+    "datív": "šerenge",
+    "akuzatív": "šeren",
+    "vokatív": "šerale",
+    "lokál": "šerende",
+    "ablatív": "šerendar",
+    "inštrumentál": "šerenca"
+   }
+  },
+  "šero|other|neživotné": {
+   "Singulár": {
+    "nominatív": "šero",
+    "genitív": "šereskero",
+    "datív": "šereske",
+    "akuzatív": "šero",
+    "vokatív": "šero",
+    "lokál": "šereste",
+    "ablatív": "šerestar",
+    "inštrumentál": "šereha"
+   },
+   "Plurál": {
+    "nominatív": "šere",
+    "genitív": "šerengero",
+    "datív": "šerenge",
+    "akuzatív": "šere",
+    "vokatív": "šere",
+    "lokál": "šerende",
+    "ablatív": "šerendar",
+    "inštrumentál": "šerenca"
+   }
+  },
+  "jakh|masculine|životné": {
+   "Singulár": {
+    "nominatív": "jakh",
+    "genitív": "jakheskero",
+    "datív": "jakheske",
+    "akuzatív": "jakhes",
+    "vokatív": "jakheja",
+    "lokál": "jakheste",
+    "ablatív": "jakhestar",
+    "inštrumentál": "jakheha"
+   },
+   "Plurál": {
+    "nominatív": "jakha",
+    "genitív": "jakhengero",
+    "datív": "jakhenge",
+    "akuzatív": "jakhen",
+    "vokatív": "jakhale",
+    "lokál": "jakhende",
+    "ablatív": "jakhendar",
+    "inštrumentál": "jakhenca"
+   }
+  },
+  "jakh|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "jakh",
+    "genitív": "jakheskero",
+    "datív": "jakheske",
+    "akuzatív": "jakh",
+    "vokatív": "jakh",
+    "lokál": "jakheste",
+    "ablatív": "jakhestar",
+    "inštrumentál": "jakheha"
+   },
+   "Plurál": {
+    "nominatív": "jakha",
+    "genitív": "jakhengero",
+    "datív": "jakhenge",
+    "akuzatív": "jakha",
+    "vokatív": "jakha",
+    "lokál": "jakhende",
+    "ablatív": "jakhendar",
+    "inštrumentál": "jakhenca"
+   }
+  },
+  "jakh|feminine|životné": {
+   "Singulár": {
+    "nominatív": "jakh",
+    "genitív": "jakhakero",
+    "datív": "jakhake",
+    "akuzatív": "jakha",
+    "vokatív": "jakhije",
+    "lokál": "jakhate",
+    "ablatív": "jakhatar",
+    "inštrumentál": "jakhaha"
+   },
+   "Plurál": {
+    "nominatív": "jakha",
+    "genitív": "jakhengero",
+    "datív": "jakhenge",
+    "akuzatív": "jakhen",
+    "vokatív": "jakhale",
+    "lokál": "jakhende",
+    "ablatív": "jakhendar",
+    "inštrumentál": "jakhenca"
+   }
+  },
+  "jakh|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "jakh",
+    "genitív": "jakhakero",
+    "datív": "jakhake",
+    "akuzatív": "jakh",
+    "vokatív": "jakh",
+    "lokál": "jakhate",
+    "ablatív": "jakhatar",
+    "inštrumentál": "jakhaha"
+   },
+   "Plurál": {
+    "nominatív": "jakha",
+    "genitív": "jakhengero",
+    "datív": "jakhenge",
+    "akuzatív": "jakhen",
+    "vokatív": "jakhen",
+    "lokál": "jakhende",
+    "ablatív": "jakhendar",
+    "inštrumentál": "jakhenca"
+   }
+  },
+  "jakh|other|životné": {
+   "Singulár": {
+    "nominatív": "jakh",
+    "genitív": "jakhkero",
+    "datív": "jakhke",
+    "akuzatív": "jakha",
+    "vokatív": "jakhije",
+    "lokál": "jakhte",
+    "ablatív": "jakhtar",
+    "inštrumentál": "jakhha"
+   },
+   "Plurál": {
+    "nominatív": "jakh",
+    "genitív": "jakhgero",
+    "datív": "jakhge",
+    "akuzatív": "jakhen",
+    "vokatív": "jakhale",
+    "lokál": "jakhde",
+    "ablatív": "jakhdar",
+    "inštrumentál": "jakhca"
+   }
+  },
+  "jakh|other|neživotné": {
+   "Singulár": {
+    "nominatív": "jakh",
+    "genitív": "jakhkero",
+    "datív": "jakhke",
+    "akuzatív": "jakha",
+    "vokatív": "jakhije",
+    "lokál": "jakhte",
+    "ablatív": "jakhtar",
+    "inštrumentál": "jakhha"
+   },
+   "Plurál": {
+    "nominatív": "jakh",
+    "genitív": "jakhgero",
+    "datív": "jakhge",
+    "akuzatív": "jakhen",
+    "vokatív": "jakhale",
+    "lokál": "jakhde",
+    "ablatív": "jakhdar",
+    "inštrumentál": "jakhca"
+   }
+  },
+  "vast|masculine|životné": {
+   "Singulár": {
+    "nominatív": "vast",
+    "genitív": "vasteskero",
+    "datív": "vasteske",
+    "akuzatív": "vastes",
+    "vokatív": "vasteja",
+    "lokál": "vasteste",
+    "ablatív": "vastestar",
+    "inštrumentál": "vasteha"
+   },
+   "Plurál": {
+    "nominatív": "vasta",
+    "genitív": "vastengero",
+    "datív": "vastenge",
+    "akuzatív": "vasten",
+    "vokatív": "vastale",
+    "lokál": "vastende",
+    "ablatív": "vastendar",
+    "inštrumentál": "vastenca"
+   }
+  },
+  "vast|masculine|neživotné": {
+   "Singulár": {
+    "nominatív": "vast",
+    "genitív": "vasteskero",
+    "datív": "vasteske",
+    "akuzatív": "vast",
+    "vokatív": "vast",
+    "lokál": "vasteste",
+    "ablatív": "vastestar",
+    "inštrumentál": "vasteha"
+   },
+   "Plurál": {
+    "nominatív": "vasta",
+    "genitív": "vastengero",
+    "datív": "vastenge",
+    "akuzatív": "vasta",
+    "vokatív": "vasta",
+    "lokál": "vastende",
+    "ablatív": "vastendar",
+    "inštrumentál": "vastenca"
+   }
+  },
+  "vast|feminine|životné": {
+   "Singulár": {
+    "nominatív": "vast",
+    "genitív": "vastakero",
+    "datív": "vastake",
+    "akuzatív": "vasta",
+    "vokatív": "vastije",
+    "lokál": "vastate",
+    "ablatív": "vastatar",
+    "inštrumentál": "vastaha"
+   },
+   "Plurál": {
+    "nominatív": "vasta",
+    "genitív": "vastengero",
+    "datív": "vastenge",
+    "akuzatív": "vasten",
+    "vokatív": "vastale",
+    "lokál": "vastende",
+    "ablatív": "vastendar",
+    "inštrumentál": "vastenca"
+   }
+  },
+  "vast|feminine|neživotné": {
+   "Singulár": {
+    "nominatív": "vast",
+    "genitív": "vastakero",
+    "datív": "vastake",
+    "akuzatív": "vast",
+    "vokatív": "vast",
+    "lokál": "vastate",
+    "ablatív": "vastatar",
+    "inštrumentál": "vastaha"
+   },
+   "Plurál": {
+    "nominatív": "vasta",
+    "genitív": "vastengero",
+    "datív": "vastenge",
+    "akuzatív": "vasten",
+    "vokatív": "vasten",
+    "lokál": "vastende",
+    "ablatív": "vastendar",
+    "inštrumentál": "vastenca"
+   }
+  },
+  "vast|other|životné": {
+   "Singulár": {
+    "nominatív": "vast",
+    "genitív": "vastkero",
+    "datív": "vastke",
+    "akuzatív": "vasta",
+    "vokatív": "vastije",
+    "lokál": "vastte",
+    "ablatív": "vasttar",
+    "inštrumentál": "vastha"
+   },
+   "Plurál": {
+    "nominatív": "vast",
+    "genitív": "vastgero",
+    "datív": "vastge",
+    "akuzatív": "vasten",
+    "vokatív": "vastale",
+    "lokál": "vastde",
+    "ablatív": "vastdar",
+    "inštrumentál": "vastca"
+   }
+  },
+  "vast|other|neživotné": {
+   "Singulár": {
+    "nominatív": "vast",
+    "genitív": "vastkero",
+    "datív": "vastke",
+    "akuzatív": "vasta",
+    "vokatív": "vastije",
+    "lokál": "vastte",
+    "ablatív": "vasttar",
+    "inštrumentál": "vastha"
+   },
+   "Plurál": {
+    "nominatív": "vast",
+    "genitív": "vastgero",
+    "datív": "vastge",
+    "akuzatív": "vasten",
+    "vokatív": "vastale",
+    "lokál": "vastde",
+    "ablatív": "vastdar",
+    "inštrumentál": "vastca"
+   }
+  }
+ },
+ "verbs": {
+  "dikhel": {
+   "pres": {
+    "1": {
+     "sg": "dikhav",
+     "pl": "dikhas"
+    },
+    "2": {
+     "sg": "dikhes",
+     "pl": "dikhen"
+    },
+    "3": {
+     "sg": "dikhel",
+     "pl": "dikhen"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "dikhava",
+     "pl": "dikhaha"
+    },
+    "2": {
+     "sg": "dikheha",
+     "pl": "dikhena"
+    },
+    "3": {
+     "sg": "dikhela",
+     "pl": "dikhena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "dikhavas",
+     "pl": "dikhahas"
+    },
+    "2": {
+     "sg": "dikhehas",
+     "pl": "dikhenas"
+    },
+    "3": {
+     "sg": "dikhelas",
+     "pl": "dikhenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "dikhľom",
+     "pl": "dikhľam"
+    },
+    "2": {
+     "sg": "dikhľal",
+     "pl": "dikhľan"
+    },
+    "3": {
+     "sg": "dikhľas",
+     "pl": "dikhle"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "dikhavas",
+     "pl": "dikhahas"
+    },
+    "2": {
+     "sg": "dikhehas",
+     "pl": "dikhenas"
+    },
+    "3": {
+     "sg": "dikhelas",
+     "pl": "dikhenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "dikhľomas",
+     "pl": "dikhľamas"
+    },
+    "2": {
+     "sg": "dikhľalas",
+     "pl": "dikhľanas"
+    },
+    "3": {
+     "sg": "dikhľahas",
+     "pl": "dikhlehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "dikh!",
+     "pl": "dikhen!"
+    }
+   }
+  },
+  "kerel": {
+   "pres": {
+    "1": {
+     "sg": "kerav",
+     "pl": "keras"
+    },
+    "2": {
+     "sg": "keres",
+     "pl": "keren"
+    },
+    "3": {
+     "sg": "kerel",
+     "pl": "keren"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "kerava",
+     "pl": "keraha"
+    },
+    "2": {
+     "sg": "kereha",
+     "pl": "kerena"
+    },
+    "3": {
+     "sg": "kerela",
+     "pl": "kerena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "keravas",
+     "pl": "kerahas"
+    },
+    "2": {
+     "sg": "kerehas",
+     "pl": "kerenas"
+    },
+    "3": {
+     "sg": "kerelas",
+     "pl": "kerenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "kerďom",
+     "pl": "kerďam"
+    },
+    "2": {
+     "sg": "kerďal",
+     "pl": "kerďan"
+    },
+    "3": {
+     "sg": "kerďas",
+     "pl": "kerde"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "keravas",
+     "pl": "kerahas"
+    },
+    "2": {
+     "sg": "kerehas",
+     "pl": "kerenas"
+    },
+    "3": {
+     "sg": "kerelas",
+     "pl": "kerenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "kerďomas",
+     "pl": "kerďamas"
+    },
+    "2": {
+     "sg": "kerďalas",
+     "pl": "kerďanas"
+    },
+    "3": {
+     "sg": "kerďahas",
+     "pl": "kerdehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "ker!",
+     "pl": "keren!"
+    }
+   }
+  },
+  "phenel": {
+   "pres": {
+    "1": {
+     "sg": "phenav",
+     "pl": "phenas"
+    },
+    "2": {
+     "sg": "phenes",
+     "pl": "phenen"
+    },
+    "3": {
+     "sg": "phenel",
+     "pl": "phenen"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "phenava",
+     "pl": "phenaha"
+    },
+    "2": {
+     "sg": "pheneha",
+     "pl": "phenena"
+    },
+    "3": {
+     "sg": "phenela",
+     "pl": "phenena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "phenavas",
+     "pl": "phenahas"
+    },
+    "2": {
+     "sg": "phenehas",
+     "pl": "phenenas"
+    },
+    "3": {
+     "sg": "phenelas",
+     "pl": "phenenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "phenďom",
+     "pl": "phenďam"
+    },
+    "2": {
+     "sg": "phenďal",
+     "pl": "phenďan"
+    },
+    "3": {
+     "sg": "phenďas",
+     "pl": "phende"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "phenavas",
+     "pl": "phenahas"
+    },
+    "2": {
+     "sg": "phenehas",
+     "pl": "phenenas"
+    },
+    "3": {
+     "sg": "phenelas",
+     "pl": "phenenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "phenďomas",
+     "pl": "phenďamas"
+    },
+    "2": {
+     "sg": "phenďalas",
+     "pl": "phenďanas"
+    },
+    "3": {
+     "sg": "phenďahas",
+     "pl": "phendehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "phen!",
+     "pl": "phenen!"
+    }
+   }
+  },
+  "kamel": {
+   "pres": {
+    "1": {
+     "sg": "kamav",
+     "pl": "kamas"
+    },
+    "2": {
+     "sg": "kames",
+     "pl": "kamen"
+    },
+    "3": {
+     "sg": "kamel",
+     "pl": "kamen"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "kamava",
+     "pl": "kamaha"
+    },
+    "2": {
+     "sg": "kameha",
+     "pl": "kamena"
+    },
+    "3": {
+     "sg": "kamela",
+     "pl": "kamena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "kamavas",
+     "pl": "kamahas"
+    },
+    "2": {
+     "sg": "kamehas",
+     "pl": "kamenas"
+    },
+    "3": {
+     "sg": "kamelas",
+     "pl": "kamenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "kamľom",
+     "pl": "kamľam"
+    },
+    "2": {
+     "sg": "kamľal",
+     "pl": "kamľan"
+    },
+    "3": {
+     "sg": "kamľas",
+     "pl": "kamle"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "kamavas",
+     "pl": "kamahas"
+    },
+    "2": {
+     "sg": "kamehas",
+     "pl": "kamenas"
+    },
+    "3": {
+     "sg": "kamelas",
+     "pl": "kamenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "kamľomas",
+     "pl": "kamľamas"
+    },
+    "2": {
+     "sg": "kamľalas",
+     "pl": "kamľanas"
+    },
+    "3": {
+     "sg": "kamľahas",
+     "pl": "kamlehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "kam!",
+     "pl": "kamen!"
+    }
+   }
+  },
+  "bašal": {
+   "pres": {
+    "1": {
+     "sg": "bašav",
+     "pl": "bašas"
+    },
+    "2": {
+     "sg": "bašas",
+     "pl": "bašan"
+    },
+    "3": {
+     "sg": "bašal",
+     "pl": "bašan"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "bašava",
+     "pl": "bašaha"
+    },
+    "2": {
+     "sg": "bašaha",
+     "pl": "bašana"
+    },
+    "3": {
+     "sg": "bašala",
+     "pl": "bašana"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "bašavas",
+     "pl": "bašahas"
+    },
+    "2": {
+     "sg": "bašahas",
+     "pl": "bašanas"
+    },
+    "3": {
+     "sg": "bašalas",
+     "pl": "bašanas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "bašanďom",
+     "pl": "bašanďam"
+    },
+    "2": {
+     "sg": "bašanďal",
+     "pl": "bašanďan"
+    },
+    "3": {
+     "sg": "bašanďas",
+     "pl": "bašande"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "bašavas",
+     "pl": "bašahas"
+    },
+    "2": {
+     "sg": "bašahas",
+     "pl": "bašanas"
+    },
+    "3": {
+     "sg": "bašalas",
+     "pl": "bašanas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "bašanďomas",
+     "pl": "bašanďamas"
+    },
+    "2": {
+     "sg": "bašanďalas",
+     "pl": "bašanďanas"
+    },
+    "3": {
+     "sg": "bašanďahas",
+     "pl": "bašandehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "baša!",
+     "pl": "bašan!"
+    }
+   }
+  },
+  "asal": {
+   "pres": {
+    "1": {
+     "sg": "asav",
+     "pl": "asas"
+    },
+    "2": {
+     "sg": "asas",
+     "pl": "asan"
+    },
+    "3": {
+     "sg": "asal",
+     "pl": "asan"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "asava",
+     "pl": "asaha"
+    },
+    "2": {
+     "sg": "asaha",
+     "pl": "asana"
+    },
+    "3": {
+     "sg": "asala",
+     "pl": "asana"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "asavas",
+     "pl": "asahas"
+    },
+    "2": {
+     "sg": "asahas",
+     "pl": "asanas"
+    },
+    "3": {
+     "sg": "asalas",
+     "pl": "asanas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "asanďom",
+     "pl": "asanďam"
+    },
+    "2": {
+     "sg": "asanďal",
+     "pl": "asanďan"
+    },
+    "3": {
+     "sg": "asanďas",
+     "pl": "asande"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "asavas",
+     "pl": "asahas"
+    },
+    "2": {
+     "sg": "asahas",
+     "pl": "asanas"
+    },
+    "3": {
+     "sg": "asalas",
+     "pl": "asanas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "asanďomas",
+     "pl": "asanďamas"
+    },
+    "2": {
+     "sg": "asanďalas",
+     "pl": "asanďanas"
+    },
+    "3": {
+     "sg": "asanďahas",
+     "pl": "asandehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "asa!",
+     "pl": "asan!"
+    }
+   }
+  },
+  "pašľol": {
+   "pres": {
+    "1": {
+     "sg": "pašľuvav",
+     "pl": "pašľuvas"
+    },
+    "2": {
+     "sg": "pašľos",
+     "pl": "pašľon"
+    },
+    "3": {
+     "sg": "pašľol",
+     "pl": "pašľon"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "pašľuvava",
+     "pl": "pašľuvaha"
+    },
+    "2": {
+     "sg": "pašľoha",
+     "pl": "pašľona"
+    },
+    "3": {
+     "sg": "pašľola",
+     "pl": "pašľona"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "pašľuvavas",
+     "pl": "pašľuvahas"
+    },
+    "2": {
+     "sg": "pašľohas",
+     "pl": "pašľonas"
+    },
+    "3": {
+     "sg": "pašľolas",
+     "pl": "pašľonas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "pašľiľom",
+     "pl": "pašľiľam"
+    },
+    "2": {
+     "sg": "pašľiľal",
+     "pl": "pašľiľan"
+    },
+    "3": {
+     "sg": "pašľiľas",
+     "pl": "pašľile"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "pašľuvavas",
+     "pl": "pašľuvahas"
+    },
+    "2": {
+     "sg": "pašľohas",
+     "pl": "pašľonas"
+    },
+    "3": {
+     "sg": "pašľolas",
+     "pl": "pašľonas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "pašľiľomas",
+     "pl": "pašľiľamas"
+    },
+    "2": {
+     "sg": "pašľiľalas",
+     "pl": "pašľiľanas"
+    },
+    "3": {
+     "sg": "pašľiľahas",
+     "pl": "pašľilehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "pašľuv!",
+     "pl": "pašľon!"
+    }
+   }
+  },
+  "čambel": {
+   "pres": {
+    "1": {
+     "sg": "čambav",
+     "pl": "čambas"
+    },
+    "2": {
+     "sg": "čambes",
+     "pl": "čamben"
+    },
+    "3": {
+     "sg": "čambel",
+     "pl": "čamben"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "čambava",
+     "pl": "čambaha"
+    },
+    "2": {
+     "sg": "čambeha",
+     "pl": "čambena"
+    },
+    "3": {
+     "sg": "čambela",
+     "pl": "čambena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "čambavas",
+     "pl": "čambahas"
+    },
+    "2": {
+     "sg": "čambehas",
+     "pl": "čambenas"
+    },
+    "3": {
+     "sg": "čambelas",
+     "pl": "čambenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "xxxom",
+     "pl": "xxxam"
+    },
+    "2": {
+     "sg": "xxxal",
+     "pl": "xxxan"
+    },
+    "3": {
+     "sg": "xxxas",
+     "pl": "xxxe"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "čambavas",
+     "pl": "čambahas"
+    },
+    "2": {
+     "sg": "čambehas",
+     "pl": "čambenas"
+    },
+    "3": {
+     "sg": "čambelas",
+     "pl": "čambenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "xxxomas",
+     "pl": "xxxamas"
+    },
+    "2": {
+     "sg": "xxxalas",
+     "pl": "xxxanas"
+    },
+    "3": {
+     "sg": "xxxahas",
+     "pl": "xxxehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "čamb!",
+     "pl": "čamben!"
+    }
+   }
+  },
+  "chuťel": {
+   "pres": {
+    "1": {
+     "sg": "chuťav",
+     "pl": "chuťas"
+    },
+    "2": {
+     "sg": "chuťes",
+     "pl": "chuťen"
+    },
+    "3": {
+     "sg": "chuťel",
+     "pl": "chuťen"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "chuťava",
+     "pl": "chuťaha"
+    },
+    "2": {
+     "sg": "chuťeha",
+     "pl": "chuťena"
+    },
+    "3": {
+     "sg": "chuťela",
+     "pl": "chuťena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "chuťavas",
+     "pl": "chuťahas"
+    },
+    "2": {
+     "sg": "chuťehas",
+     "pl": "chuťenas"
+    },
+    "3": {
+     "sg": "chuťelas",
+     "pl": "chuťenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "chuťiľom",
+     "pl": "chuťiľam"
+    },
+    "2": {
+     "sg": "chuťiľal",
+     "pl": "chuťiľan"
+    },
+    "3": {
+     "sg": "chuťiľas",
+     "pl": "chuťile"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "chuťavas",
+     "pl": "chuťahas"
+    },
+    "2": {
+     "sg": "chuťehas",
+     "pl": "chuťenas"
+    },
+    "3": {
+     "sg": "chuťelas",
+     "pl": "chuťenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "chuťiľomas",
+     "pl": "chuťiľamas"
+    },
+    "2": {
+     "sg": "chuťiľalas",
+     "pl": "chuťiľanas"
+    },
+    "3": {
+     "sg": "chuťiľahas",
+     "pl": "chuťilehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "chuťi!",
+     "pl": "chuťen!"
+    }
+   }
+  },
+  "ušťel": {
+   "pres": {
+    "1": {
+     "sg": "ušťav",
+     "pl": "ušťas"
+    },
+    "2": {
+     "sg": "ušťes",
+     "pl": "ušťen"
+    },
+    "3": {
+     "sg": "ušťel",
+     "pl": "ušťen"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "ušťava",
+     "pl": "ušťaha"
+    },
+    "2": {
+     "sg": "ušťeha",
+     "pl": "ušťena"
+    },
+    "3": {
+     "sg": "ušťela",
+     "pl": "ušťena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "ušťavas",
+     "pl": "ušťahas"
+    },
+    "2": {
+     "sg": "ušťehas",
+     "pl": "ušťenas"
+    },
+    "3": {
+     "sg": "ušťelas",
+     "pl": "ušťenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "ušťiľom",
+     "pl": "ušťiľam"
+    },
+    "2": {
+     "sg": "ušťiľal",
+     "pl": "ušťiľan"
+    },
+    "3": {
+     "sg": "ušťiľas",
+     "pl": "ušťile"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "ušťavas",
+     "pl": "ušťahas"
+    },
+    "2": {
+     "sg": "ušťehas",
+     "pl": "ušťenas"
+    },
+    "3": {
+     "sg": "ušťelas",
+     "pl": "ušťenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "ušťiľomas",
+     "pl": "ušťiľamas"
+    },
+    "2": {
+     "sg": "ušťiľalas",
+     "pl": "ušťiľanas"
+    },
+    "3": {
+     "sg": "ušťiľahas",
+     "pl": "ušťilehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "ušťi!",
+     "pl": "ušťen!"
+    }
+   }
+  },
+  "urel": {
+   "pres": {
+    "1": {
+     "sg": "urav",
+     "pl": "uras"
+    },
+    "2": {
+     "sg": "ures",
+     "pl": "uren"
+    },
+    "3": {
+     "sg": "urel",
+     "pl": "uren"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "urava",
+     "pl": "uraha"
+    },
+    "2": {
+     "sg": "ureha",
+     "pl": "urena"
+    },
+    "3": {
+     "sg": "urela",
+     "pl": "urena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "uravas",
+     "pl": "urahas"
+    },
+    "2": {
+     "sg": "urehas",
+     "pl": "urenas"
+    },
+    "3": {
+     "sg": "urelas",
+     "pl": "urenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "urďom",
+     "pl": "urďam"
+    },
+    "2": {
+     "sg": "urďal",
+     "pl": "urďan"
+    },
+    "3": {
+     "sg": "urďas",
+     "pl": "urde"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "uravas",
+     "pl": "urahas"
+    },
+    "2": {
+     "sg": "urehas",
+     "pl": "urenas"
+    },
+    "3": {
+     "sg": "urelas",
+     "pl": "urenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "urďomas",
+     "pl": "urďamas"
+    },
+    "2": {
+     "sg": "urďalas",
+     "pl": "urďanas"
+    },
+    "3": {
+     "sg": "urďahas",
+     "pl": "urdehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "uri!",
+     "pl": "uren!"
+    }
+   }
+  },
+  "sikhadel": {
+   "pres": {
+    "1": {
+     "sg": "sikhadav",
+     "pl": "sikhadas"
+    },
+    "2": {
+     "sg": "sikhades",
+     "pl": "sikhaden"
+    },
+    "3": {
+     "sg": "sikhadel",
+     "pl": "sikhaden"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "sikhadava",
+     "pl": "sikhadaha"
+    },
+    "2": {
+     "sg": "sikhadeha",
+     "pl": "sikhadena"
+    },
+    "3": {
+     "sg": "sikhadela",
+     "pl": "sikhadena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "sikhadavas",
+     "pl": "sikhadahas"
+    },
+    "2": {
+     "sg": "sikhadehas",
+     "pl": "sikhadenas"
+    },
+    "3": {
+     "sg": "sikhadelas",
+     "pl": "sikhadenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "sikhadňom",
+     "pl": "sikhadňam"
+    },
+    "2": {
+     "sg": "sikhadňal",
+     "pl": "sikhadňan"
+    },
+    "3": {
+     "sg": "sikhadňas",
+     "pl": "sikhadne"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "sikhadavas",
+     "pl": "sikhadahas"
+    },
+    "2": {
+     "sg": "sikhadehas",
+     "pl": "sikhadenas"
+    },
+    "3": {
+     "sg": "sikhadelas",
+     "pl": "sikhadenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "sikhadňomas",
+     "pl": "sikhadňamas"
+    },
+    "2": {
+     "sg": "sikhadňalas",
+     "pl": "sikhadňanas"
+    },
+    "3": {
+     "sg": "sikhadňahas",
+     "pl": "sikhadnehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "sikhade!",
+     "pl": "sikhaden!"
+    }
+   }
+  },
+  "bešel": {
+   "pres": {
+    "1": {
+     "sg": "bešav",
+     "pl": "bešas"
+    },
+    "2": {
+     "sg": "bešes",
+     "pl": "bešen"
+    },
+    "3": {
+     "sg": "bešel",
+     "pl": "bešen"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "bešava",
+     "pl": "bešaha"
+    },
+    "2": {
+     "sg": "bešeha",
+     "pl": "bešena"
+    },
+    "3": {
+     "sg": "bešela",
+     "pl": "bešena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "bešavas",
+     "pl": "bešahas"
+    },
+    "2": {
+     "sg": "bešehas",
+     "pl": "bešenas"
+    },
+    "3": {
+     "sg": "bešelas",
+     "pl": "bešenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "bešťom",
+     "pl": "bešťam"
+    },
+    "2": {
+     "sg": "bešťal",
+     "pl": "bešťan"
+    },
+    "3": {
+     "sg": "bešťas",
+     "pl": "bešte"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "bešavas",
+     "pl": "bešahas"
+    },
+    "2": {
+     "sg": "bešehas",
+     "pl": "bešenas"
+    },
+    "3": {
+     "sg": "bešelas",
+     "pl": "bešenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "bešťomas",
+     "pl": "bešťamas"
+    },
+    "2": {
+     "sg": "bešťalas",
+     "pl": "bešťanas"
+    },
+    "3": {
+     "sg": "bešťahas",
+     "pl": "beštehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "beš!",
+     "pl": "bešen!"
+    }
+   }
+  },
+  "lel": {
+   "pres": {
+    "1": {
+     "sg": "lav",
+     "pl": "las"
+    },
+    "2": {
+     "sg": "les",
+     "pl": "len"
+    },
+    "3": {
+     "sg": "lel",
+     "pl": "len"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "lava",
+     "pl": "laha"
+    },
+    "2": {
+     "sg": "leha",
+     "pl": "lena"
+    },
+    "3": {
+     "sg": "lela",
+     "pl": "lena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "lavas",
+     "pl": "lahas"
+    },
+    "2": {
+     "sg": "lehas",
+     "pl": "lenas"
+    },
+    "3": {
+     "sg": "lelas",
+     "pl": "lenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "lďom",
+     "pl": "lďam"
+    },
+    "2": {
+     "sg": "lďal",
+     "pl": "lďan"
+    },
+    "3": {
+     "sg": "lďas",
+     "pl": "lde"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "lavas",
+     "pl": "lahas"
+    },
+    "2": {
+     "sg": "lehas",
+     "pl": "lenas"
+    },
+    "3": {
+     "sg": "lelas",
+     "pl": "lenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "lďomas",
+     "pl": "lďamas"
+    },
+    "2": {
+     "sg": "lďalas",
+     "pl": "lďanas"
+    },
+    "3": {
+     "sg": "lďahas",
+     "pl": "ldehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "l!",
+     "pl": "len!"
+    }
+   }
+  },
+  "pačal": {
+   "pres": {
+    "1": {
+     "sg": "pačav",
+     "pl": "pačas"
+    },
+    "2": {
+     "sg": "pačas",
+     "pl": "pačan"
+    },
+    "3": {
+     "sg": "pačal",
+     "pl": "pačan"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "pačava",
+     "pl": "pačaha"
+    },
+    "2": {
+     "sg": "pačaha",
+     "pl": "pačana"
+    },
+    "3": {
+     "sg": "pačala",
+     "pl": "pačana"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "pačavas",
+     "pl": "pačahas"
+    },
+    "2": {
+     "sg": "pačahas",
+     "pl": "pačanas"
+    },
+    "3": {
+     "sg": "pačalas",
+     "pl": "pačanas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "pačanďom",
+     "pl": "pačanďam"
+    },
+    "2": {
+     "sg": "pačanďal",
+     "pl": "pačanďan"
+    },
+    "3": {
+     "sg": "pačanďas",
+     "pl": "pačande"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "pačavas",
+     "pl": "pačahas"
+    },
+    "2": {
+     "sg": "pačahas",
+     "pl": "pačanas"
+    },
+    "3": {
+     "sg": "pačalas",
+     "pl": "pačanas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "pačanďomas",
+     "pl": "pačanďamas"
+    },
+    "2": {
+     "sg": "pačanďalas",
+     "pl": "pačanďanas"
+    },
+    "3": {
+     "sg": "pačanďahas",
+     "pl": "pačandehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "pača!",
+     "pl": "pačan!"
+    }
+   }
+  },
+  "ladžal pes": {
+   "pres": {
+    "1": {
+     "sg": "ladžav man",
+     "pl": "ladžas amen"
+    },
+    "2": {
+     "sg": "ladžas tut",
+     "pl": "ladžan tumen"
+    },
+    "3": {
+     "sg": "ladžal pes",
+     "pl": "ladžan pen"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "ladžava man",
+     "pl": "ladžaha amen"
+    },
+    "2": {
+     "sg": "ladžaha tut",
+     "pl": "ladžana tumen"
+    },
+    "3": {
+     "sg": "ladžala pes",
+     "pl": "ladžana pen"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "ladžavas man",
+     "pl": "ladžahas amen"
+    },
+    "2": {
+     "sg": "ladžahas tut",
+     "pl": "ladžanas tumen"
+    },
+    "3": {
+     "sg": "ladžalas pes",
+     "pl": "ladžanas pen"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "ladžanďom man",
+     "pl": "ladžanďam amen"
+    },
+    "2": {
+     "sg": "ladžanďal tut",
+     "pl": "ladžanďan tumen"
+    },
+    "3": {
+     "sg": "ladžanďas pes",
+     "pl": "ladžande pen"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "ladžavas man",
+     "pl": "ladžahas amen"
+    },
+    "2": {
+     "sg": "ladžahas tut",
+     "pl": "ladžanas tumen"
+    },
+    "3": {
+     "sg": "ladžalas pes",
+     "pl": "ladžanas pen"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "ladžanďomas man",
+     "pl": "ladžanďamas amen"
+    },
+    "2": {
+     "sg": "ladžanďalas tut",
+     "pl": "ladžanďanas tumen"
+    },
+    "3": {
+     "sg": "ladžanďahas pes",
+     "pl": "ladžandehas pen"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "ladža tut!",
+     "pl": "ladžan tumen!"
+    }
+   }
+  },
+  "ťidel": {
+   "pres": {
+    "1": {
+     "sg": "ťidav",
+     "pl": "ťidas"
+    },
+    "2": {
+     "sg": "ťides",
+     "pl": "ťiden"
+    },
+    "3": {
+     "sg": "ťidel",
+     "pl": "ťiden"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "ťidava",
+     "pl": "ťidaha"
+    },
+    "2": {
+     "sg": "ťideha",
+     "pl": "ťidena"
+    },
+    "3": {
+     "sg": "ťidela",
+     "pl": "ťidena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "ťidavas",
+     "pl": "ťidahas"
+    },
+    "2": {
+     "sg": "ťidehas",
+     "pl": "ťidenas"
+    },
+    "3": {
+     "sg": "ťidelas",
+     "pl": "ťidenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "ťidňom",
+     "pl": "ťidňam"
+    },
+    "2": {
+     "sg": "ťidňal",
+     "pl": "ťidňan"
+    },
+    "3": {
+     "sg": "ťidňas",
+     "pl": "ťidne"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "ťidavas",
+     "pl": "ťidahas"
+    },
+    "2": {
+     "sg": "ťidehas",
+     "pl": "ťidenas"
+    },
+    "3": {
+     "sg": "ťidelas",
+     "pl": "ťidenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "ťidňomas",
+     "pl": "ťidňamas"
+    },
+    "2": {
+     "sg": "ťidňalas",
+     "pl": "ťidňanas"
+    },
+    "3": {
+     "sg": "ťidňahas",
+     "pl": "ťidnehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "ťide!",
+     "pl": "ťiden!"
+    }
+   }
+  },
+  "bisterel": {
+   "pres": {
+    "1": {
+     "sg": "bisterav",
+     "pl": "bisteras"
+    },
+    "2": {
+     "sg": "bisteres",
+     "pl": "bisteren"
+    },
+    "3": {
+     "sg": "bisterel",
+     "pl": "bisteren"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "bisterava",
+     "pl": "bisteraha"
+    },
+    "2": {
+     "sg": "bistereha",
+     "pl": "bisterena"
+    },
+    "3": {
+     "sg": "bisterela",
+     "pl": "bisterena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "bisteravas",
+     "pl": "bisterahas"
+    },
+    "2": {
+     "sg": "bisterehas",
+     "pl": "bisterenas"
+    },
+    "3": {
+     "sg": "bisterelas",
+     "pl": "bisterenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "bisterďom",
+     "pl": "bisterďam"
+    },
+    "2": {
+     "sg": "bisterďal",
+     "pl": "bisterďan"
+    },
+    "3": {
+     "sg": "bisterďas",
+     "pl": "bisterde"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "bisteravas",
+     "pl": "bisterahas"
+    },
+    "2": {
+     "sg": "bisterehas",
+     "pl": "bisterenas"
+    },
+    "3": {
+     "sg": "bisterelas",
+     "pl": "bisterenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "bisterďomas",
+     "pl": "bisterďamas"
+    },
+    "2": {
+     "sg": "bisterďalas",
+     "pl": "bisterďanas"
+    },
+    "3": {
+     "sg": "bisterďahas",
+     "pl": "bisterdehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "bister!",
+     "pl": "bisteren!"
+    }
+   }
+  },
+  "mukel": {
+   "pres": {
+    "1": {
+     "sg": "mukav",
+     "pl": "mukas"
+    },
+    "2": {
+     "sg": "mukes",
+     "pl": "muken"
+    },
+    "3": {
+     "sg": "mukel",
+     "pl": "muken"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "mukava",
+     "pl": "mukaha"
+    },
+    "2": {
+     "sg": "mukeha",
+     "pl": "mukena"
+    },
+    "3": {
+     "sg": "mukela",
+     "pl": "mukena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "mukavas",
+     "pl": "mukahas"
+    },
+    "2": {
+     "sg": "mukehas",
+     "pl": "mukenas"
+    },
+    "3": {
+     "sg": "mukelas",
+     "pl": "mukenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "mukľom",
+     "pl": "mukľam"
+    },
+    "2": {
+     "sg": "mukľal",
+     "pl": "mukľan"
+    },
+    "3": {
+     "sg": "mukľas",
+     "pl": "mukle"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "mukavas",
+     "pl": "mukahas"
+    },
+    "2": {
+     "sg": "mukehas",
+     "pl": "mukenas"
+    },
+    "3": {
+     "sg": "mukelas",
+     "pl": "mukenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "mukľomas",
+     "pl": "mukľamas"
+    },
+    "2": {
+     "sg": "mukľalas",
+     "pl": "mukľanas"
+    },
+    "3": {
+     "sg": "mukľahas",
+     "pl": "muklehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "muk!",
+     "pl": "muken!"
+    }
+   }
+  },
+  "dživel": {
+   "pres": {
+    "1": {
+     "sg": "dživav",
+     "pl": "dživas"
+    },
+    "2": {
+     "sg": "džives",
+     "pl": "dživen"
+    },
+    "3": {
+     "sg": "dživel",
+     "pl": "dživen"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "dživava",
+     "pl": "dživaha"
+    },
+    "2": {
+     "sg": "dživeha",
+     "pl": "dživena"
+    },
+    "3": {
+     "sg": "dživela",
+     "pl": "dživena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "dživavas",
+     "pl": "dživahas"
+    },
+    "2": {
+     "sg": "dživehas",
+     "pl": "dživenas"
+    },
+    "3": {
+     "sg": "dživelas",
+     "pl": "dživenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "dživďom",
+     "pl": "dživďam"
+    },
+    "2": {
+     "sg": "dživďal",
+     "pl": "dživďan"
+    },
+    "3": {
+     "sg": "dživďas",
+     "pl": "dživde"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "dživavas",
+     "pl": "dživahas"
+    },
+    "2": {
+     "sg": "dživehas",
+     "pl": "dživenas"
+    },
+    "3": {
+     "sg": "dživelas",
+     "pl": "dživenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "dživďomas",
+     "pl": "dživďamas"
+    },
+    "2": {
+     "sg": "dživďalas",
+     "pl": "dživďanas"
+    },
+    "3": {
+     "sg": "dživďahas",
+     "pl": "dživdehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "dživ!",
+     "pl": "dživen!"
+    }
+   }
+  },
+  "rodel": {
+   "pres": {
+    "1": {
+     "sg": "rodav",
+     "pl": "rodas"
+    },
+    "2": {
+     "sg": "rodes",
+     "pl": "roden"
+    },
+    "3": {
+     "sg": "rodel",
+     "pl": "roden"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "rodava",
+     "pl": "rodaha"
+    },
+    "2": {
+     "sg": "rodeha",
+     "pl": "rodena"
+    },
+    "3": {
+     "sg": "rodela",
+     "pl": "rodena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "rodavas",
+     "pl": "rodahas"
+    },
+    "2": {
+     "sg": "rodehas",
+     "pl": "rodenas"
+    },
+    "3": {
+     "sg": "rodelas",
+     "pl": "rodenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "rodňom",
+     "pl": "rodňam"
+    },
+    "2": {
+     "sg": "rodňal",
+     "pl": "rodňan"
+    },
+    "3": {
+     "sg": "rodňas",
+     "pl": "rodne"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "rodavas",
+     "pl": "rodahas"
+    },
+    "2": {
+     "sg": "rodehas",
+     "pl": "rodenas"
+    },
+    "3": {
+     "sg": "rodelas",
+     "pl": "rodenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "rodňomas",
+     "pl": "rodňamas"
+    },
+    "2": {
+     "sg": "rodňalas",
+     "pl": "rodňanas"
+    },
+    "3": {
+     "sg": "rodňahas",
+     "pl": "rodnehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "rode!",
+     "pl": "roden!"
+    }
+   }
+  },
+  "pijel": {
+   "pres": {
+    "1": {
+     "sg": "pijav",
+     "pl": "pijas"
+    },
+    "2": {
+     "sg": "pijes",
+     "pl": "pijen"
+    },
+    "3": {
+     "sg": "pijel",
+     "pl": "pijen"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "pijava",
+     "pl": "pijaha"
+    },
+    "2": {
+     "sg": "pijeha",
+     "pl": "pijena"
+    },
+    "3": {
+     "sg": "pijela",
+     "pl": "pijena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "pijavas",
+     "pl": "pijahas"
+    },
+    "2": {
+     "sg": "pijehas",
+     "pl": "pijenas"
+    },
+    "3": {
+     "sg": "pijelas",
+     "pl": "pijenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "pijľom",
+     "pl": "pijľam"
+    },
+    "2": {
+     "sg": "pijľal",
+     "pl": "pijľan"
+    },
+    "3": {
+     "sg": "pijľas",
+     "pl": "pijle"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "pijavas",
+     "pl": "pijahas"
+    },
+    "2": {
+     "sg": "pijehas",
+     "pl": "pijenas"
+    },
+    "3": {
+     "sg": "pijelas",
+     "pl": "pijenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "pijľomas",
+     "pl": "pijľamas"
+    },
+    "2": {
+     "sg": "pijľalas",
+     "pl": "pijľanas"
+    },
+    "3": {
+     "sg": "pijľahas",
+     "pl": "pijlehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "pij!",
+     "pl": "pijen!"
+    }
+   }
+  },
+  "sovel": {
+   "pres": {
+    "1": {
+     "sg": "sovav",
+     "pl": "sovas"
+    },
+    "2": {
+     "sg": "soves",
+     "pl": "soven"
+    },
+    "3": {
+     "sg": "sovel",
+     "pl": "soven"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "sovava",
+     "pl": "sovaha"
+    },
+    "2": {
+     "sg": "soveha",
+     "pl": "sovena"
+    },
+    "3": {
+     "sg": "sovela",
+     "pl": "sovena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "sovavas",
+     "pl": "sovahas"
+    },
+    "2": {
+     "sg": "sovehas",
+     "pl": "sovenas"
+    },
+    "3": {
+     "sg": "sovelas",
+     "pl": "sovenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "sovďom",
+     "pl": "sovďam"
+    },
+    "2": {
+     "sg": "sovďal",
+     "pl": "sovďan"
+    },
+    "3": {
+     "sg": "sovďas",
+     "pl": "sovde"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "sovavas",
+     "pl": "sovahas"
+    },
+    "2": {
+     "sg": "sovehas",
+     "pl": "sovenas"
+    },
+    "3": {
+     "sg": "sovelas",
+     "pl": "sovenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "sovďomas",
+     "pl": "sovďamas"
+    },
+    "2": {
+     "sg": "sovďalas",
+     "pl": "sovďanas"
+    },
+    "3": {
+     "sg": "sovďahas",
+     "pl": "sovdehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "sov!",
+     "pl": "soven!"
+    }
+   }
+  },
+  "avel": {
+   "pres": {
+    "1": {
+     "sg": "avav",
+     "pl": "avas"
+    },
+    "2": {
+     "sg": "aves",
+     "pl": "aven"
+    },
+    "3": {
+     "sg": "avel",
+     "pl": "aven"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "avava",
+     "pl": "avaha"
+    },
+    "2": {
+     "sg": "aveha",
+     "pl": "avena"
+    },
+    "3": {
+     "sg": "avela",
+     "pl": "avena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "avavas",
+     "pl": "avahas"
+    },
+    "2": {
+     "sg": "avehas",
+     "pl": "avenas"
+    },
+    "3": {
+     "sg": "avelas",
+     "pl": "avenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "avďom",
+     "pl": "avďam"
+    },
+    "2": {
+     "sg": "avďal",
+     "pl": "avďan"
+    },
+    "3": {
+     "sg": "avďas",
+     "pl": "avde"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "avavas",
+     "pl": "avahas"
+    },
+    "2": {
+     "sg": "avehas",
+     "pl": "avenas"
+    },
+    "3": {
+     "sg": "avelas",
+     "pl": "avenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "avďomas",
+     "pl": "avďamas"
+    },
+    "2": {
+     "sg": "avďalas",
+     "pl": "avďanas"
+    },
+    "3": {
+     "sg": "avďahas",
+     "pl": "avdehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "av!",
+     "pl": "aven!"
+    }
+   }
+  },
+  "ačhol": {
+   "pres": {
+    "1": {
+     "sg": "ačhuvav",
+     "pl": "ačhuvas"
+    },
+    "2": {
+     "sg": "ačhos",
+     "pl": "ačhon"
+    },
+    "3": {
+     "sg": "ačhol",
+     "pl": "ačhon"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "ačhuvava",
+     "pl": "ačhuvaha"
+    },
+    "2": {
+     "sg": "ačhoha",
+     "pl": "ačhona"
+    },
+    "3": {
+     "sg": "ačhola",
+     "pl": "ačhona"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "ačhuvavas",
+     "pl": "ačhuvahas"
+    },
+    "2": {
+     "sg": "ačhohas",
+     "pl": "ačhonas"
+    },
+    "3": {
+     "sg": "ačholas",
+     "pl": "ačhonas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "ačhiľom",
+     "pl": "ačhiľam"
+    },
+    "2": {
+     "sg": "ačhiľal",
+     "pl": "ačhiľan"
+    },
+    "3": {
+     "sg": "ačhiľas",
+     "pl": "ačhile"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "ačhuvavas",
+     "pl": "ačhuvahas"
+    },
+    "2": {
+     "sg": "ačhohas",
+     "pl": "ačhonas"
+    },
+    "3": {
+     "sg": "ačholas",
+     "pl": "ačhonas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "ačhiľomas",
+     "pl": "ačhiľamas"
+    },
+    "2": {
+     "sg": "ačhiľalas",
+     "pl": "ačhiľanas"
+    },
+    "3": {
+     "sg": "ačhiľahas",
+     "pl": "ačhilehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "ačhuv!",
+     "pl": "ačhon!"
+    }
+   }
+  },
+  "rovel": {
+   "pres": {
+    "1": {
+     "sg": "rovav",
+     "pl": "rovas"
+    },
+    "2": {
+     "sg": "roves",
+     "pl": "roven"
+    },
+    "3": {
+     "sg": "rovel",
+     "pl": "roven"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "rovava",
+     "pl": "rovaha"
+    },
+    "2": {
+     "sg": "roveha",
+     "pl": "rovena"
+    },
+    "3": {
+     "sg": "rovela",
+     "pl": "rovena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "rovavas",
+     "pl": "rovahas"
+    },
+    "2": {
+     "sg": "rovehas",
+     "pl": "rovenas"
+    },
+    "3": {
+     "sg": "rovelas",
+     "pl": "rovenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "rovďom",
+     "pl": "rovďam"
+    },
+    "2": {
+     "sg": "rovďal",
+     "pl": "rovďan"
+    },
+    "3": {
+     "sg": "rovďas",
+     "pl": "rovde"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "rovavas",
+     "pl": "rovahas"
+    },
+    "2": {
+     "sg": "rovehas",
+     "pl": "rovenas"
+    },
+    "3": {
+     "sg": "rovelas",
+     "pl": "rovenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "rovďomas",
+     "pl": "rovďamas"
+    },
+    "2": {
+     "sg": "rovďalas",
+     "pl": "rovďanas"
+    },
+    "3": {
+     "sg": "rovďahas",
+     "pl": "rovdehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "rov!",
+     "pl": "roven!"
+    }
+   }
+  },
+  "darav": null,
+  "dikhel pes": {
+   "pres": {
+    "1": {
+     "sg": "dikhav man",
+     "pl": "dikhas amen"
+    },
+    "2": {
+     "sg": "dikhes tut",
+     "pl": "dikhen tumen"
+    },
+    "3": {
+     "sg": "dikhel pes",
+     "pl": "dikhen pen"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "dikhava man",
+     "pl": "dikhaha amen"
+    },
+    "2": {
+     "sg": "dikheha tut",
+     "pl": "dikhena tumen"
+    },
+    "3": {
+     "sg": "dikhela pes",
+     "pl": "dikhena pen"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "dikhavas man",
+     "pl": "dikhahas amen"
+    },
+    "2": {
+     "sg": "dikhehas tut",
+     "pl": "dikhenas tumen"
+    },
+    "3": {
+     "sg": "dikhelas pes",
+     "pl": "dikhenas pen"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "dikhľom man",
+     "pl": "dikhľam amen"
+    },
+    "2": {
+     "sg": "dikhľal tut",
+     "pl": "dikhľan tumen"
+    },
+    "3": {
+     "sg": "dikhľas pes",
+     "pl": "dikhle pen"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "dikhavas man",
+     "pl": "dikhahas amen"
+    },
+    "2": {
+     "sg": "dikhehas tut",
+     "pl": "dikhenas tumen"
+    },
+    "3": {
+     "sg": "dikhelas pes",
+     "pl": "dikhenas pen"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "dikhľomas man",
+     "pl": "dikhľamas amen"
+    },
+    "2": {
+     "sg": "dikhľalas tut",
+     "pl": "dikhľanas tumen"
+    },
+    "3": {
+     "sg": "dikhľahas pes",
+     "pl": "dikhlehas pen"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "dikh tut!",
+     "pl": "dikhen tumen!"
+    }
+   }
+  },
+  "pes dikhel": {
+   "pres": {
+    "1": {
+     "sg": "man dikhav",
+     "pl": "amen dikhas"
+    },
+    "2": {
+     "sg": "tut dikhes",
+     "pl": "tumen dikhen"
+    },
+    "3": {
+     "sg": "pes dikhel",
+     "pl": "pen dikhen"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "man dikhava",
+     "pl": "amen dikhaha"
+    },
+    "2": {
+     "sg": "tut dikheha",
+     "pl": "tumen dikhena"
+    },
+    "3": {
+     "sg": "pes dikhela",
+     "pl": "pen dikhena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "man dikhavas",
+     "pl": "amen dikhahas"
+    },
+    "2": {
+     "sg": "tut dikhehas",
+     "pl": "tumen dikhenas"
+    },
+    "3": {
+     "sg": "pes dikhelas",
+     "pl": "pen dikhenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "man dikhľom",
+     "pl": "amen dikhľam"
+    },
+    "2": {
+     "sg": "tut dikhľal",
+     "pl": "tumen dikhľan"
+    },
+    "3": {
+     "sg": "pes dikhľas",
+     "pl": "pen dikhle"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "man dikhavas",
+     "pl": "amen dikhahas"
+    },
+    "2": {
+     "sg": "tut dikhehas",
+     "pl": "tumen dikhenas"
+    },
+    "3": {
+     "sg": "pes dikhelas",
+     "pl": "pen dikhenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "man dikhľomas",
+     "pl": "amen dikhľamas"
+    },
+    "2": {
+     "sg": "tut dikhľalas",
+     "pl": "tumen dikhľanas"
+    },
+    "3": {
+     "sg": "pes dikhľahas",
+     "pl": "pen dikhlehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "tut dikh!",
+     "pl": "tumen dikhen!"
+    }
+   }
+  },
+  "kerel buťi": {
+   "pres": {
+    "1": {
+     "sg": "kerav buťi",
+     "pl": "keras buťi"
+    },
+    "2": {
+     "sg": "keres buťi",
+     "pl": "keren buťi"
+    },
+    "3": {
+     "sg": "kerel buťi",
+     "pl": "keren buťi"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "kerava buťi",
+     "pl": "keraha buťi"
+    },
+    "2": {
+     "sg": "kereha buťi",
+     "pl": "kerena buťi"
+    },
+    "3": {
+     "sg": "kerela buťi",
+     "pl": "kerena buťi"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "keravas buťi",
+     "pl": "kerahas buťi"
+    },
+    "2": {
+     "sg": "kerehas buťi",
+     "pl": "kerenas buťi"
+    },
+    "3": {
+     "sg": "kerelas buťi",
+     "pl": "kerenas buťi"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "kerďom buťi",
+     "pl": "kerďam buťi"
+    },
+    "2": {
+     "sg": "kerďal buťi",
+     "pl": "kerďan buťi"
+    },
+    "3": {
+     "sg": "kerďas buťi",
+     "pl": "kerde buťi"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "keravas buťi",
+     "pl": "kerahas buťi"
+    },
+    "2": {
+     "sg": "kerehas buťi",
+     "pl": "kerenas buťi"
+    },
+    "3": {
+     "sg": "kerelas buťi",
+     "pl": "kerenas buťi"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "kerďomas buťi",
+     "pl": "kerďamas buťi"
+    },
+    "2": {
+     "sg": "kerďalas buťi",
+     "pl": "kerďanas buťi"
+    },
+    "3": {
+     "sg": "kerďahas buťi",
+     "pl": "kerdehas buťi"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "ker buťi!",
+     "pl": "keren buťi!"
+    }
+   }
+  },
+  "pratel": {
+   "pres": {
+    "1": {
+     "sg": "pratav",
+     "pl": "pratas"
+    },
+    "2": {
+     "sg": "prates",
+     "pl": "praten"
+    },
+    "3": {
+     "sg": "pratel",
+     "pl": "praten"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "pratava",
+     "pl": "prataha"
+    },
+    "2": {
+     "sg": "prateha",
+     "pl": "pratena"
+    },
+    "3": {
+     "sg": "pratela",
+     "pl": "pratena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "pratavas",
+     "pl": "pratahas"
+    },
+    "2": {
+     "sg": "pratehas",
+     "pl": "pratenas"
+    },
+    "3": {
+     "sg": "pratelas",
+     "pl": "pratenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "xxxom",
+     "pl": "xxxam"
+    },
+    "2": {
+     "sg": "xxxal",
+     "pl": "xxxan"
+    },
+    "3": {
+     "sg": "xxxas",
+     "pl": "xxxe"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "pratavas",
+     "pl": "pratahas"
+    },
+    "2": {
+     "sg": "pratehas",
+     "pl": "pratenas"
+    },
+    "3": {
+     "sg": "pratelas",
+     "pl": "pratenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "xxxomas",
+     "pl": "xxxamas"
+    },
+    "2": {
+     "sg": "xxxalas",
+     "pl": "xxxanas"
+    },
+    "3": {
+     "sg": "xxxahas",
+     "pl": "xxxehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "prat!",
+     "pl": "praten!"
+    }
+   }
+  },
+  "bal kerel": {
+   "pres": {
+    "1": {
+     "sg": "bal kerav",
+     "pl": "bal keras"
+    },
+    "2": {
+     "sg": "bal keres",
+     "pl": "bal keren"
+    },
+    "3": {
+     "sg": "bal kerel",
+     "pl": "bal keren"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "bal kerava",
+     "pl": "bal keraha"
+    },
+    "2": {
+     "sg": "bal kereha",
+     "pl": "bal kerena"
+    },
+    "3": {
+     "sg": "bal kerela",
+     "pl": "bal kerena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "bal keravas",
+     "pl": "bal kerahas"
+    },
+    "2": {
+     "sg": "bal kerehas",
+     "pl": "bal kerenas"
+    },
+    "3": {
+     "sg": "bal kerelas",
+     "pl": "bal kerenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "bal kerďom",
+     "pl": "bal kerďam"
+    },
+    "2": {
+     "sg": "bal kerďal",
+     "pl": "bal kerďan"
+    },
+    "3": {
+     "sg": "bal kerďas",
+     "pl": "bal kerde"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "bal keravas",
+     "pl": "bal kerahas"
+    },
+    "2": {
+     "sg": "bal kerehas",
+     "pl": "bal kerenas"
+    },
+    "3": {
+     "sg": "bal kerelas",
+     "pl": "bal kerenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "bal kerďomas",
+     "pl": "bal kerďamas"
+    },
+    "2": {
+     "sg": "bal kerďalas",
+     "pl": "bal kerďanas"
+    },
+    "3": {
+     "sg": "bal kerďahas",
+     "pl": "bal kerdehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "bal ker!",
+     "pl": "bal keren!"
+    }
+   }
+  },
+  "lil ginel": {
+   "pres": {
+    "1": {
+     "sg": "lil ginav",
+     "pl": "lil ginas"
+    },
+    "2": {
+     "sg": "lil gines",
+     "pl": "lil ginen"
+    },
+    "3": {
+     "sg": "lil ginel",
+     "pl": "lil ginen"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "lil ginava",
+     "pl": "lil ginaha"
+    },
+    "2": {
+     "sg": "lil gineha",
+     "pl": "lil ginena"
+    },
+    "3": {
+     "sg": "lil ginela",
+     "pl": "lil ginena"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "lil ginavas",
+     "pl": "lil ginahas"
+    },
+    "2": {
+     "sg": "lil ginehas",
+     "pl": "lil ginenas"
+    },
+    "3": {
+     "sg": "lil ginelas",
+     "pl": "lil ginenas"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "lil ginďom",
+     "pl": "lil ginďam"
+    },
+    "2": {
+     "sg": "lil ginďal",
+     "pl": "lil ginďan"
+    },
+    "3": {
+     "sg": "lil ginďas",
+     "pl": "lil ginde"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "lil ginavas",
+     "pl": "lil ginahas"
+    },
+    "2": {
+     "sg": "lil ginehas",
+     "pl": "lil ginenas"
+    },
+    "3": {
+     "sg": "lil ginelas",
+     "pl": "lil ginenas"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "lil ginďomas",
+     "pl": "lil ginďamas"
+    },
+    "2": {
+     "sg": "lil ginďalas",
+     "pl": "lil ginďanas"
+    },
+    "3": {
+     "sg": "lil ginďahas",
+     "pl": "lil gindehas"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "lil gin!",
+     "pl": "lil ginen!"
+    }
+   }
+  },
+  "kerel lačho buťi": {
+   "pres": {
+    "1": {
+     "sg": "kerav lačho buťi",
+     "pl": "keras lačho buťi"
+    },
+    "2": {
+     "sg": "keres lačho buťi",
+     "pl": "keren lačho buťi"
+    },
+    "3": {
+     "sg": "kerel lačho buťi",
+     "pl": "keren lačho buťi"
+    }
+   },
+   "fut": {
+    "1": {
+     "sg": "kerava lačho buťi",
+     "pl": "keraha lačho buťi"
+    },
+    "2": {
+     "sg": "kereha lačho buťi",
+     "pl": "kerena lačho buťi"
+    },
+    "3": {
+     "sg": "kerela lačho buťi",
+     "pl": "kerena lačho buťi"
+    }
+   },
+   "impf": {
+    "1": {
+     "sg": "keravas lačho buťi",
+     "pl": "kerahas lačho buťi"
+    },
+    "2": {
+     "sg": "kerehas lačho buťi",
+     "pl": "kerenas lačho buťi"
+    },
+    "3": {
+     "sg": "kerelas lačho buťi",
+     "pl": "kerenas lačho buťi"
+    }
+   },
+   "perf": {
+    "1": {
+     "sg": "kerďom lačho buťi",
+     "pl": "kerďam lačho buťi"
+    },
+    "2": {
+     "sg": "kerďal lačho buťi",
+     "pl": "kerďan lačho buťi"
+    },
+    "3": {
+     "sg": "kerďas lačho buťi",
+     "pl": "kerde lačho buťi"
+    }
+   },
+   "cond_pres": {
+    "1": {
+     "sg": "keravas lačho buťi",
+     "pl": "kerahas lačho buťi"
+    },
+    "2": {
+     "sg": "kerehas lačho buťi",
+     "pl": "kerenas lačho buťi"
+    },
+    "3": {
+     "sg": "kerelas lačho buťi",
+     "pl": "kerenas lačho buťi"
+    }
+   },
+   "cond_perf": {
+    "1": {
+     "sg": "kerďomas lačho buťi",
+     "pl": "kerďamas lačho buťi"
+    },
+    "2": {
+     "sg": "kerďalas lačho buťi",
+     "pl": "kerďanas lačho buťi"
+    },
+    "3": {
+     "sg": "kerďahas lačho buťi",
+     "pl": "kerdehas lačho buťi"
+    }
+   },
+   "imper": {
+    "2": {
+     "sg": "ker lačho buťi!",
+     "pl": "keren lačho buťi!"
+    }
+   }
+  }
+ }
+}

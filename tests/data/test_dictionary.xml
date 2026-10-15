@@ -1,0 +1,15 @@
+<root>
+<!-- Small hand-made dictionary for the tests. Same structure as the SRO export. -->
+<Lemma><lemmaSK>dom</lemmaSK><Sense><Definition><lemmaROM> kher</lemmaROM></Definition> <posROM>(podstatné meno, mužský rod)</posROM></Sense></Lemma>
+<Lemma><lemmaSK>bozkávať</lemmaSK><Sense><Definition><lemmaROM> čambel</lemmaROM></Definition> <posROM>(sloveso, regionálny výraz)</posROM></Sense></Lemma>
+<Lemma><lemmaSK>žila</lemmaSK><Sense><Definition><lemmaROM> žila</lemmaROM></Definition> <posROM>(podstatné meno, ženský rod)</posROM></Sense></Lemma>
+<Lemma><lemmaSK>pšenica</lemmaSK><Sense><Definition><lemmaROM> arminakeri zumin / jarminakeri zumin</lemmaROM></Definition> <posROM>(slovné spojenie, ženský rod)</posROM></Sense></Lemma>
+<Lemma><lemmaSK>hrachová polievka</lemmaSK><Sense><Definition><lemmaROM> grisoskeri zamiška</lemmaROM></Definition> <posROM>(slovné spojenie)</posROM></Sense></Lemma>
+<Lemma><lemmaSK>žena</lemmaSK><Sense><Definition><lemmaROM> džuvľi</lemmaROM></Definition> <posROM>(podstatné meno, ženský rod)</posROM></Sense></Lemma>
+<Lemma><lemmaSK>vidieť sa</lemmaSK><Sense><Definition><lemmaROM> dikhel pes</lemmaROM></Definition> <posROM>(sloveso)</posROM></Sense></Lemma>
+<Lemma><lemmaSK>nohavice</lemmaSK><Sense><Definition><lemmaROM> kalki</lemmaROM></Definition> <posROM>(podstatné meno, množné číslo)</posROM></Sense></Lemma>
+<Lemma><lemmaSK>bez slovného druhu</lemmaSK><Sense><Definition><lemmaROM> bipos</lemmaROM></Definition></Sense></Lemma>
+<Lemma><lemmaSK>prázdne heslo</lemmaSK><Sense><Definition><lemmaROM></lemmaROM></Definition> <posROM>(podstatné meno, mužský rod)</posROM></Sense></Lemma>
+<Lemma><lemmaSK>dvojité heslo</lemmaSK><Sense><Definition><lemmaROM> kher</lemmaROM></Definition> <posROM>(sloveso)</posROM></Sense></Lemma>
+<Lemma><lemmaSK>sloveso bez -l</lemmaSK><Sense><Definition><lemmaROM> bisloveso</lemmaROM></Definition> <posROM>(sloveso)</posROM></Sense></Lemma>
+</root>

@@ -1,0 +1,38 @@
+[build-system]
+requires = ["setuptools>=64"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "roma-paradigm-generator"
+dynamic = ["version"]
+description = "Offline generator of East Slovak Romani noun and verb paradigms, an extension of romskyslovnik.online"
+readme = "README.md"
+requires-python = ">=3.9"
+dependencies = []  # standard library only; the window needs Tk (tkinter)
+keywords = ["romani", "roma-language", "linguistics", "paradigms"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "Topic :: Text Processing :: Linguistic",
+    "Natural Language :: Slovak",
+]
+
+[project.urls]
+Repository = "https://github.com/ingMychal/roma-paradigm-generator"
+
+[project.scripts]
+roma-paradigm-generator = "roma_paradigm_generator.cli:main"
+
+[tool.setuptools]
+packages = ["roma_paradigm_generator"]
+
+[tool.setuptools.dynamic]
+version = { attr = "roma_paradigm_generator.__version__" }
+
+[tool.setuptools.package-data]
+# Only the sample is packaged. The full SRO.xml is not ours to distribute.
+roma_paradigm_generator = ["data/SRO.sample.xml"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["."]
+addopts = "-ra"
