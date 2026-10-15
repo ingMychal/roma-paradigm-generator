@@ -1,4 +1,4 @@
-input_word,input_gender,expected_obl_sg,expected_obl_pl,expected_gender,expected_noun_type
+word,gender,expected_obl_sg,expected_obl_pl,expected_gender,expected_noun_type
 mas,other,mases,masen,masculine,oiko
 kher,masculine,kheres,kheren,masculine,oiko
 sudcas,masculine,sudcas,sudcen,masculine,xeno
